@@ -2,6 +2,10 @@
 	box-sizing: border-box;
 }
 
+#mobile-only {
+	display: none;
+}
+
 i em {
 	font-style: normal;
 }
@@ -10,6 +14,12 @@ h1 {
 	font: bold 52px 'Noto Serif', sans-serif;
 	text-align: center;
 	font-weight: bold;
+}
+
+h4 {
+	font-size: 20px;
+	margin: 0;
+	margin-bottom: 5px;
 }
 
 .textBlock {
@@ -215,4 +225,32 @@ div.tooltip p {
 	width: auto;
 	max-width: 200px;
 	min-width: 150px;
+}
+
+@media all and (max-device-width: 480px) {
+
+	.section {
+		display: none;
+	}
+
+	#intro, #conclusion {
+		display: block;
+	}
+
+	img {
+		width: 100%;
+	}
+
+	h1 {
+		font-size: 30px;
+	}
+
+	.textBlock {
+		width: 100%;
+	}
+
+	#mobile-only {
+		display: block;
+	}
+
 }

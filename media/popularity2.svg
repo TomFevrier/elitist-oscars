@@ -1,0 +1,3263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg615"
+   version="1.1"
+   viewBox="0 0 1200 800">
+  <metadata
+     id="metadata619">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <marker
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerHeight="30"
+       markerWidth="30"
+       refY="6"
+       refX="6"
+       id="triangleBlack">
+      <path
+         id="path2"
+         fill="black"
+         d="M 0 0 12 6 0 12 3 6" />
+    </marker>
+  </defs>
+  <defs
+     id="defs10">
+    <marker
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerHeight="30"
+       markerWidth="30"
+       refY="6"
+       refX="6"
+       id="triangleBlue">
+      <path
+         id="path7"
+         fill="#0000BB"
+         d="M 0 0 12 6 0 12 3 6" />
+    </marker>
+  </defs>
+  <g
+     id="g98"
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="10"
+     fill="none"
+     style="stroke-dasharray: 5, 5;"
+     transform="translate(60, 0)"
+     class="grid">
+    <path
+       id="path12"
+       style="opacity: 0;"
+       d="M1080,60.5H0.5V740.5H1080"
+       stroke="currentColor"
+       class="domain" />
+    <g
+       id="g18"
+       transform="translate(0,104.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line14"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text16"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g24"
+       transform="translate(0,153.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line20"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text22"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g30"
+       transform="translate(0,202.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line26"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text28"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g36"
+       transform="translate(0,251.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line32"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text34"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g42"
+       transform="translate(0,300.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line38"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text40"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g48"
+       transform="translate(0,349.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line44"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text46"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g54"
+       transform="translate(0,398.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line50"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text52"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g60"
+       transform="translate(0,446.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line56"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text58"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g66"
+       transform="translate(0,495.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line62"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text64"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g72"
+       transform="translate(0,544.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line68"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text70"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g78"
+       transform="translate(0,593.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line74"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text76"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g84"
+       transform="translate(0,642.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line80"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text82"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g90"
+       transform="translate(0,691.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line86"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text88"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g96"
+       transform="translate(0,740.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line92"
+         x2="1080"
+         stroke="currentColor" />
+      <text
+         id="text94"
+         dy="0.32em"
+         x="1083"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="g102"
+     style="stroke-dasharray: 5, 5;"
+     transform="translate(60, 60)"
+     class="grid">
+    <line
+       id="line100"
+       x2="1080"
+       stroke="currentColor" />
+  </g>
+  <g
+     id="g160"
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10"
+     fill="none"
+     transform="translate(0, 740)"
+     class="xAxis">
+    <path
+       id="path104"
+       marker-end="url(#triangleBlack)"
+       d="M60.5,0.5H1140.5"
+       stroke="currentColor"
+       class="domain" />
+    <g
+       id="g110"
+       transform="translate(85.5, 0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line106"
+         y2="6"
+         stroke="currentColor" />
+      <text
+         id="text108"
+         dy="0.71em"
+         y="9"
+         fill="currentColor">1975</text>
+    </g>
+    <g
+       id="g116"
+       transform="translate(207.5, 0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line112"
+         y2="6"
+         stroke="currentColor" />
+      <text
+         id="text114"
+         dy="0.71em"
+         y="9"
+         fill="currentColor">1980</text>
+    </g>
+    <g
+       id="g122"
+       transform="translate(330.5, 0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line118"
+         y2="6"
+         stroke="currentColor" />
+      <text
+         id="text120"
+         dy="0.71em"
+         y="9"
+         fill="currentColor">1985</text>
+    </g>
+    <g
+       id="g128"
+       transform="translate(453.5, 0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line124"
+         y2="6"
+         stroke="currentColor" />
+      <text
+         id="text126"
+         dy="0.71em"
+         y="9"
+         fill="currentColor">1990</text>
+    </g>
+    <g
+       id="g134"
+       transform="translate(575.5, 0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line130"
+         y2="6"
+         stroke="currentColor" />
+      <text
+         id="text132"
+         dy="0.71em"
+         y="9"
+         fill="currentColor">1995</text>
+    </g>
+    <g
+       id="g140"
+       transform="translate(698.5, 0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line136"
+         y2="6"
+         stroke="currentColor" />
+      <text
+         id="text138"
+         dy="0.71em"
+         y="9"
+         fill="currentColor">2000</text>
+    </g>
+    <g
+       id="g146"
+       transform="translate(821.5, 0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line142"
+         y2="6"
+         stroke="currentColor" />
+      <text
+         id="text144"
+         dy="0.71em"
+         y="9"
+         fill="currentColor">2005</text>
+    </g>
+    <g
+       id="g152"
+       transform="translate(944.5, 0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line148"
+         y2="6"
+         stroke="currentColor" />
+      <text
+         id="text150"
+         dy="0.71em"
+         y="9"
+         fill="currentColor">2010</text>
+    </g>
+    <g
+       id="g158"
+       transform="translate(1066.5, 0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line154"
+         y2="6"
+         stroke="currentColor" />
+      <text
+         id="text156"
+         dy="0.71em"
+         y="9"
+         fill="currentColor">2015</text>
+    </g>
+  </g>
+  <g
+     id="g254"
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10"
+     fill="none"
+     transform="translate(60, 0)"
+     class="yAxis">
+    <path
+       id="path162"
+       d="M-6,60.5H0.5V740.5H-6"
+       stroke="currentColor"
+       class="domain" />
+    <g
+       id="g168"
+       transform="translate(0,104.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line164"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text166"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">10ᵉ</text>
+    </g>
+    <g
+       id="g174"
+       transform="translate(0,153.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line170"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text172"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">20ᵉ</text>
+    </g>
+    <g
+       id="g180"
+       transform="translate(0,202.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line176"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text178"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">30ᵉ</text>
+    </g>
+    <g
+       id="g186"
+       transform="translate(0,251.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line182"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text184"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">40ᵉ</text>
+    </g>
+    <g
+       id="g192"
+       transform="translate(0,300.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line188"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text190"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">50ᵉ</text>
+    </g>
+    <g
+       id="g198"
+       transform="translate(0,349.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line194"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text196"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">60ᵉ</text>
+    </g>
+    <g
+       id="g204"
+       transform="translate(0,398.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line200"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text202"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">70ᵉ</text>
+    </g>
+    <g
+       id="g210"
+       transform="translate(0,446.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line206"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text208"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">80ᵉ</text>
+    </g>
+    <g
+       id="g216"
+       transform="translate(0,495.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line212"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text214"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">90ᵉ</text>
+    </g>
+    <g
+       id="g222"
+       transform="translate(0,544.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line218"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text220"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">100ᵉ</text>
+    </g>
+    <g
+       id="g228"
+       transform="translate(0,593.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line224"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text226"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">110ᵉ</text>
+    </g>
+    <g
+       id="g234"
+       transform="translate(0,642.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line230"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text232"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">120ᵉ</text>
+    </g>
+    <g
+       id="g240"
+       transform="translate(0,691.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line236"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text238"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">130ᵉ</text>
+    </g>
+    <g
+       id="g246"
+       transform="translate(0,740.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line242"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text244"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">140ᵉ</text>
+    </g>
+    <g
+       id="g252"
+       transform="translate(0, 60)"
+       class="tick">
+      <line
+         id="line248"
+         stroke="currentColor"
+         x2="-6" />
+      <text
+         id="text250"
+         fill="currentColor"
+         x="-9">1ᵉʳ</text>
+    </g>
+  </g>
+  <g
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="10"
+     fill="none"
+     style="color: rgb(0, 0, 187); opacity: 1;"
+     transform="translate(1140, 0)"
+     id="audienceAxis"
+     class="yAxis">
+    <path
+       id="path256"
+       marker-end="url(#triangleBlue)"
+       d="M0.5,740.5V60.5"
+       stroke="currentColor"
+       class="domain" />
+    <g
+       id="g262"
+       transform="translate(0,740.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line258"
+         x2="6"
+         stroke="currentColor" />
+      <text
+         id="text260"
+         dy="0.32em"
+         x="9"
+         fill="currentColor">0</text>
+    </g>
+    <g
+       id="g268"
+       transform="translate(0,679.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line264"
+         x2="6"
+         stroke="currentColor" />
+      <text
+         id="text266"
+         dy="0.32em"
+         x="9"
+         fill="currentColor">5M</text>
+    </g>
+    <g
+       id="g274"
+       transform="translate(0,619.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line270"
+         x2="6"
+         stroke="currentColor" />
+      <text
+         id="text272"
+         dy="0.32em"
+         x="9"
+         fill="currentColor">10M</text>
+    </g>
+    <g
+       id="g280"
+       transform="translate(0,558.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line276"
+         x2="6"
+         stroke="currentColor" />
+      <text
+         id="text278"
+         dy="0.32em"
+         x="9"
+         fill="currentColor">15M</text>
+    </g>
+    <g
+       id="g286"
+       transform="translate(0,497.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line282"
+         x2="6"
+         stroke="currentColor" />
+      <text
+         id="text284"
+         dy="0.32em"
+         x="9"
+         fill="currentColor">20M</text>
+    </g>
+    <g
+       id="g292"
+       transform="translate(0,436.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line288"
+         x2="6"
+         stroke="currentColor" />
+      <text
+         id="text290"
+         dy="0.32em"
+         x="9"
+         fill="currentColor">25M</text>
+    </g>
+    <g
+       id="g298"
+       transform="translate(0,376.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line294"
+         x2="6"
+         stroke="currentColor" />
+      <text
+         id="text296"
+         dy="0.32em"
+         x="9"
+         fill="currentColor">30M</text>
+    </g>
+    <g
+       id="g304"
+       transform="translate(0,315.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line300"
+         x2="6"
+         stroke="currentColor" />
+      <text
+         id="text302"
+         dy="0.32em"
+         x="9"
+         fill="currentColor">35M</text>
+    </g>
+    <g
+       id="g310"
+       transform="translate(0,254.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line306"
+         x2="6"
+         stroke="currentColor" />
+      <text
+         id="text308"
+         dy="0.32em"
+         x="9"
+         fill="currentColor">40M</text>
+    </g>
+    <g
+       id="g316"
+       transform="translate(0,194.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line312"
+         x2="6"
+         stroke="currentColor" />
+      <text
+         id="text314"
+         dy="0.32em"
+         x="9"
+         fill="currentColor">45M</text>
+    </g>
+    <g
+       id="g322"
+       transform="translate(0,133.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line318"
+         x2="6"
+         stroke="currentColor" />
+      <text
+         id="text320"
+         dy="0.32em"
+         x="9"
+         fill="currentColor">50M</text>
+    </g>
+    <g
+       id="g328"
+       transform="translate(0,72.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line324"
+         x2="6"
+         stroke="currentColor" />
+      <text
+         id="text326"
+         dy="0.32em"
+         x="9"
+         fill="currentColor">55M</text>
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     id="audience">
+    <path
+       id="path331"
+       d="M1140,418C1140,418,1126.3223130888073,356.83893729513056,1115,341C1108.1076205627703,331.3581569539491,1098.5265430507657,330.7036139615394,1091,323C1081.987861553791,313.77584023777297,1073.2605044444663,302.743493286602,1066,288C1055.9405974679628,267.57294361119017,1051.660601087462,210.2267868890191,1042,209C1034.6324913991727,208.0644098773563,1026.7436650597413,241.3414784854123,1017,250C1009.7753682498704,256.42003076459724,1000.8283413313208,256.30941419333266,993,261C984.4624986037276,266.11550035682956,975.4102038544514,281.65721565756326,968,280C958.4746774525161,277.86975986368464,951.6260775821019,233.56593838862892,944,234C935.1647693834226,234.50288426743356,927.5894955651423,278.6720775077415,919,299C911.2106595494165,317.4342733219222,902.2467821514173,351.6724424339623,895,351C885.3237701690889,350.1021245839708,883.0662557865708,257.3940487145012,870,252C863.0180544587952,249.117693470385,852.4679089131369,268.8224644476037,845,267C835.6406887909592,264.71595876021854,830.2447217350534,237.67543472745552,821,228C813.4884288579675,220.13846361542696,802.877038412554,208.13985447107825,796,211C781.7267996084839,216.93619343592377,780.5811784959726,338.8014455363857,772,339C764.1526901634363,339.18157394070585,760.3198836897157,250.99612316560837,747,233C740.2721789530075,223.91022872134138,730.2619380884532,226.19805131170588,723,219C713.368315362873,209.45304994455321,707.9073584985134,180.47739433074995,698,177C690.8254414651375,174.48179404444602,680.6891771835061,189.66090092717957,674,186C659.5482110519691,178.09072115929234,656.4828885564785,68.69750039632613,649,69C639.680994104835,69.37672558780545,636.9685089008714,251.33004398970783,625,253C618.0174268552461,253.97427257538635,608.9869944304025,212.37821464117638,600,195C592.1636596666252,179.84681331792063,583.2619731293648,154.01690710477027,575,154C566.931950389074,153.98348973569293,560.7112612001574,189.40308697750268,551,193C543.6475711043489,195.72323508725356,533.990722372872,183.88085982043174,526,185C517.6235101220481,186.17316882613622,509.9561034455895,195.18235512199493,502,201C493.6179440390414,207.12910896168074,484.8749098062919,213.2547094859539,477,221C468.46099860318253,229.39845130230617,461.1726906050489,249.84667133799218,453,250C444.8388690994172,250.15311178924165,437.19932679710035,225.03093862315671,428,222C420.5655830083059,219.5505531983187,410.89454626387595,221.26762690987897,404,227C392.6939864231518,236.40022526559036,390.264100239392,282.30044575649436,379,288C372.0997959826787,291.4914539334836,362.8763161727234,285.12521993879983,355,282C346.5234119984704,278.6365999974564,337.5499470555723,275.1132068639613,330,268C320.4001257045517,258.9554476039472,311.9793792441949,246.83606931568752,305,229C292.99244442085546,198.31423467212704,290.3467221267016,94.53020607811446,281,94C273.5274550621097,93.5761092828753,264.33640808380454,150.6352046904438,256,178C248.0028295973796,204.25122581852716,239.5630892973729,255.29764242682137,232,255C223.05558686579369,254.64799611282092,218.43565890058983,147.34980691101362,207,145C200.1221879357344,143.58674253387963,191.397725492111,177.50328732801475,183,178C175.02532889395718,178.47168964941838,164.97649572486424,149.12051950093837,158,151C145.95646615020522,154.2445496855684,142.641428816528,257.7309327637568,134,258C126.19053263029221,258.2431625424814,121.01007396859815,188.3739928769531,109,172C102.18416003557307,162.70759136706587,92.32695831814367,154.3798829923589,85,156C75.54617159809128,158.09040471041388,60,197,60,197L60,740C60,740,76.751709536137,740.0000000000001,85,740C93.08164115469151,740,100.9183588453085,740,109,740C117.24829046386304,740.0000000000001,125.75170953613701,740.0000000000001,134,740C142.0816411546915,740,149.9183588453085,740,158,740C166.24829046386304,740.0000000000001,174.751709536137,740.0000000000001,183,740C191.0816411546915,740,198.91835884530852,740,207,740C215.24829046386307,740.0000000000001,223.75170953613704,740.0000000000001,232,740C240.0816411546915,740,247.9183588453085,740,256,740C264.24829046386304,740.0000000000001,272.75170953613707,740.0000000000001,281,740C289.0816411546915,740,296.9183588453085,740,305,740C313.24829046386304,740.0000000000001,321.6666666666667,740,330,740C338.3333333333333,740,346.75170953613707,740.0000000000001,355,740C363.0816411546915,740,370.9183588453085,740,379,740C387.2482904638631,740.0000000000001,395.75170953613707,740.0000000000001,404,740C412.0816411546915,740,419.91835884530843,740,428,740C436.2482904638631,740.0000000000001,444.75170953613707,740.0000000000001,453,740C461.0816411546915,740,468.9183588453085,740,477,740C485.24829046386316,740.0000000000001,493.75170953613707,740.0000000000001,502,740C510.08164115469145,740,517.9183588453085,740,526,740C534.2482904638631,740.0000000000001,542.751709536137,740.0000000000001,551,740C559.0816411546915,740,566.9183588453085,740,575,740C583.2482904638631,740.0000000000001,591.6666666666666,740,600,740C608.3333333333334,740,616.7517095361371,740.0000000000001,625,740C633.0816411546915,740,640.9183588453085,740,649,740C657.2482904638631,740.0000000000001,665.7517095361371,740.0000000000001,674,740C682.0816411546915,740,689.9183588453085,740,698,740C706.2482904638632,740.0000000000001,714.7517095361371,740.0000000000001,723,740C731.0816411546915,740,738.9183588453085,740,747,740C755.2482904638632,740.0000000000001,763.7517095361371,740.0000000000001,772,740C780.0816411546915,740,787.9183588453086,740,796,740C804.2482904638632,740.0000000000001,812.751709536137,740.0000000000001,821,740C829.0816411546915,740,836.9183588453085,740,845,740C853.2482904638632,740.0000000000001,861.6666666666666,740,870,740C878.3333333333334,740,886.7517095361371,740.0000000000001,895,740C903.0816411546914,740,910.9183588453086,740,919,740C927.2482904638632,740.0000000000001,935.7517095361372,740.0000000000001,944,740C952.0816411546915,740,959.9183588453085,740,968,740C976.2482904638632,740.0000000000001,984.7517095361371,740.0000000000001,993,740C1001.0816411546914,740,1008.9183588453085,740,1017,740C1025.2482904638632,740.0000000000001,1033.7517095361372,740.0000000000001,1042,740C1050.0816411546914,740,1057.9183588453084,740,1066,740C1074.2482904638632,740.0000000000001,1082.7517095361372,740.0000000000001,1091,740C1099.0816411546916,740,1106.9183588453086,740,1115,740C1123.2482904638632,740.0000000000001,1140,740,1140,740Z"
+       style="fill: rgb(51, 165, 255); opacity: 0.4;"
+       class="area" />
+    <path
+       id="path333"
+       d="M1140,418C1140,418,1126.3223130888073,356.83893729513056,1115,341C1108.1076205627703,331.3581569539491,1098.5265430507657,330.7036139615394,1091,323C1081.987861553791,313.77584023777297,1073.2605044444663,302.743493286602,1066,288C1055.9405974679628,267.57294361119017,1051.660601087462,210.2267868890191,1042,209C1034.6324913991727,208.0644098773563,1026.7436650597413,241.3414784854123,1017,250C1009.7753682498704,256.42003076459724,1000.8283413313208,256.30941419333266,993,261C984.4624986037276,266.11550035682956,975.4102038544514,281.65721565756326,968,280C958.4746774525161,277.86975986368464,951.6260775821019,233.56593838862892,944,234C935.1647693834226,234.50288426743356,927.5894955651423,278.6720775077415,919,299C911.2106595494165,317.4342733219222,902.2467821514173,351.6724424339623,895,351C885.3237701690889,350.1021245839708,883.0662557865708,257.3940487145012,870,252C863.0180544587952,249.117693470385,852.4679089131369,268.8224644476037,845,267C835.6406887909592,264.71595876021854,830.2447217350534,237.67543472745552,821,228C813.4884288579675,220.13846361542696,802.877038412554,208.13985447107825,796,211C781.7267996084839,216.93619343592377,780.5811784959726,338.8014455363857,772,339C764.1526901634363,339.18157394070585,760.3198836897157,250.99612316560837,747,233C740.2721789530075,223.91022872134138,730.2619380884532,226.19805131170588,723,219C713.368315362873,209.45304994455321,707.9073584985134,180.47739433074995,698,177C690.8254414651375,174.48179404444602,680.6891771835061,189.66090092717957,674,186C659.5482110519691,178.09072115929234,656.4828885564785,68.69750039632613,649,69C639.680994104835,69.37672558780545,636.9685089008714,251.33004398970783,625,253C618.0174268552461,253.97427257538635,608.9869944304025,212.37821464117638,600,195C592.1636596666252,179.84681331792063,583.2619731293648,154.01690710477027,575,154C566.931950389074,153.98348973569293,560.7112612001574,189.40308697750268,551,193C543.6475711043489,195.72323508725356,533.990722372872,183.88085982043174,526,185C517.6235101220481,186.17316882613622,509.9561034455895,195.18235512199493,502,201C493.6179440390414,207.12910896168074,484.8749098062919,213.2547094859539,477,221C468.46099860318253,229.39845130230617,461.1726906050489,249.84667133799218,453,250C444.8388690994172,250.15311178924165,437.19932679710035,225.03093862315671,428,222C420.5655830083059,219.5505531983187,410.89454626387595,221.26762690987897,404,227C392.6939864231518,236.40022526559036,390.264100239392,282.30044575649436,379,288C372.0997959826787,291.4914539334836,362.8763161727234,285.12521993879983,355,282C346.5234119984704,278.6365999974564,337.5499470555723,275.1132068639613,330,268C320.4001257045517,258.9554476039472,311.9793792441949,246.83606931568752,305,229C292.99244442085546,198.31423467212704,290.3467221267016,94.53020607811446,281,94C273.5274550621097,93.5761092828753,264.33640808380454,150.6352046904438,256,178C248.0028295973796,204.25122581852716,239.5630892973729,255.29764242682137,232,255C223.05558686579369,254.64799611282092,218.43565890058983,147.34980691101362,207,145C200.1221879357344,143.58674253387963,191.397725492111,177.50328732801475,183,178C175.02532889395718,178.47168964941838,164.97649572486424,149.12051950093837,158,151C145.95646615020522,154.2445496855684,142.641428816528,257.7309327637568,134,258C126.19053263029221,258.2431625424814,121.01007396859815,188.3739928769531,109,172C102.18416003557307,162.70759136706587,92.32695831814367,154.3798829923589,85,156C75.54617159809128,158.09040471041388,60,197,60,197"
+       style="stroke: rgb(0, 0, 187); stroke-width: 3; fill: none; opacity: 0.8;"
+       class="line" />
+  </g>
+  <text
+     id="text336"
+     style="font-style: italic;"
+     text-anchor="middle"
+     y="35"
+     x="60">Rang au box office</text>
+  <text
+     id="text338"
+     style="font-style: italic;"
+     text-anchor="middle"
+     y="770"
+     x="1140">Année</text>
+  <g
+     id="g354"
+     style="opacity: 1;"
+     class="legend">
+    <circle
+       id="circle340"
+       fill="#DBA520"
+       r="8"
+       cy="15"
+       cx="480" />
+    <text
+       id="text342"
+       alignment-baseline="central"
+       text-anchor="start"
+       y="20"
+       x="500">Films récompensés</text>
+    <circle
+       id="circle344"
+       fill="#FFE333"
+       r="8"
+       cy="15"
+       cx="680" />
+    <text
+       id="text346"
+       alignment-baseline="central"
+       text-anchor="start"
+       y="20"
+       x="700">Films nommés</text>
+    <g
+       id="g352"
+       style="opacity: 1;"
+       class="legend-audience">
+      <rect
+         id="rect348"
+         fill="#0000BB"
+         height="3"
+         width="40"
+         y="13"
+         x="850" />
+      <text
+         id="text350"
+         alignment-baseline="central"
+         text-anchor="start"
+         y="20"
+         x="900">Nombre de téléspectateurs pour la cérémonie</text>
+    </g>
+  </g>
+  <g
+     id="g613">
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="309"
+       cx="1140"
+       fill="#FFE333"
+       id="id-3-billboards-les-panneaux-de-la-vengeance" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="564"
+       cx="1140"
+       fill="#FFE333"
+       id="id-call-me-by-your-name" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="124"
+       cx="1140"
+       fill="#FFE333"
+       id="id-dunkerque" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="128"
+       cx="1140"
+       fill="#FFE333"
+       id="id-get-out" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="329"
+       cx="1140"
+       fill="#FFE333"
+       id="id-lady-bird" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="300"
+       cx="1140"
+       fill="#FFE333"
+       id="id-les-heures-sombres" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="241"
+       cx="1140"
+       fill="#FFE333"
+       id="id-pentagon-papers" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="530"
+       cx="1140"
+       fill="#FFE333"
+       id="id-phantom-thread" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="539"
+       cx="1115"
+       fill="#FFE333"
+       id="id-comancheria" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="339"
+       cx="1115"
+       fill="#FFE333"
+       id="id-fences" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="148"
+       cx="1115"
+       fill="#FFE333"
+       id="id-la-la-land" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="124"
+       cx="1115"
+       fill="#FFE333"
+       id="id-les-figures-de-l-ombre" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="383"
+       cx="1115"
+       fill="#FFE333"
+       id="id-lion" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="398"
+       cx="1115"
+       fill="#FFE333"
+       id="id-manchester-by-the-sea" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="202"
+       cx="1115"
+       fill="#FFE333"
+       id="id-premier-contact" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="285"
+       cx="1115"
+       fill="#FFE333"
+       id="id-tu-ne-tueras-point" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="383"
+       cx="1091"
+       fill="#FFE333"
+       id="id-brooklyn" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="246"
+       cx="1091"
+       fill="#FFE333"
+       id="id-le-pont-des-espions" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="158"
+       cx="1091"
+       fill="#FFE333"
+       id="id-mad-max-fury-road" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="564"
+       cx="1091"
+       fill="#FFE333"
+       id="id-room" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="94"
+       cx="1091"
+       fill="#FFE333"
+       id="id-seul-sur-mars" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="256"
+       cx="1091"
+       fill="#FFE333"
+       id="id-the-big-short-le-casse-du-siècle" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="119"
+       cx="1091"
+       fill="#FFE333"
+       id="id-the-revenant" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="60"
+       cx="1066"
+       fill="#FFE333"
+       id="id-american-sniper" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="574"
+       cx="1066"
+       fill="#FFE333"
+       id="id-boyhood" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="236"
+       cx="1066"
+       fill="#FFE333"
+       id="id-imitation-game" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="368"
+       cx="1066"
+       fill="#FFE333"
+       id="id-selma" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="339"
+       cx="1066"
+       fill="#FFE333"
+       id="id-the-grand-budapest-hotel" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="486"
+       cx="1066"
+       fill="#FFE333"
+       id="id-une-merveilleuse-histoire-du-temps" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="696"
+       cx="1066"
+       fill="#FFE333"
+       id="id-whiplash" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="138"
+       cx="1042"
+       fill="#FFE333"
+       id="id-american-bluff" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="212"
+       cx="1042"
+       fill="#FFE333"
+       id="id-capitaine-phillips" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="510"
+       cx="1042"
+       fill="#FFE333"
+       id="id-dallas-buyers-club" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="84"
+       cx="1042"
+       fill="#FFE333"
+       id="id-gravity" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="535"
+       cx="1042"
+       fill="#FFE333"
+       id="id-her" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="192"
+       cx="1042"
+       fill="#FFE333"
+       id="id-le-loup-de-wall-street" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="598"
+       cx="1042"
+       fill="#FFE333"
+       id="id-nebraska" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="442"
+       cx="1042"
+       fill="#FFE333"
+       id="id-philomena" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="691"
+       cx="1017"
+       fill="#FFE333"
+       id="id-amour" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="128"
+       cx="1017"
+       fill="#FFE333"
+       id="id-django-unchained" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="168"
+       cx="1017"
+       fill="#FFE333"
+       id="id-happiness-therapy" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="187"
+       cx="1017"
+       fill="#FFE333"
+       id="id-l-odyssée-de-pi" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="143"
+       cx="1017"
+       fill="#FFE333"
+       id="id-les-misérables" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="637"
+       cx="1017"
+       fill="#FFE333"
+       id="id-les-bêtes-du-sud-sauvage" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="119"
+       cx="1017"
+       fill="#FFE333"
+       id="id-lincoln" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="212"
+       cx="1017"
+       fill="#FFE333"
+       id="id-zero-dark-thirty" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="251"
+       cx="993"
+       fill="#FFE333"
+       id="id-cheval-de-guerre" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="535"
+       cx="993"
+       fill="#FFE333"
+       id="id-extrêmement-fort-et-incroyablement-près" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="290"
+       cx="993"
+       fill="#FFE333"
+       id="id-hugo-cabret" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="119"
+       cx="993"
+       fill="#FFE333"
+       id="id-la-couleur-des-sentiments" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="280"
+       cx="993"
+       fill="#FFE333"
+       id="id-le-stratège" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="334"
+       cx="993"
+       fill="#FFE333"
+       id="id-minuit-à-paris" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="241"
+       cx="993"
+       fill="#FFE333"
+       id="id-the-descendants" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="701"
+       cx="993"
+       fill="#FFE333"
+       id="id-the-tree-of-life-l-arbre-de-vie" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="632"
+       cx="968"
+       fill="#FFE333"
+       id="id-127-heures" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="173"
+       cx="968"
+       fill="#FFE333"
+       id="id-black-swan" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="221"
+       cx="968"
+       fill="#FFE333"
+       id="id-fighter" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="84"
+       cx="968"
+       fill="#FFE333"
+       id="id-inception" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="207"
+       cx="968"
+       fill="#FFE333"
+       id="id-the-social-network" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="608"
+       cx="968"
+       fill="#FFE333"
+       id="id-tout-va-bien-the-kids-are-all-right" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="60"
+       cx="968"
+       fill="#FFE333"
+       id="id-toy-story-3" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="119"
+       cx="968"
+       fill="#FFE333"
+       id="id-true-grit" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="725"
+       cx="968"
+       fill="#FFE333"
+       id="id-winter-s-bone" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="740"
+       cx="944"
+       fill="#FFE333"
+       id="id-a-serious-man" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="60"
+       cx="944"
+       fill="#FFE333"
+       id="id-avatar" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="177"
+       cx="944"
+       fill="#FFE333"
+       id="id-district-9" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="226"
+       cx="944"
+       fill="#FFE333"
+       id="id-in-the-air" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="168"
+       cx="944"
+       fill="#FFE333"
+       id="id-inglourious-basterds" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="80"
+       cx="944"
+       fill="#FFE333"
+       id="id-là-haut" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="354"
+       cx="944"
+       fill="#FFE333"
+       id="id-precious" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="94"
+       cx="944"
+       fill="#FFE333"
+       id="id-the-blind-side-l-éveil-d-un-champion" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="676"
+       cx="944"
+       fill="#FFE333"
+       id="id-une-éducation" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="642"
+       cx="919"
+       fill="#FFE333"
+       id="id-frost/nixon-l-heure-de-vérité" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="491"
+       cx="919"
+       fill="#FFE333"
+       id="id-harvey-milk" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="158"
+       cx="919"
+       fill="#FFE333"
+       id="id-l-étrange-histoire-de-benjamin-button" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="456"
+       cx="919"
+       fill="#FFE333"
+       id="id-the-reader" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="124"
+       cx="895"
+       fill="#FFE333"
+       id="id-juno" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="324"
+       cx="895"
+       fill="#FFE333"
+       id="id-michael-clayton" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="300"
+       cx="895"
+       fill="#FFE333"
+       id="id-reviens-moi" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="378"
+       cx="895"
+       fill="#FFE333"
+       id="id-there-will-be-blood" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="491"
+       cx="870"
+       fill="#FFE333"
+       id="id-babel" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="711"
+       cx="870"
+       fill="#FFE333"
+       id="id-lettres-d-iwo-jima" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="300"
+       cx="870"
+       fill="#FFE333"
+       id="id-little-miss-sunshine" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="329"
+       cx="870"
+       fill="#FFE333"
+       id="id-the-queen" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="491"
+       cx="845"
+       fill="#FFE333"
+       id="id-good-night-and-good-luck" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="163"
+       cx="845"
+       fill="#FFE333"
+       id="id-le-secret-de-brokeback-mountain" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="354"
+       cx="845"
+       fill="#FFE333"
+       id="id-munich" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="520"
+       cx="845"
+       fill="#FFE333"
+       id="id-truman-capote" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="158"
+       cx="821"
+       fill="#FFE333"
+       id="id-aviator" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="349"
+       cx="821"
+       fill="#FFE333"
+       id="id-neverland" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="231"
+       cx="821"
+       fill="#FFE333"
+       id="id-ray" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="246"
+       cx="821"
+       fill="#FFE333"
+       id="id-sideways" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="373"
+       cx="796"
+       fill="#FFE333"
+       id="id-lost-in-translation" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="207"
+       cx="796"
+       fill="#FFE333"
+       id="id-master-and-commander-de-l-autre-côté-du-monde" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="217"
+       cx="796"
+       fill="#FFE333"
+       id="id-mystic-river" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="138"
+       cx="796"
+       fill="#FFE333"
+       id="id-pur-sang-la-légende-de-seabiscuit" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="221"
+       cx="772"
+       fill="#FFE333"
+       id="id-gangs-of-new-york" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="446"
+       cx="772"
+       fill="#FFE333"
+       id="id-le-pianiste" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="65"
+       cx="772"
+       fill="#FFE333"
+       id="id-le-seigneur-des-anneaux-les-deux-tours" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="334"
+       cx="772"
+       fill="#FFE333"
+       id="id-the-hours" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="339"
+       cx="747"
+       fill="#FFE333"
+       id="id-gosford-park" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="383"
+       cx="747"
+       fill="#FFE333"
+       id="id-in-the-bedroom" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="65"
+       cx="747"
+       fill="#FFE333"
+       id="id-le-seigneur-des-anneaux-la-communauté-de-l-anneau" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="261"
+       cx="747"
+       fill="#FFE333"
+       id="id-moulin-rouge" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="119"
+       cx="723"
+       fill="#FFE333"
+       id="id-erin-brockovich-seule-contre-tous" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="212"
+       cx="723"
+       fill="#FFE333"
+       id="id-le-chocolat" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="114"
+       cx="723"
+       fill="#FFE333"
+       id="id-tigre-et-dragon" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="128"
+       cx="723"
+       fill="#FFE333"
+       id="id-traffic" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="256"
+       cx="698"
+       fill="#FFE333"
+       id="id-l-oeuvre-de-dieu-la-part-du-diable" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="114"
+       cx="698"
+       fill="#FFE333"
+       id="id-la-ligne-verte" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="398"
+       cx="698"
+       fill="#FFE333"
+       id="id-révélations" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="65"
+       cx="698"
+       fill="#FFE333"
+       id="id-sixième-sens" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="358"
+       cx="674"
+       fill="#FFE333"
+       id="id-elizabeth" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="60"
+       cx="674"
+       fill="#FFE333"
+       id="id-il-faut-sauver-le-soldat-ryan" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="334"
+       cx="674"
+       fill="#FFE333"
+       id="id-la-ligne-rouge" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="207"
+       cx="674"
+       fill="#FFE333"
+       id="id-la-vie-est-belle" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="163"
+       cx="649"
+       fill="#FFE333"
+       id="id-l-a-confidential" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="84"
+       cx="649"
+       fill="#FFE333"
+       id="id-pour-le-pire-et-pour-le-meilleur" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="265"
+       cx="649"
+       fill="#FFE333"
+       id="id-the-full-monty-le-grand-jeu" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="89"
+       cx="649"
+       fill="#FFE333"
+       id="id-will-hunting" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="378"
+       cx="625"
+       fill="#FFE333"
+       id="id-fargo" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="75"
+       cx="625"
+       fill="#FFE333"
+       id="id-jerry-maguire" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="583"
+       cx="625"
+       fill="#FFE333"
+       id="id-secrets-et-mensonges" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="261"
+       cx="625"
+       fill="#FFE333"
+       id="id-shine" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="70"
+       cx="600"
+       fill="#FFE333"
+       id="id-apollo-13" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="187"
+       cx="600"
+       fill="#FFE333"
+       id="id-babe-le-cochon-devenu-berger" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="358"
+       cx="600"
+       fill="#FFE333"
+       id="id-le-facteur" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="246"
+       cx="600"
+       fill="#FFE333"
+       id="id-raison-et-sentiments" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="163"
+       cx="575"
+       fill="#FFE333"
+       id="id-4-mariages-et-1-enterrement" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="309"
+       cx="575"
+       fill="#FFE333"
+       id="id-les-évadés" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="104"
+       cx="575"
+       fill="#FFE333"
+       id="id-pulp-fiction" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="334"
+       cx="575"
+       fill="#FFE333"
+       id="id-quiz-show" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="349"
+       cx="551"
+       fill="#FFE333"
+       id="id-au-nom-du-père" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="236"
+       cx="551"
+       fill="#FFE333"
+       id="id-la-leçon-de-piano" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="70"
+       cx="551"
+       fill="#FFE333"
+       id="id-le-fugitif" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="378"
+       cx="551"
+       fill="#FFE333"
+       id="id-les-vestiges-du-jour" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="80"
+       cx="526"
+       fill="#FFE333"
+       id="id-des-hommes-d-honneur" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="148"
+       cx="526"
+       fill="#FFE333"
+       id="id-le-temps-d-un-week-end" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="290"
+       cx="526"
+       fill="#FFE333"
+       id="id-retour-à-howards-end" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="153"
+       cx="526"
+       fill="#FFE333"
+       id="id-the-crying-game" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="173"
+       cx="502"
+       fill="#FFE333"
+       id="id-bugsy" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="138"
+       cx="502"
+       fill="#FFE333"
+       id="id-jfk" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="60"
+       cx="502"
+       fill="#FFE333"
+       id="id-la-belle-et-la-bête" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="133"
+       cx="502"
+       fill="#FFE333"
+       id="id-le-prince-des-marées" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="65"
+       cx="477"
+       fill="#FFE333"
+       id="id-ghost" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="168"
+       cx="477"
+       fill="#FFE333"
+       id="id-l-éveil" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="138"
+       cx="477"
+       fill="#FFE333"
+       id="id-le-parrain-3ème-partie" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="182"
+       cx="477"
+       fill="#FFE333"
+       id="id-les-affranchis" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="148"
+       cx="453"
+       fill="#FFE333"
+       id="id-jusqu-au-bout-du-rêve" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="109"
+       cx="453"
+       fill="#FFE333"
+       id="id-le-cercle-des-poètes-disparus" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="373"
+       cx="453"
+       fill="#FFE333"
+       id="id-my-left-foot" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="138"
+       cx="453"
+       fill="#FFE333"
+       id="id-né-un-4-juillet" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="207"
+       cx="428"
+       fill="#FFE333"
+       id="id-les-liaisons-dangereuses" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="212"
+       cx="428"
+       fill="#FFE333"
+       id="id-mississippi-burning" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="221"
+       cx="428"
+       fill="#FFE333"
+       id="id-voyageur-malgré-lui" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="114"
+       cx="428"
+       fill="#FFE333"
+       id="id-working-girl-quand-les-femmes-s-en-mêlent" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="143"
+       cx="404"
+       fill="#FFE333"
+       id="id-broadcast-news" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="466"
+       cx="404"
+       fill="#FFE333"
+       id="id-hope-and-glory-la-guerre-à-sept-ans" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="65"
+       cx="404"
+       fill="#FFE333"
+       id="id-liaison-fatale" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="80"
+       cx="404"
+       fill="#FFE333"
+       id="id-éclair-de-lune" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="256"
+       cx="379"
+       fill="#FFE333"
+       id="id-chambre-avec-vue" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="173"
+       cx="379"
+       fill="#FFE333"
+       id="id-hannah-et-ses-soeurs" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="217"
+       cx="379"
+       fill="#FFE333"
+       id="id-les-enfants-du-silence" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="295"
+       cx="379"
+       fill="#FFE333"
+       id="id-mission" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="202"
+       cx="355"
+       fill="#FFE333"
+       id="id-l-honneur-des-prizzi" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="75"
+       cx="355"
+       fill="#FFE333"
+       id="id-la-couleur-pourpre" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="314"
+       cx="355"
+       fill="#FFE333"
+       id="id-le-baiser-de-la-femme-araignée" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="94"
+       cx="355"
+       fill="#FFE333"
+       id="id-witness-témoin-sous-surveillance" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="182"
+       cx="330"
+       fill="#FFE333"
+       id="id-la-déchirure" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="221"
+       cx="330"
+       fill="#FFE333"
+       id="id-la-route-des-indes" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="177"
+       cx="330"
+       fill="#FFE333"
+       id="id-les-saisons-du-coeur" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="280"
+       cx="330"
+       fill="#FFE333"
+       id="id-soldier-s-story" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="466"
+       cx="305"
+       fill="#FFE333"
+       id="id-l-habilleur" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="207"
+       cx="305"
+       fill="#FFE333"
+       id="id-l-étoffe-des-héros" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="119"
+       cx="305"
+       fill="#FFE333"
+       id="id-les-copains-d-abord" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="378"
+       cx="305"
+       fill="#FFE333"
+       id="id-tendre-bonheur" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="60"
+       cx="281"
+       fill="#FFE333"
+       id="id-e-t-l-extra-terrestre" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="104"
+       cx="281"
+       fill="#FFE333"
+       id="id-le-verdict" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="280"
+       cx="281"
+       fill="#FFE333"
+       id="id-missing-porté-disparu" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="65"
+       cx="281"
+       fill="#FFE333"
+       id="id-tootsie" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="290"
+       cx="256"
+       fill="#FFE333"
+       id="id-atlantic-city" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="65"
+       cx="256"
+       fill="#FFE333"
+       id="id-la-maison-du-lac" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="60"
+       cx="256"
+       fill="#FFE333"
+       id="id-les-aventuriers-de-l-arche-perdue" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="124"
+       cx="256"
+       fill="#FFE333"
+       id="id-reds" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="173"
+       cx="232"
+       fill="#FFE333"
+       id="id-elephant-man" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="94"
+       cx="232"
+       fill="#FFE333"
+       id="id-nashville-lady" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="182"
+       cx="232"
+       fill="#FFE333"
+       id="id-raging-bull" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="217"
+       cx="232"
+       fill="#FFE333"
+       id="id-tess" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="70"
+       cx="207"
+       fill="#FFE333"
+       id="id-apocalypse-now" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="231"
+       cx="207"
+       fill="#FFE333"
+       id="id-la-bande-des-quatre" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="192"
+       cx="207"
+       fill="#FFE333"
+       id="id-norma-rae" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="148"
+       cx="207"
+       fill="#FFE333"
+       id="id-que-le-spectacle-commence" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="133"
+       cx="183"
+       fill="#FFE333"
+       id="id-la-femme-libre" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="80"
+       cx="183"
+       fill="#FFE333"
+       id="id-le-ciel-peut-attendre" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="119"
+       cx="183"
+       fill="#FFE333"
+       id="id-le-retour" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="114"
+       cx="183"
+       fill="#FFE333"
+       id="id-midnight-express" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="75"
+       cx="158"
+       fill="#FFE333"
+       id="id-adieu-je-reste" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="158"
+       cx="158"
+       fill="#FFE333"
+       id="id-julia" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="60"
+       cx="158"
+       fill="#FFE333"
+       id="id-la-guerre-des-étoiles" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="124"
+       cx="158"
+       fill="#FFE333"
+       id="id-le-tournant-de-la-vie" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="70"
+       cx="134"
+       fill="#FFE333"
+       id="id-les-hommes-du-président" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="109"
+       cx="134"
+       fill="#FFE333"
+       id="id-taxi-driver" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="133"
+       cx="109"
+       fill="#FFE333"
+       id="id-barry-lyndon" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="60"
+       cx="109"
+       fill="#FFE333"
+       id="id-les-dents-de-la-mer" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="163"
+       cx="109"
+       fill="#FFE333"
+       id="id-nashville" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="75"
+       cx="109"
+       fill="#FFE333"
+       id="id-un-après-midi-de-chien" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="119"
+       cx="85"
+       fill="#FFE333"
+       id="id-chinatown" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="173"
+       cx="85"
+       fill="#FFE333"
+       id="id-conversation-secrète" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="65"
+       cx="85"
+       fill="#FFE333"
+       id="id-la-tour-infernale" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="70"
+       cx="60"
+       fill="#FFE333"
+       id="id-american-graffiti" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="60"
+       cx="60"
+       fill="#FFE333"
+       id="id-l-exorciste" />
+    <circle
+       style="cursor: pointer; opacity: 0.6;"
+       stroke-width="0"
+       stroke="#FFE333"
+       r="8"
+       cy="114"
+       cx="60"
+       fill="#FFE333"
+       id="id-une-maîtresse-dans-les-bras-une-femme-sur-le-dos" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="280"
+       cx="1140"
+       fill="rgb(219, 165, 32)"
+       id="id-la-forme-de-l-eau" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="525"
+       cx="1115"
+       fill="rgb(219, 165, 32)"
+       id="id-moonlight" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="344"
+       cx="1091"
+       fill="rgb(219, 165, 32)"
+       id="id-spotlight" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="451"
+       cx="1066"
+       fill="rgb(219, 165, 32)"
+       id="id-birdman" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="358"
+       cx="1042"
+       fill="rgb(219, 165, 32)"
+       id="id-12-years-a-slave" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="163"
+       cx="1017"
+       fill="rgb(219, 165, 32)"
+       id="id-argo" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="402"
+       cx="993"
+       fill="rgb(219, 165, 32)"
+       id="id-the-artist" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="143"
+       cx="968"
+       fill="rgb(219, 165, 32)"
+       id="id-le-discours-d-un-roi" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="662"
+       cx="944"
+       fill="rgb(219, 165, 32)"
+       id="id-démineurs" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="138"
+       cx="919"
+       fill="rgb(219, 165, 32)"
+       id="id-slumdog-millionaire" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="231"
+       cx="895"
+       fill="rgb(219, 165, 32)"
+       id="id-no-country-for-old-men-non-ce-pays-n-est-pas-pour-le-vieil-homme" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="133"
+       cx="870"
+       fill="rgb(219, 165, 32)"
+       id="id-les-infiltrés" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="334"
+       cx="845"
+       fill="rgb(219, 165, 32)"
+       id="id-collision" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="168"
+       cx="821"
+       fill="rgb(219, 165, 32)"
+       id="id-million-dollar-baby" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="65"
+       cx="796"
+       fill="rgb(219, 165, 32)"
+       id="id-le-seigneur-des-anneaux-le-retour-du-roi" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="104"
+       cx="772"
+       fill="rgb(219, 165, 32)"
+       id="id-chicago" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="109"
+       cx="747"
+       fill="rgb(219, 165, 32)"
+       id="id-un-homme-d-exception" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="75"
+       cx="723"
+       fill="rgb(219, 165, 32)"
+       id="id-gladiator" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="119"
+       cx="698"
+       fill="rgb(219, 165, 32)"
+       id="id-american-beauty" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="143"
+       cx="674"
+       fill="rgb(219, 165, 32)"
+       id="id-shakespeare-in-love" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="60"
+       cx="649"
+       fill="rgb(219, 165, 32)"
+       id="id-titanic" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="148"
+       cx="625"
+       fill="rgb(219, 165, 32)"
+       id="id-le-patient-anglais" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="143"
+       cx="600"
+       fill="rgb(219, 165, 32)"
+       id="id-braveheart" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="60"
+       cx="575"
+       fill="rgb(219, 165, 32)"
+       id="id-forrest-gump" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="99"
+       cx="551"
+       fill="rgb(219, 165, 32)"
+       id="id-la-liste-de-schindler" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="109"
+       cx="526"
+       fill="rgb(219, 165, 32)"
+       id="id-impitoyable" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="75"
+       cx="502"
+       fill="rgb(219, 165, 32)"
+       id="id-le-silence-des-agneaux" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="70"
+       cx="477"
+       fill="rgb(219, 165, 32)"
+       id="id-danse-avec-les-loups" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="99"
+       cx="453"
+       fill="rgb(219, 165, 32)"
+       id="id-miss-daisy-et-son-chauffeur" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="60"
+       cx="428"
+       fill="rgb(219, 165, 32)"
+       id="id-rain-man" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="168"
+       cx="404"
+       fill="rgb(219, 165, 32)"
+       id="id-le-dernier-empereur" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="70"
+       cx="379"
+       fill="rgb(219, 165, 32)"
+       id="id-platoon" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="80"
+       cx="355"
+       fill="rgb(219, 165, 32)"
+       id="id-out-of-africa-souvenirs-d-afrique" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="114"
+       cx="330"
+       fill="rgb(219, 165, 32)"
+       id="id-amadeus" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="65"
+       cx="305"
+       fill="rgb(219, 165, 32)"
+       id="id-tendres-passions" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="109"
+       cx="281"
+       fill="rgb(219, 165, 32)"
+       id="id-gandhi" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="99"
+       cx="256"
+       fill="rgb(219, 165, 32)"
+       id="id-les-chariots-de-feu" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="114"
+       cx="232"
+       fill="rgb(219, 165, 32)"
+       id="id-des-gens-comme-les-autres" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="60"
+       cx="207"
+       fill="rgb(219, 165, 32)"
+       id="id-kramer-contre-kramer" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="89"
+       cx="183"
+       fill="rgb(219, 165, 32)"
+       id="id-voyage-au-bout-de-l-enfer" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="109"
+       cx="158"
+       fill="rgb(219, 165, 32)"
+       id="id-annie-hall" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="60"
+       cx="134"
+       fill="rgb(219, 165, 32)"
+       id="id-rocky" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="70"
+       cx="109"
+       fill="rgb(219, 165, 32)"
+       id="id-vol-au-dessus-d-un-nid-de-coucou" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="84"
+       cx="85"
+       fill="rgb(219, 165, 32)"
+       id="id-le-parrain-2ème-partie" />
+    <circle
+       style="cursor: pointer; opacity: 1;"
+       stroke-width="0"
+       stroke="rgb(219, 165, 32)"
+       r="8"
+       cy="65"
+       cx="60"
+       fill="rgb(219, 165, 32)"
+       id="id-l-arnaque" />
+  </g>
+</svg>

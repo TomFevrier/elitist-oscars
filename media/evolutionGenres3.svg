@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg858"
+   version="1.1"
+   viewBox="0 0 1000 600">
+  <metadata
+     id="metadata862">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs436">
+    <marker
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerHeight="30"
+       markerWidth="30"
+       refY="6"
+       refX="6"
+       id="triangle">
+      <path
+         id="path433"
+         fill="black"
+         d="M 0 0 12 6 0 12 3 6" />
+    </marker>
+  </defs>
+  <g
+     id="g494"
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="10"
+     fill="none"
+     style="stroke-dasharray: 5, 5;"
+     transform="translate(50, 0)"
+     class="grid">
+    <path
+       id="path438"
+       style="opacity: 0;"
+       d="M0.5,550.5V50.5"
+       stroke="currentColor"
+       class="domain" />
+    <g
+       id="g444"
+       transform="translate(0,550.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line440"
+         x2="900"
+         stroke="currentColor" />
+      <text
+         id="text442"
+         dy="0.32em"
+         x="903"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g450"
+       transform="translate(0, 488.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line446"
+         x2="900"
+         stroke="currentColor" />
+      <text
+         id="text448"
+         dy="0.32em"
+         x="903"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g456"
+       transform="translate(0, 425.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line452"
+         x2="900"
+         stroke="currentColor" />
+      <text
+         id="text454"
+         dy="0.32em"
+         x="903"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g462"
+       transform="translate(0, 363.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line458"
+         x2="900"
+         stroke="currentColor" />
+      <text
+         id="text460"
+         dy="0.32em"
+         x="903"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g468"
+       transform="translate(0, 300.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line464"
+         x2="900"
+         stroke="currentColor" />
+      <text
+         id="text466"
+         dy="0.32em"
+         x="903"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g474"
+       transform="translate(0, 238.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line470"
+         x2="900"
+         stroke="currentColor" />
+      <text
+         id="text472"
+         dy="0.32em"
+         x="903"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g480"
+       transform="translate(0, 175.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line476"
+         x2="900"
+         stroke="currentColor" />
+      <text
+         id="text478"
+         dy="0.32em"
+         x="903"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g486"
+       transform="translate(0, 113.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line482"
+         x2="900"
+         stroke="currentColor" />
+      <text
+         id="text484"
+         dy="0.32em"
+         x="903"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g492"
+       transform="translate(0, 50.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line488"
+         x2="900"
+         stroke="currentColor" />
+      <text
+         id="text490"
+         dy="0.32em"
+         x="903"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="g618"
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10"
+     fill="none"
+     transform="translate(0, 550)"
+     class="xAxis">
+    <path
+       id="path496"
+       marker-end="url(#triangle)"
+       d="M50.5,0.5H950.5"
+       stroke="currentColor"
+       class="domain" />
+    <g
+       id="g502"
+       transform="translate(65.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line498"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text500"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1940</text>
+    </g>
+    <g
+       id="g508"
+       transform="translate(109.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line504"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text506"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1944</text>
+    </g>
+    <g
+       id="g514"
+       transform="translate(153.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line510"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text512"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1948</text>
+    </g>
+    <g
+       id="g520"
+       transform="translate(197.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line516"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text518"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1952</text>
+    </g>
+    <g
+       id="g526"
+       transform="translate(241.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line522"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text524"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1956</text>
+    </g>
+    <g
+       id="g532"
+       transform="translate(285.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line528"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text530"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1960</text>
+    </g>
+    <g
+       id="g538"
+       transform="translate(329.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line534"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text536"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1964</text>
+    </g>
+    <g
+       id="g544"
+       transform="translate(373.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line540"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text542"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1968</text>
+    </g>
+    <g
+       id="g550"
+       transform="translate(417.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line546"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text548"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1972</text>
+    </g>
+    <g
+       id="g556"
+       transform="translate(461.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line552"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text554"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1976</text>
+    </g>
+    <g
+       id="g562"
+       transform="translate(505.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line558"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text560"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1980</text>
+    </g>
+    <g
+       id="g568"
+       transform="translate(549.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line564"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text566"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1984</text>
+    </g>
+    <g
+       id="g574"
+       transform="translate(593.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line570"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text572"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1988</text>
+    </g>
+    <g
+       id="g580"
+       transform="translate(637.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line576"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text578"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1992</text>
+    </g>
+    <g
+       id="g586"
+       transform="translate(681.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line582"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text584"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">1996</text>
+    </g>
+    <g
+       id="g592"
+       transform="translate(725.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line588"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text590"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">2000</text>
+    </g>
+    <g
+       id="g598"
+       transform="translate(769.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line594"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text596"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">2004</text>
+    </g>
+    <g
+       id="g604"
+       transform="translate(813.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line600"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text602"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">2008</text>
+    </g>
+    <g
+       id="g610"
+       transform="translate(857.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line606"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text608"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">2012</text>
+    </g>
+    <g
+       id="g616"
+       transform="translate(901.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line612"
+         y2="0"
+         stroke="currentColor" />
+      <text
+         id="text614"
+         dy="0.71em"
+         y="8"
+         fill="currentColor">2016</text>
+    </g>
+  </g>
+  <g
+     id="g676"
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10"
+     fill="none"
+     transform="translate(50, 0)"
+     class="yAxis">
+    <path
+       id="path620"
+       d="M0.5,550.5V50.5"
+       stroke="currentColor"
+       class="domain" />
+    <g
+       id="g626"
+       transform="translate(0,550.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line622"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text624"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">0 %</text>
+    </g>
+    <g
+       id="g632"
+       transform="translate(0, 488.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line628"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text630"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">10 %</text>
+    </g>
+    <g
+       id="g638"
+       transform="translate(0, 425.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line634"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text636"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">20 %</text>
+    </g>
+    <g
+       id="g644"
+       transform="translate(0, 363.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line640"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text642"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">30 %</text>
+    </g>
+    <g
+       id="g650"
+       transform="translate(0, 300.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line646"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text648"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">40 %</text>
+    </g>
+    <g
+       id="g656"
+       transform="translate(0, 238.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line652"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text654"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">50 %</text>
+    </g>
+    <g
+       id="g662"
+       transform="translate(0, 175.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line658"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text660"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">60 %</text>
+    </g>
+    <g
+       id="g668"
+       transform="translate(0, 113.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line664"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text666"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">70 %</text>
+    </g>
+    <g
+       id="g674"
+       transform="translate(0, 50.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line670"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text672"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">80 %</text>
+    </g>
+  </g>
+  <path
+     id="path678"
+     stroke-dashoffset="0"
+     stroke-dasharray="none"
+     style="stroke: rgb(219, 165, 32); stroke-width: 3; fill: none;"
+     class="line"
+     d="M60,550L71,550L71,425L82,425L82,550L93,550L93,380L104,380L104,454L115,454L115,515L126,515L126,550L137,550L137,550L148,550L148,550L159,550L159,488L170,488L170,290L181,290L181,496L192,496L192,550L203,550L203,451L214,451L214,523L225,523L225,511L236,511L236,550L247,550L247,519L258,519L258,550L269,550L269,502L280,502L280,550L291,550L291,515L302,515L302,431L313,431L313,436L324,436L324,513L335,513L335,527L346,527L346,461L357,461L357,475L368,475L368,425L379,425L379,550L390,550L390,519L401,519L401,394L412,394L412,425L423,425L423,467L434,467L434,550L445,550L445,418L456,418L456,550L467,550L467,467L478,467L478,446L489,446L489,550L500,550L500,425L511,425L511,475L522,475L522,434L533,434L533,550L544,550L544,524L555,524L555,481L566,481L566,505L577,505L577,528L588,528L588,504L599,504L599,505L610,505L610,528L621,528L621,502L632,502L632,483L643,483L643,505L654,505L654,461L665,461L665,528L676,528L676,527L687,527L687,483L698,483L698,505L709,505L709,505L720,505L720,505L731,505L731,282L742,282L742,528L753,528L753,505L764,505L764,349L775,349L775,461L786,461L786,505L797,505L797,483L808,483L808,505L819,505L819,483L830,483L830,455L841,455L841,461L852,461L852,495L863,495L863,495L874,495L874,476L885,476L885,436L896,436L896,361L907,361L907,440L918,440L918,394L929,394L929,457L940,457" />
+  <path
+     id="path680"
+     stroke-dashoffset="0"
+     stroke-dasharray="none"
+     style="stroke: rgb(0, 0, 187); stroke-width: 3; fill: none;"
+     class="line"
+     d="M60,519L71,519L71,472L82,472L82,550L93,550L93,456L104,456L104,505L115,505L115,550L126,550L126,550L137,550L137,511L148,511L148,550L159,550L159,550L170,550L170,488L181,488L181,550L192,550L192,505L203,505L203,425L214,425L214,519L225,519L225,519L236,519L236,550L247,550L247,488L258,488L258,456L269,456L269,383L280,383L280,425L291,425L291,488L302,488L302,519L313,519L313,425L324,425L324,488L335,488L335,519L346,519L346,456L357,456L357,425L368,425L368,425L379,425L379,519L390,519L390,456L401,456L401,456L412,456L412,331L423,331L423,425L434,425L434,394L445,394L445,300L456,300L456,456L467,456L467,456L478,456L478,394L489,394L489,425L500,425L500,488L511,488L511,425L522,425L522,394L533,394L533,363L544,363L544,363L555,363L555,331L566,331L566,456L577,456L577,394L588,394L588,363L599,363L599,425L610,425L610,394L621,394L621,300L632,300L632,363L643,363L643,394L654,394L654,394L665,394L665,331L676,331L676,363L687,363L687,300L698,300L698,269L709,269L709,331L720,331L720,363L731,363L731,300L742,300L742,300L753,300L753,331L764,331L764,206L775,206L775,331L786,331L786,331L797,331L797,363L808,363L808,300L819,300L819,206L830,206L830,238L841,238L841,300L852,300L852,206L863,206L863,300L874,300L874,269L885,269L885,50L896,50L896,206L907,206L907,238L918,238L918,144L929,144L929,206L940,206" />
+  <g
+     id="g842">
+    <rect
+       id="rect682"
+       style="opacity: 0.4; cursor: pointer;"
+       height="31"
+       width="11"
+       y="519"
+       x="60"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect684"
+       style="opacity: 0.4; cursor: pointer;"
+       height="47"
+       width="11"
+       y="425"
+       x="71"
+       fill="#FFE333" />
+    <rect
+       id="rect686"
+       style="opacity: 0.4; cursor: pointer;"
+       height="0"
+       width="11"
+       y="550"
+       x="82"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect688"
+       style="opacity: 0.4; cursor: pointer;"
+       height="76"
+       width="11"
+       y="380"
+       x="93"
+       fill="#FFE333" />
+    <rect
+       id="rect690"
+       style="opacity: 0.4; cursor: pointer;"
+       height="51"
+       width="11"
+       y="454"
+       x="104"
+       fill="#FFE333" />
+    <rect
+       id="rect692"
+       style="opacity: 0.4; cursor: pointer;"
+       height="35"
+       width="11"
+       y="515"
+       x="115"
+       fill="rgb(255, 227, 51)" />
+    <rect
+       id="rect694"
+       style="opacity: 0.4; cursor: pointer;"
+       height="0"
+       width="11"
+       y="550"
+       x="126"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect696"
+       style="opacity: 0.4; cursor: pointer;"
+       height="39"
+       width="11"
+       y="511"
+       x="137"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect698"
+       style="opacity: 0.4; cursor: pointer;"
+       height="0"
+       width="11"
+       y="550"
+       x="148"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect700"
+       style="opacity: 0.4; cursor: pointer;"
+       height="62"
+       width="11"
+       y="488"
+       x="159"
+       fill="rgb(255, 227, 51)" />
+    <rect
+       id="rect702"
+       style="opacity: 0.4; cursor: pointer;"
+       height="198"
+       width="11"
+       y="290"
+       x="170"
+       fill="rgb(255, 227, 51)" />
+    <rect
+       id="rect704"
+       style="opacity: 0.4; cursor: pointer;"
+       height="54"
+       width="11"
+       y="496"
+       x="181"
+       fill="#FFE333" />
+    <rect
+       id="rect706"
+       style="opacity: 0.4; cursor: pointer;"
+       height="45"
+       width="11"
+       y="505"
+       x="192"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect708"
+       style="opacity: 0.4; cursor: pointer;"
+       height="26"
+       width="11"
+       y="425"
+       x="203"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect710"
+       style="opacity: 0.4; cursor: pointer;"
+       height="4"
+       width="11"
+       y="519"
+       x="214"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect712"
+       style="opacity: 0.4; cursor: pointer;"
+       height="8"
+       width="11"
+       y="511"
+       x="225"
+       fill="rgb(255, 227, 51)" />
+    <rect
+       id="rect714"
+       style="opacity: 0.4; cursor: pointer;"
+       height="0"
+       width="11"
+       y="550"
+       x="236"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect716"
+       style="opacity: 0.4; cursor: pointer;"
+       height="31"
+       width="11"
+       y="488"
+       x="247"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect718"
+       style="opacity: 0.4; cursor: pointer;"
+       height="94"
+       width="11"
+       y="456"
+       x="258"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect720"
+       style="opacity: 0.4; cursor: pointer;"
+       height="119"
+       width="11"
+       y="383"
+       x="269"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect722"
+       style="opacity: 0.4; cursor: pointer;"
+       height="125"
+       width="11"
+       y="425"
+       x="280"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect724"
+       style="opacity: 0.4; cursor: pointer;"
+       height="27"
+       width="11"
+       y="488"
+       x="291"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect726"
+       style="opacity: 0.4; cursor: pointer;"
+       height="88"
+       width="11"
+       y="431"
+       x="302"
+       fill="rgb(255, 227, 51)" />
+    <rect
+       id="rect728"
+       style="opacity: 0.4; cursor: pointer;"
+       height="11"
+       width="11"
+       y="425"
+       x="313"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect730"
+       style="opacity: 0.4; cursor: pointer;"
+       height="25"
+       width="11"
+       y="488"
+       x="324"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect732"
+       style="opacity: 0.4; cursor: pointer;"
+       height="8"
+       width="11"
+       y="519"
+       x="335"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect734"
+       style="opacity: 0.4; cursor: pointer;"
+       height="5"
+       width="11"
+       y="456"
+       x="346"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect736"
+       style="opacity: 0.4; cursor: pointer;"
+       height="50"
+       width="11"
+       y="425"
+       x="357"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect738"
+       style="opacity: 0.4; cursor: pointer;"
+       height="0"
+       width="11"
+       y="425"
+       x="368"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect740"
+       style="opacity: 0.4; cursor: pointer;"
+       height="31"
+       width="11"
+       y="519"
+       x="379"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect742"
+       style="opacity: 0.4; cursor: pointer;"
+       height="63"
+       width="11"
+       y="456"
+       x="390"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect744"
+       style="opacity: 0.4; cursor: pointer;"
+       height="62"
+       width="11"
+       y="394"
+       x="401"
+       fill="#FFE333" />
+    <rect
+       id="rect746"
+       style="opacity: 0.4; cursor: pointer;"
+       height="94"
+       width="11"
+       y="331"
+       x="412"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect748"
+       style="opacity: 0.4; cursor: pointer;"
+       height="42"
+       width="11"
+       y="425"
+       x="423"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect750"
+       style="opacity: 0.4; cursor: pointer;"
+       height="156"
+       width="11"
+       y="394"
+       x="434"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect752"
+       style="opacity: 0.4; cursor: pointer;"
+       height="118"
+       width="11"
+       y="300"
+       x="445"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect754"
+       style="opacity: 0.4; cursor: pointer;"
+       height="94"
+       width="11"
+       y="456"
+       x="456"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect756"
+       style="opacity: 0.4; cursor: pointer;"
+       height="11"
+       width="11"
+       y="456"
+       x="467"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect758"
+       style="opacity: 0.4; cursor: pointer;"
+       height="52"
+       width="11"
+       y="394"
+       x="478"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect760"
+       style="opacity: 0.4; cursor: pointer;"
+       height="125"
+       width="11"
+       y="425"
+       x="489"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect762"
+       style="opacity: 0.4; cursor: pointer;"
+       height="63"
+       width="11"
+       y="425"
+       x="500"
+       fill="rgb(255, 227, 51)" />
+    <rect
+       id="rect764"
+       style="opacity: 0.4; cursor: pointer;"
+       height="50"
+       width="11"
+       y="425"
+       x="511"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect766"
+       style="opacity: 0.4; cursor: pointer;"
+       height="40"
+       width="11"
+       y="394"
+       x="522"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect768"
+       style="opacity: 0.4; cursor: pointer;"
+       height="187"
+       width="11"
+       y="363"
+       x="533"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect770"
+       style="opacity: 0.4; cursor: pointer;"
+       height="161"
+       width="11"
+       y="363"
+       x="544"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect772"
+       style="opacity: 0.4; cursor: pointer;"
+       height="150"
+       width="11"
+       y="331"
+       x="555"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect774"
+       style="opacity: 0.4; cursor: pointer;"
+       height="49"
+       width="11"
+       y="456"
+       x="566"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect776"
+       style="opacity: 0.4; cursor: pointer;"
+       height="134"
+       width="11"
+       y="394"
+       x="577"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect778"
+       style="opacity: 0.4; cursor: pointer;"
+       height="141"
+       width="11"
+       y="363"
+       x="588"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect780"
+       style="opacity: 0.4; cursor: pointer;"
+       height="80"
+       width="11"
+       y="425"
+       x="599"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect782"
+       style="opacity: 0.4; cursor: pointer;"
+       height="134"
+       width="11"
+       y="394"
+       x="610"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect784"
+       style="opacity: 0.4; cursor: pointer;"
+       height="202"
+       width="11"
+       y="300"
+       x="621"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect786"
+       style="opacity: 0.4; cursor: pointer;"
+       height="120"
+       width="11"
+       y="363"
+       x="632"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect788"
+       style="opacity: 0.4; cursor: pointer;"
+       height="111"
+       width="11"
+       y="394"
+       x="643"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect790"
+       style="opacity: 0.4; cursor: pointer;"
+       height="67"
+       width="11"
+       y="394"
+       x="654"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect792"
+       style="opacity: 0.4; cursor: pointer;"
+       height="197"
+       width="11"
+       y="331"
+       x="665"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect794"
+       style="opacity: 0.4; cursor: pointer;"
+       height="164"
+       width="11"
+       y="363"
+       x="676"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect796"
+       style="opacity: 0.4; cursor: pointer;"
+       height="183"
+       width="11"
+       y="300"
+       x="687"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect798"
+       style="opacity: 0.4; cursor: pointer;"
+       height="236"
+       width="11"
+       y="269"
+       x="698"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect800"
+       style="opacity: 0.4; cursor: pointer;"
+       height="174"
+       width="11"
+       y="331"
+       x="709"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect802"
+       style="opacity: 0.4; cursor: pointer;"
+       height="142"
+       width="11"
+       y="363"
+       x="720"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect804"
+       style="opacity: 0.4; cursor: pointer;"
+       height="18"
+       width="11"
+       y="282"
+       x="731"
+       fill="rgb(255, 227, 51)" />
+    <rect
+       id="rect806"
+       style="opacity: 0.4; cursor: pointer;"
+       height="228"
+       width="11"
+       y="300"
+       x="742"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect808"
+       style="opacity: 0.4; cursor: pointer;"
+       height="174"
+       width="11"
+       y="331"
+       x="753"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect810"
+       style="opacity: 0.4; cursor: pointer;"
+       height="143"
+       width="11"
+       y="206"
+       x="764"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect812"
+       style="opacity: 0.4; cursor: pointer;"
+       height="130"
+       width="11"
+       y="331"
+       x="775"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect814"
+       style="opacity: 0.4; cursor: pointer;"
+       height="174"
+       width="11"
+       y="331"
+       x="786"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect816"
+       style="opacity: 0.4; cursor: pointer;"
+       height="120"
+       width="11"
+       y="363"
+       x="797"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect818"
+       style="opacity: 0.4; cursor: pointer;"
+       height="205"
+       width="11"
+       y="300"
+       x="808"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect820"
+       style="opacity: 0.4; cursor: pointer;"
+       height="277"
+       width="11"
+       y="206"
+       x="819"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect822"
+       style="opacity: 0.4; cursor: pointer;"
+       height="217"
+       width="11"
+       y="238"
+       x="830"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect824"
+       style="opacity: 0.4; cursor: pointer;"
+       height="161"
+       width="11"
+       y="300"
+       x="841"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect826"
+       style="opacity: 0.4; cursor: pointer;"
+       height="289"
+       width="11"
+       y="206"
+       x="852"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect828"
+       style="opacity: 0.4; cursor: pointer;"
+       height="195"
+       width="11"
+       y="300"
+       x="863"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect830"
+       style="opacity: 0.4; cursor: pointer;"
+       height="207"
+       width="11"
+       y="269"
+       x="874"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect832"
+       style="opacity: 0.4; cursor: pointer;"
+       height="386"
+       width="11"
+       y="50"
+       x="885"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect834"
+       style="opacity: 0.4; cursor: pointer;"
+       height="155"
+       width="11"
+       y="206"
+       x="896"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect836"
+       style="opacity: 0.4; cursor: pointer;"
+       height="202"
+       width="11"
+       y="238"
+       x="907"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect838"
+       style="opacity: 0.4; cursor: pointer;"
+       height="250"
+       width="11"
+       y="144"
+       x="918"
+       fill="rgb(51, 165, 255)" />
+    <rect
+       id="rect840"
+       style="opacity: 0.4; cursor: pointer;"
+       height="251"
+       width="11"
+       y="206"
+       x="929"
+       fill="rgb(51, 165, 255)" />
+  </g>
+  <text
+     id="text844"
+     style="font-style: italic;"
+     text-anchor="middle"
+     y="25"
+     x="50">Fréquence</text>
+  <text
+     id="text846"
+     style="font-style: italic;"
+     text-anchor="end"
+     y="580"
+     x="960">Année</text>
+  <g
+     id="g856"
+     style="opacity: 1;"
+     class="legend">
+    <rect
+       id="rect848"
+       fill="#DBA520"
+       height="3"
+       width="40"
+       y="13"
+       x="320" />
+    <text
+       id="text850"
+       alignment-baseline="central"
+       text-anchor="start"
+       y="20"
+       x="370">Films nommés aux Oscars</text>
+    <rect
+       id="rect852"
+       fill="#0000BB"
+       height="3"
+       width="40"
+       y="13"
+       x="620" />
+    <text
+       id="text854"
+       alignment-baseline="central"
+       text-anchor="start"
+       y="20"
+       x="670">Films du top 20 au box office</text>
+  </g>
+</svg>

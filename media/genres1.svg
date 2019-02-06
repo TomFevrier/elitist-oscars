@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg508"
+   version="1.1"
+   viewBox="0 0 600 750">
+  <metadata
+     id="metadata512">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <marker
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerHeight="30"
+       markerWidth="30"
+       refY="6"
+       refX="6"
+       id="triangle">
+      <path
+         id="path2"
+         fill="black"
+         d="M 0 0 12 6 0 12 3 6" />
+    </marker>
+  </defs>
+  <g
+     id="g69"
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10"
+     fill="none"
+     style="stroke-dasharray: 5, 5;"
+     transform="translate(0, 50)"
+     class="grid">
+    <path
+       id="path7"
+       style="opacity: 0;"
+       d="M140.5,0.5H550.5"
+       stroke="currentColor"
+       class="domain" />
+    <g
+       id="g13"
+       transform="translate(140.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line9"
+         style="opacity: 0.6;"
+         y2="650"
+         stroke="currentColor" />
+      <text
+         id="text11"
+         dy="0.71em"
+         y="653"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g19"
+       transform="translate(184.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line15"
+         style="opacity: 0.6;"
+         y2="650"
+         stroke="currentColor" />
+      <text
+         id="text17"
+         dy="0.71em"
+         y="653"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g25"
+       transform="translate(227.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line21"
+         style="opacity: 0.6;"
+         y2="650"
+         stroke="currentColor" />
+      <text
+         id="text23"
+         dy="0.71em"
+         y="653"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g31"
+       transform="translate(271.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line27"
+         style="opacity: 0.6;"
+         y2="650"
+         stroke="currentColor" />
+      <text
+         id="text29"
+         dy="0.71em"
+         y="653"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g37"
+       transform="translate(315.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line33"
+         style="opacity: 0.6;"
+         y2="650"
+         stroke="currentColor" />
+      <text
+         id="text35"
+         dy="0.71em"
+         y="653"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g43"
+       transform="translate(359.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line39"
+         style="opacity: 0.6;"
+         y2="650"
+         stroke="currentColor" />
+      <text
+         id="text41"
+         dy="0.71em"
+         y="653"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g49"
+       transform="translate(402.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line45"
+         style="opacity: 0.6;"
+         y2="650"
+         stroke="currentColor" />
+      <text
+         id="text47"
+         dy="0.71em"
+         y="653"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g55"
+       transform="translate(446.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line51"
+         style="opacity: 0.6;"
+         y2="650"
+         stroke="currentColor" />
+      <text
+         id="text53"
+         dy="0.71em"
+         y="653"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g61"
+       transform="translate(490.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line57"
+         style="opacity: 0.6;"
+         y2="650"
+         stroke="currentColor" />
+      <text
+         id="text59"
+         dy="0.71em"
+         y="653"
+         fill="currentColor" />
+    </g>
+    <g
+       id="g67"
+       transform="translate(534.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line63"
+         style="opacity: 0.6;"
+         y2="650"
+         stroke="currentColor" />
+      <text
+         id="text65"
+         dy="0.71em"
+         y="653"
+         fill="currentColor" />
+    </g>
+  </g>
+  <g
+     id="g133"
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10"
+     fill="none"
+     transform="translate(0, 50)"
+     class="xAxis">
+    <path
+       id="path71"
+       marker-end="url(#triangle)"
+       d="M140.5,0.5H550.5"
+       stroke="currentColor"
+       class="domain" />
+    <g
+       id="g77"
+       transform="translate(140.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line73"
+         style="opacity: 0.6;"
+         y2="-6"
+         stroke="currentColor" />
+      <text
+         id="text75"
+         dy="0em"
+         y="-9"
+         fill="currentColor">0 %</text>
+    </g>
+    <g
+       id="g83"
+       transform="translate(184.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line79"
+         style="opacity: 0.6;"
+         y2="-6"
+         stroke="currentColor" />
+      <text
+         id="text81"
+         dy="0em"
+         y="-9"
+         fill="currentColor">10 %</text>
+    </g>
+    <g
+       id="g89"
+       transform="translate(227.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line85"
+         style="opacity: 0.6;"
+         y2="-6"
+         stroke="currentColor" />
+      <text
+         id="text87"
+         dy="0em"
+         y="-9"
+         fill="currentColor">20 %</text>
+    </g>
+    <g
+       id="g95"
+       transform="translate(271.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line91"
+         style="opacity: 0.6;"
+         y2="-6"
+         stroke="currentColor" />
+      <text
+         id="text93"
+         dy="0em"
+         y="-9"
+         fill="currentColor">30 %</text>
+    </g>
+    <g
+       id="g101"
+       transform="translate(315.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line97"
+         style="opacity: 0.6;"
+         y2="-6"
+         stroke="currentColor" />
+      <text
+         id="text99"
+         dy="0em"
+         y="-9"
+         fill="currentColor">40 %</text>
+    </g>
+    <g
+       id="g107"
+       transform="translate(359.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line103"
+         style="opacity: 0.6;"
+         y2="-6"
+         stroke="currentColor" />
+      <text
+         id="text105"
+         dy="0em"
+         y="-9"
+         fill="currentColor">50 %</text>
+    </g>
+    <g
+       id="g113"
+       transform="translate(402.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line109"
+         style="opacity: 0.6;"
+         y2="-6"
+         stroke="currentColor" />
+      <text
+         id="text111"
+         dy="0em"
+         y="-9"
+         fill="currentColor">60 %</text>
+    </g>
+    <g
+       id="g119"
+       transform="translate(446.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line115"
+         style="opacity: 0.6;"
+         y2="-6"
+         stroke="currentColor" />
+      <text
+         id="text117"
+         dy="0em"
+         y="-9"
+         fill="currentColor">70 %</text>
+    </g>
+    <g
+       id="g125"
+       transform="translate(490.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line121"
+         style="opacity: 0.6;"
+         y2="-6"
+         stroke="currentColor" />
+      <text
+         id="text123"
+         dy="0em"
+         y="-9"
+         fill="currentColor">80 %</text>
+    </g>
+    <g
+       id="g131"
+       transform="translate(534.5,0)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line127"
+         style="opacity: 0.6;"
+         y2="-6"
+         stroke="currentColor" />
+      <text
+         id="text129"
+         dy="0em"
+         y="-9"
+         fill="currentColor">90 %</text>
+    </g>
+  </g>
+  <g
+     id="g263"
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10"
+     fill="none"
+     transform="translate(140, 0)"
+     class="yAxis">
+    <path
+       id="path135"
+       d="M0.5,50.5V700.5"
+       stroke="currentColor"
+       class="domain" />
+    <g
+       id="g141"
+       transform="translate(0,65.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line137"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text139"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Drame</text>
+    </g>
+    <g
+       id="g147"
+       transform="translate(0,96.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line143"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text145"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Film romantique</text>
+    </g>
+    <g
+       id="g153"
+       transform="translate(0,127.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line149"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text151"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Biopic</text>
+    </g>
+    <g
+       id="g159"
+       transform="translate(0,158.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line155"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text157"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Comédie</text>
+    </g>
+    <g
+       id="g165"
+       transform="translate(0,189.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line161"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text163"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Film historique</text>
+    </g>
+    <g
+       id="g171"
+       transform="translate(0,220.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line167"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text169"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Aventure</text>
+    </g>
+    <g
+       id="g177"
+       transform="translate(0,251.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line173"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text175"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Crime</text>
+    </g>
+    <g
+       id="g183"
+       transform="translate(0,282.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line179"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text181"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Thriller</text>
+    </g>
+    <g
+       id="g189"
+       transform="translate(0,313.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line185"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text187"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Film de guerre</text>
+    </g>
+    <g
+       id="g195"
+       transform="translate(0,344.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line191"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text193"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Action</text>
+    </g>
+    <g
+       id="g201"
+       transform="translate(0,375.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line197"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text199"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Mystère</text>
+    </g>
+    <g
+       id="g207"
+       transform="translate(0,406.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line203"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text205"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Comédie musicale</text>
+    </g>
+    <g
+       id="g213"
+       transform="translate(0,437.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line209"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text211"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Film familial</text>
+    </g>
+    <g
+       id="g219"
+       transform="translate(0,468.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line215"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text217"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Fantastique</text>
+    </g>
+    <g
+       id="g225"
+       transform="translate(0,499.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line221"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text223"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Film musical</text>
+    </g>
+    <g
+       id="g231"
+       transform="translate(0,530.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line227"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text229"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Western</text>
+    </g>
+    <g
+       id="g237"
+       transform="translate(0,561.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line233"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text235"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Science-fiction</text>
+    </g>
+    <g
+       id="g243"
+       transform="translate(0,592.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line239"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text241"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Sport</text>
+    </g>
+    <g
+       id="g249"
+       transform="translate(0,623.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line245"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text247"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Film noir</text>
+    </g>
+    <g
+       id="g255"
+       transform="translate(0,654.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line251"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text253"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Animation</text>
+    </g>
+    <g
+       id="g261"
+       transform="translate(0,685.5)"
+       opacity="1"
+       class="tick">
+      <line
+         id="line257"
+         style="opacity: 0.6;"
+         x2="-6"
+         stroke="currentColor" />
+      <text
+         id="text259"
+         dy="0.32em"
+         x="-9"
+         fill="currentColor">Horreur</text>
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="drame">
+    <g
+       id="g267"
+       class="line">
+      <line
+         id="line265"
+         style="stroke: rgb(219, 165, 32); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="65"
+         x2="528"
+         y1="65"
+         x1="550" />
+    </g>
+    <g
+       id="g273"
+       class="circles">
+      <circle
+         id="circle269"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="65"
+         cx="528"
+         fill="#FFE333" />
+      <circle
+         id="circle271"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="65"
+         cx="550"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="film-romantique">
+    <g
+       id="g278"
+       class="line">
+      <line
+         id="line276"
+         style="stroke: rgb(219, 165, 32); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="96"
+         x2="251"
+         y1="96"
+         x1="255" />
+    </g>
+    <g
+       id="g284"
+       class="circles">
+      <circle
+         id="circle280"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="96"
+         cx="251"
+         fill="#FFE333" />
+      <circle
+         id="circle282"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="96"
+         cx="255"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="biopic">
+    <g
+       id="g289"
+       class="line">
+      <line
+         id="line287"
+         style="stroke: rgb(255, 227, 51); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="127"
+         x2="234"
+         y1="127"
+         x1="227" />
+    </g>
+    <g
+       id="g295"
+       class="circles">
+      <circle
+         id="circle291"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="127"
+         cx="234"
+         fill="#FFE333" />
+      <circle
+         id="circle293"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="127"
+         cx="227"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="comédie">
+    <g
+       id="g300"
+       class="line">
+      <line
+         id="line298"
+         style="stroke: rgb(255, 227, 51); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="158"
+         x2="232"
+         y1="158"
+         x1="211" />
+    </g>
+    <g
+       id="g306"
+       class="circles">
+      <circle
+         id="circle302"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="158"
+         cx="232"
+         fill="#FFE333" />
+      <circle
+         id="circle304"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="158"
+         cx="211"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="film-historique">
+    <g
+       id="g311"
+       class="line">
+      <line
+         id="line309"
+         style="stroke: rgb(219, 165, 32); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="189"
+         x2="203"
+         y1="189"
+         x1="211" />
+    </g>
+    <g
+       id="g317"
+       class="circles">
+      <circle
+         id="circle313"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="189"
+         cx="203"
+         fill="#FFE333" />
+      <circle
+         id="circle315"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="189"
+         cx="211"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="aventure">
+    <g
+       id="g322"
+       class="line">
+      <line
+         id="line320"
+         style="stroke: rgb(255, 227, 51); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="220"
+         x2="197"
+         y1="220"
+         x1="195" />
+    </g>
+    <g
+       id="g328"
+       class="circles">
+      <circle
+         id="circle324"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="220"
+         cx="197"
+         fill="#FFE333" />
+      <circle
+         id="circle326"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="220"
+         cx="195"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="crime">
+    <g
+       id="g333"
+       class="line">
+      <line
+         id="line331"
+         style="stroke: rgb(219, 165, 32); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="251"
+         x2="193"
+         y1="251"
+         x1="211" />
+    </g>
+    <g
+       id="g339"
+       class="circles">
+      <circle
+         id="circle335"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="251"
+         cx="193"
+         fill="#FFE333" />
+      <circle
+         id="circle337"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="251"
+         cx="211"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="thriller">
+    <g
+       id="g344"
+       class="line">
+      <line
+         id="line342"
+         style="stroke: rgb(219, 165, 32); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="282"
+         x2="175"
+         y1="282"
+         x1="178" />
+    </g>
+    <g
+       id="g350"
+       class="circles">
+      <circle
+         id="circle346"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="282"
+         cx="175"
+         fill="#FFE333" />
+      <circle
+         id="circle348"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="282"
+         cx="178"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="film-de-guerre">
+    <g
+       id="g355"
+       class="line">
+      <line
+         id="line353"
+         style="stroke: rgb(219, 165, 32); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="313"
+         x2="172"
+         y1="313"
+         x1="200" />
+    </g>
+    <g
+       id="g361"
+       class="circles">
+      <circle
+         id="circle357"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="313"
+         cx="172"
+         fill="#FFE333" />
+      <circle
+         id="circle359"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="313"
+         cx="200"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="action">
+    <g
+       id="g366"
+       class="line">
+      <line
+         id="line364"
+         style="stroke: rgb(255, 227, 51); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="344"
+         x2="168"
+         y1="344"
+         x1="156" />
+    </g>
+    <g
+       id="g372"
+       class="circles">
+      <circle
+         id="circle368"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="344"
+         cx="168"
+         fill="#FFE333" />
+      <circle
+         id="circle370"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="344"
+         cx="156"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="mystère">
+    <g
+       id="g377"
+       class="line">
+      <line
+         id="line375"
+         style="stroke: rgb(255, 227, 51); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="375"
+         x2="164"
+         y1="375"
+         x1="151" />
+    </g>
+    <g
+       id="g383"
+       class="circles">
+      <circle
+         id="circle379"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="375"
+         cx="164"
+         fill="#FFE333" />
+      <circle
+         id="circle381"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="375"
+         cx="151"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="comédie-musicale">
+    <g
+       id="g388"
+       class="line">
+      <line
+         id="line386"
+         style="stroke: rgb(219, 165, 32); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="406"
+         x2="160"
+         y1="406"
+         x1="173" />
+    </g>
+    <g
+       id="g394"
+       class="circles">
+      <circle
+         id="circle390"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="406"
+         cx="160"
+         fill="#FFE333" />
+      <circle
+         id="circle392"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="406"
+         cx="173"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="film-familial">
+    <g
+       id="g399"
+       class="line">
+      <line
+         id="line397"
+         style="stroke: rgb(219, 165, 32); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="437"
+         x2="160"
+         y1="437"
+         x1="173" />
+    </g>
+    <g
+       id="g405"
+       class="circles">
+      <circle
+         id="circle401"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="437"
+         cx="160"
+         fill="#FFE333" />
+      <circle
+         id="circle403"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="437"
+         cx="173"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="fantastique">
+    <g
+       id="g410"
+       class="line">
+      <line
+         id="line408"
+         style="stroke: rgb(255, 227, 51); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="468"
+         x2="159"
+         y1="468"
+         x1="145" />
+    </g>
+    <g
+       id="g416"
+       class="circles">
+      <circle
+         id="circle412"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="468"
+         cx="159"
+         fill="#FFE333" />
+      <circle
+         id="circle414"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="468"
+         cx="145"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="film-musical">
+    <g
+       id="g421"
+       class="line">
+      <line
+         id="line419"
+         style="stroke: rgb(255, 227, 51); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="499"
+         x2="156"
+         y1="499"
+         x1="145" />
+    </g>
+    <g
+       id="g427"
+       class="circles">
+      <circle
+         id="circle423"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="499"
+         cx="156"
+         fill="#FFE333" />
+      <circle
+         id="circle425"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="499"
+         cx="145"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="western">
+    <g
+       id="g432"
+       class="line">
+      <line
+         id="line430"
+         style="stroke: rgb(255, 227, 51); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="530"
+         x2="152"
+         y1="530"
+         x1="151" />
+    </g>
+    <g
+       id="g438"
+       class="circles">
+      <circle
+         id="circle434"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="530"
+         cx="152"
+         fill="#FFE333" />
+      <circle
+         id="circle436"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="530"
+         cx="151"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="science-fiction">
+    <g
+       id="g443"
+       class="line">
+      <line
+         id="line441"
+         style="stroke: rgb(255, 227, 51); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="561"
+         x2="151"
+         y1="561"
+         x1="140" />
+    </g>
+    <g
+       id="g449"
+       class="circles">
+      <circle
+         id="circle445"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="561"
+         cx="151"
+         fill="#FFE333" />
+      <circle
+         id="circle447"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="561"
+         cx="140"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="sport">
+    <g
+       id="g454"
+       class="line">
+      <line
+         id="line452"
+         style="stroke: rgb(219, 165, 32); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="592"
+         x2="149"
+         y1="592"
+         x1="156" />
+    </g>
+    <g
+       id="g460"
+       class="circles">
+      <circle
+         id="circle456"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="592"
+         cx="149"
+         fill="#FFE333" />
+      <circle
+         id="circle458"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="592"
+         cx="156"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="film-noir">
+    <g
+       id="g465"
+       class="line">
+      <line
+         id="line463"
+         style="stroke: rgb(255, 227, 51); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="623"
+         x2="146"
+         y1="623"
+         x1="145" />
+    </g>
+    <g
+       id="g471"
+       class="circles">
+      <circle
+         id="circle467"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="623"
+         cx="146"
+         fill="#FFE333" />
+      <circle
+         id="circle469"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="623"
+         cx="145"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="animation">
+    <g
+       id="g476"
+       class="line">
+      <line
+         id="line474"
+         style="stroke: rgb(255, 227, 51); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="654"
+         x2="143"
+         y1="654"
+         x1="140" />
+    </g>
+    <g
+       id="g482"
+       class="circles">
+      <circle
+         id="circle478"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="654"
+         cx="143"
+         fill="#FFE333" />
+      <circle
+         id="circle480"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="654"
+         cx="140"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <g
+     style="opacity: 1;"
+     class="genre"
+     id="horreur">
+    <g
+       id="g487"
+       class="line">
+      <line
+         id="line485"
+         style="stroke: rgb(255, 227, 51); stroke-width: 3; opacity: 0.6; cursor: pointer;"
+         y2="685"
+         x2="142"
+         y1="685"
+         x1="140" />
+    </g>
+    <g
+       id="g493"
+       class="circles">
+      <circle
+         id="circle489"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="685"
+         cx="142"
+         fill="#FFE333" />
+      <circle
+         id="circle491"
+         style="opacity: 1; cursor: pointer;"
+         r="8"
+         cy="685"
+         cx="140"
+         fill="#DBA520" />
+    </g>
+  </g>
+  <text
+     id="text496"
+     style="font-style: italic;"
+     text-anchor="end"
+     y="20"
+     x="550">Fréquence</text>
+  <g
+     id="g506"
+     style="opacity: 1;"
+     class="legend">
+    <circle
+       id="circle498"
+       fill="#DBA520"
+       r="8"
+       cy="720"
+       cx="180" />
+    <text
+       id="text500"
+       alignment-baseline="central"
+       text-anchor="start"
+       y="725"
+       x="200">Films récompensés</text>
+    <circle
+       id="circle502"
+       fill="#FFE333"
+       r="8"
+       cy="720"
+       cx="380" />
+    <text
+       id="text504"
+       alignment-baseline="central"
+       text-anchor="start"
+       y="725"
+       x="400">Films nommés</text>
+  </g>
+</svg>
