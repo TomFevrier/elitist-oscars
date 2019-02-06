@@ -1,0 +1,218 @@
+* {
+	box-sizing: border-box;
+}
+
+i em {
+	font-style: normal;
+}
+
+h1 {
+	font: bold 52px 'Noto Serif', sans-serif;
+	text-align: center;
+	font-weight: bold;
+}
+
+.textBlock {
+	font-family: 'Noto Serif', serif;
+	width: 40%;
+	margin: auto;
+}
+
+.textBlock p {
+	font-size: 17px;
+	line-height: 1.4;
+}
+
+.textBlock a {
+	font-weight: bold;
+	text-decoration: none;
+	color: #DBA520;
+}
+
+.textBlock h2 {
+	font: bold 25px 'Roboto', sans-serif;
+	text-align: center;
+}
+
+figcaption {
+	font-size: 14px;
+	text-align: center;
+}
+
+blockquote {
+	font-size: 19px;
+	color: #F15A24;
+}
+
+.section {
+	margin: 0 0 5%;
+}
+
+.chartArea {
+	width: 75%;
+	margin: 0 auto;
+	font: 14px 'Roboto', sans-serif;
+	line-height: 1.4;
+	position: relative;
+}
+
+.chartContainer {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	top: 0;
+	width: 100%;
+	height: 100vh;
+	position: -webkit-sticky;
+	position: sticky;
+	-webkit-transform: translate3d(0, 0, 0);
+	-moz-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+}
+
+.chartContainer .textBlock {
+	width: 100%;
+	position: relative;
+}
+
+.chart {
+	position: relative;
+	max-width: 100%;
+	height: 80vh;
+}
+
+.comment {
+	width: 25%;
+	position: relative;
+	pointer-events: none;
+	padding: 1px;
+}
+
+.comment .step {
+	font-size: 1.2em;
+	min-height: 10vh;
+	margin-bottom: 50vh;
+	padding: 8px;
+	background: rgba(255, 255, 255, 0.9);
+}
+
+.comment .step p {
+	margin: 0;
+	margin-bottom: 5px;
+}
+
+.chartArea.overlay .comment {
+	margin-left: 20%;
+}
+
+.chartArea.left .chartContainer {
+	float: right;
+	width: 70%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.chartArea.left .chart {
+	height: auto;
+}
+
+.chartArea.left .comment {
+	width: 30%;
+}
+
+.chartArea.right {
+	display: flex;
+	justify-content: center;
+}
+
+.chartArea.right .chartContainer {
+	width: auto;
+}
+
+.chartArea.right .chart {
+	height: 90vh;
+}
+
+.chartArea.right .comment {
+
+}
+
+svg {
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+
+.xAxis, .yAxis {
+	font: 14px 'Roboto', sans-serif;
+	color: #242424;
+	stroke-width: 2px;
+}
+
+.grid {
+	color: #ABABAB;
+	opacity: 0.6;
+}
+
+.movie-link {
+	font-weight: bold;
+	pointer-events: auto;
+	cursor: pointer;
+	color: #DBA520;
+}
+
+.movie-link:hover {
+	color: #242424;
+}
+
+.note {
+	position: relative;
+	margin: 0;
+	clear: both;
+}
+
+.note p {
+	font-size: 14px;
+	color: #ABABAB;
+	font-weight: lighter;
+	margin: 5px;
+}
+
+.note a {
+	color: inherit;
+}
+
+div.tooltip {
+	width: 200px;
+	position: absolute;
+	transform: translate(-50%, 25px);
+	padding: 5px;
+	font: 14px 'Roboto', sans-serif;
+	color: #242424;
+	text-align: center;
+	background-color: #EEEEEE;
+	border: 0px;
+	border-radius: 4px;
+	pointer-events: none;
+}
+
+div.tooltip h3 {
+	margin: 0;
+	font-size: 15px;
+	font-weight: bolder;
+}
+
+div.tooltip h4 {
+	font-size: 14px;
+	margin: 0;
+}
+
+div.tooltip p {
+	margin: 0;
+}
+
+#chartPopularity.tooltip {
+	width: auto;
+	max-width: 200px;
+	min-width: 150px;
+}

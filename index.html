@@ -2,43 +2,244 @@
 <html>
 	<head>
 		<meta charset='utf-8'>
+		<script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
 		<script src='https://d3js.org/d3.v5.js'></script>
-		<script type='text/javascript' src='main.js'></script>
+		<script src='https://unpkg.com/intersection-observer@0.5.0/intersection-observer.js'></script>
+		<script src='https://unpkg.com/scrollama'></script>
+		<script type='module' src='./js/main.js'></script>
+		<script type='module' src='./js/generateCharts.js'></script>
+		<link href='https://fonts.googleapis.com/css?family=Noto+Serif|Roboto' rel="stylesheet">
+		<link rel='stylesheet' href='styles.css' />
 	</head>
-	<style>
-		body {
-			background-color: black;
-		}
-		
-		svg {
-			background-color: beige;
-		}
-		
-		.x-axis, .y-axis {
-			color: #242424;
-			font: 20px 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
-		}
-		
-		div.tooltip {
-			position: absolute;
-			text-align: center;
-			height: 60px;
-			padding: 2px;
-			font: 14px 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
-			color: #242424;
-			background-color: lightgrey;
-			border: 0px;
-			border-radius: 8px;
-			pointer-events: none;
-		}
-		
-		div.tooltip h3 {
-			font-size: 16px;
-			font-style: bold;
-			margin: 0;
-		}
-		
-	</style>
 	<body>
+		<div id='intro' class='section'>
+			<h1>Les Oscars sont-ils devenus élitistes ?</h1>
+			<figure>
+				<img src='./media/tournage-black-panther.jpg' width='75%' style='display: block; margin: 0 auto;'/>
+				<figcaption>Tournage de <i>Black Panther</i> (2018), premier film Marvel à être nommé pour l'Oscar du meilleur film</figcaption>
+			</figure>
+
+			<div class='textBlock'>
+				<p>Les Oscars n'ont plus la côte. L'année dernière, la cérémonie n'avait attiré que 26,5 millions de téléspectateurs. Une baisse de 20&#8239;% par rapport à 2017, et la plus faible audience de l'histoire des Oscars. Afin de regagner l'intérêt des spectateurs, l'Académie des Oscars <a href='https://www.hollywoodreporter.com/race/academy-plans-three-hour-oscars-telecast-adds-popular-film-category-1133138' target='_blank'>avait annoncé l'été dernier</a> plusieurs changements majeurs, notamment une réduction de la durée de la cérémonie ainsi que la création d'une nouvelle catégorie, l'Oscar du "meilleur film populaire".</p>
+
+				<p>Cette dernière annonce avait fait grand bruit. Certains journalistes et membres de l'Académie <a href='https://variety.com/2018/film/news/oscars-popular-film-category-academy-members-react-1202900278/' target='_blank'>avaient fait part de leur inquiétude</a> que la cérémonie perde en prestige, tandis que d'autres y ont vu une volonté d'écarter de l'Oscar du meilleur film les blockbusters comme <i>Black Panther</i>, finalement nommé dans cette catégorie. <i>"Un prix du meilleur 'film populaire' est un ghetto, et sera perçu comme tel"</i>, avait par exemple déclaré sur Twitter Mark Harris, journaliste à <i>Vulture</i>. <i>"Imaginez s'il était mis en place cette année&nbsp;: 'Oh, comme c'est charmant, la populace s'est précipitée sur Black Panther &mdash; voilà un faux Oscar spécialement pour lui !' C'est à se cogner la tête contre les murs."</i></p>
+
+				<blockquote class='twitter-tweet tw-align-center' data-lang='fr' data-conversation='none'><p lang='en' dir='ltr' width=300>As for a &quot;popular film&quot; award, it is a ghetto and will be perceived that way. Imagine if they instituted it this year: &quot;Oh, It&#39;s lovely that the rabble went to Black Panther--here&#39;s a special fake Oscar it can win!&quot; This is just a head-slapper on all counts.</p>&mdash; Mark Harris (@MarkHarrisNYC) <a href='https://twitter.com/MarkHarrisNYC/status/1027216971211964416?ref_src=twsrc%5Etfw' target='_blank'>8 août 2018</a></blockquote>
+
+				<p>Suite à la polémique, l'Académie avait renoncé à mettre en place cette nouvelle catégorie pour les Oscars 2019, même si son président John Bailey <a href='https://variety.com/2018/artisans/news/camerimage-ampas-popular-film-award-academy-john-bailey-1203027430/' target='_blank'>a déclaré en novembre dernier</a> que l'idée était toujours dans les cartons. John Bailey a également confirmé que cette idée avait été soufflée par la chaîne ABC, qui diffuse les Oscars. Sachant qu'ABC est la propriété de Disney, certains ont eu tôt fait d'y voir une manœuvre de la firme aux grandes oreilles pour mettre en avant ses propres productions.</p>
+
+				<p>Suite aux rachats successifs de Pixar, de Marvel, de Lucasfilm et plus récemment de 21st Century Fox, Disney s'est en effet placé en position de quasi-monopole sur le créneau des films à gros budget &mdash; visés par une telle catégorie. En 2017 par exemple, la moitié des dix films les plus populaires de l'année étaient à divers degrés des productions Disney&nbsp;: <i>Star Wars VIII</i>, <i>La Belle et la Bête</i>, <i>Les gardiens de la galaxie Vol. 2</i>, <i>Spider-Man: Homecoming</i> et <i>Thor Ragnarok</i>.</p>
+
+				<figure>
+					<blockquote class='twitter-tweet tw-align-center' data-lang='fr' data-conversation='none'><p lang='en' dir='ltr' width=300>Another question being raised: Is Disney, which houses Marvel, Lucasfilm, and Pixar, using its network ABC to strongarm the Academy into creating an award from which it stands to benefit more than any other studio? Regardless, today ends with AMPAS having damaged itself. A shame.</p>&mdash; Mark Harris (@MarkHarrisNYC) <a href='https://twitter.com/MarkHarrisNYC/status/1027404170826006529?ref_src=twsrc%5Etfw' target='_blank'>9 août 2018</a></blockquote>
+					<figcaption><i>"Une question se pose&nbsp;: Disney, qui possède Marvel, Lucasfilm et Pixar, utiliserait-il ABC pour forcer l'Académie à créer un prix dont il devrait bénéficier plus que tout autre studio ? (...)"</i></figcaption>
+				</figure>
+
+				<p>Mais même si l'Oscar du "meilleur film populaire" ne voit jamais le jour, sa simple évocation est révélatrice d'un certain malaise. Cela fait plusieurs années que le fossé ne cesse de se creuser entre le public et les Oscars, l'Académie récompensant de plus en plus de films indépendants et "snobant" les films populaires et les blockbusters, qui indépendamment de leur qualité sont souvent relégués aux catégories techniques. <i>Mad Max: Fury Road</i> (2015) est un cas d'école&nbsp;: nommé dans dix catégories, le blockbuster post-apocalyptique de George Miller reçoit six statuettes... mais aucun Oscar prestigieux, l'Académie lui préférant <i>Spotlight</i> pour la catégorie du meilleur film.</p>
+
+				<figure>
+					<img src='./media/mad-max.jpg' width='100%' style='display: block; margin: 0 auto;'/>
+					<figcaption>Tom Hardy dans <i>Mad Max: Fury Road</i> (2015), qui échoue à remporter les Oscars du meilleur film, du meilleur réalisateur et de la meilleure photographie</figcaption>
+				</figure>
+
+				<p>Cela n'a pourtant pas toujours été le cas&nbsp;: il y a encore une vingtaine d'années, il était courant pour les films plébiscités par le public de remporter des statuettes. Les Oscars seraient-ils devenus élitistes ? Pour le savoir, nous avons collecté l'ensemble des films nommés et récompensés aux Oscars depuis huit décennies, et nous avons étudié leur popularité en salle.</p>
+			</div>
+
+		</div>
+		<div id='popularitySection' class='section'>
+			<div class='chartArea overlay'>
+				<div class='chartContainer'>
+					<div class='textBlock'>
+						<h2>Des Oscars de moins en moins populaires</h2>
+					</div>
+					<div class='chart' id='chartPopularity'></div>
+					<div class='note'>
+						<i><p>Les données sont issues de <a href='https://www.imdb.com/' target='_blank'>l'Internet Movie Database (IMDb)</a>.</p>
+						<p>Seuls sont indiqués les films pour lesquels le box office est connu. Les chiffres correspondent au box office sur le territoire américain, et sont ajustés pour l'inflation (à partir de <a href='https://www.bls.gov/cpi/' target='_blank'>l'indice des prix</a> du Bureau du Travail américain).</i>
+					</div>
+				</div>
+				<div class='comment'>
+					<div class='step' data-part='Best Picture' data-action='showNominees'>
+						<p>Voici l'ensemble des films nommés pour <b>l'Oscar du meilleur film</b> depuis 1940. La hauteur de chaque disque correspond au rang du film au box office&nbsp;: plus il est haut, plus le film a été populaire.</p>
+					</div>
+					<div class='step' data-part='Best Picture' data-action='showWinners'>
+						<p>Et voici parmi les films nommés ceux qui ont reçu l'Oscar <img src='./media/oscar.svg' width=20 style='display: inline-block; margin: 0' /></p>
+					</div>
+					<div class='step' data-part='Best Picture'>
+						<p><b>Oscar du meilleur film</b></p>
+						<p>Jusqu'au milieu des années 2000, les films récompensés avaient généralement les faveurs du public. Le prix était même assez souvent remis au film le plus populaire de l'année&nbsp;: <span class='movie-link'><i>Autant en emporte le vent</i></span>, <span class='movie-link'><i>Le pont de la rivière Kwaï</i></span>, <span class='movie-link'><i>Ben-Hur</i></span>, <span class='movie-link'><i>La mélodie du bonheur</i></span>, <span class='movie-link'><i>Le parrain</i></span>, <span class='movie-link'><i>Rocky</i></span>, <span class='movie-link'><i>Rain Man</i></span>, <span class='movie-link'><i>Forrest Gump</i></span> et <span class='movie-link'><i>Titanic</i></span> ont tous remporté la statuette. <span class='movie-link' data-title='Le seigneur des anneaux: Le retour du roi'><i>Le retour du roi</i></span>, troisième volet de la saga du <i>Seigneur des Anneaux</i>, est cependant le dernier film du top 15 à se voir attribuer le prix.</p>
+					</div>
+					<div class='step'>
+						<p>En 2009, <i>The Dark Knight</i> et <i>Wall-E</i>, pourtant très bien reçus par la critique, sont "snobés" par l'Académie et ne sont même pas nommés. Pour éviter que cela se reproduise, le nombre de films nommés dans la catégorie passe de 5 à 10.</p>
+						<p>Des films comme <span class='movie-link'><i>Avatar</i></span>, <span class='movie-link'><i>Là-haut</i></span>, <span class='movie-link'><i>Toy Story 3</i></span>, <span class='movie-link'><i>Inception</i></span>, <span class='movie-link'><i>Gravity</i></span> et <span class='movie-link'><i>American Sniper</i></span>, gros succès au box office, sont ainsi nommés les années suivantes. Mais aucun ne reçoit la statuette, décernée à des films bien plus discrets en salles&nbsp;: <span class='movie-link'><i>Démineurs</i></span>, récompensé en 2010, avait engrangé moins de 20 millions de dollars l'année de sa sortie.</p>
+					</div>
+					<div class='step' data-part='Best Picture' data-action='showAudienceCeremony'>
+						<p>En observant la courbe des audiences de la <b>cérémonie des Oscars</b> depuis 1974, on remarque que les années avec les plus fortes audiences correspondent également aux années où des films très populaires étaient nommés.</p>
+					</div>
+					<div class='step'>
+						<p>Quelques exemples... 1983 avec <span class='movie-link' data-title="E.T., l'extra-terrestre"><i>E.T.</i></span>, sélectionné dans neuf catégories, 1995 avec <span class='movie-link'><i>Forrest Gump</i></span>, nommé dans 13 catégories, et bien sûr 1998 et son record d'audience pour <span class='movie-link'><i>Titanic</i></span> et ses 14 nominations&nbsp;: 55 millions de téléspectateurs.</p>
+					</div>
+					<div class='step'>
+						<p>Depuis cette date, les audiences ne cessent de chuter, malgré des pics ponctuels en 2004 (pour  <span class='movie-link' data-title='Le seigneur des anneaux: le retour du roi'><i>Le retour du roi</i></span>), en 2010 (pour  <span class='movie-link'><i>Avatar</i></span>) et en 2014, où <span class='movie-link'><i>Gravity</i></span> était nommé dans 10 catégories et où il était question d'un Oscar pour Leonardo DiCaprio dans <span class='movie-link'><i>Le loup de Wall Street</i></span>.</p>
+					</div>
+					<div class='step' data-part='Best Directing'>
+						<p><b>Oscar du meilleur réalisateur</b></p>
+						<p>Traditionnellement, les Oscars du meilleur film et du meilleur réalisateur récompensent très souvent la même oeuvre&nbsp;: depuis 1940, ils n'ont différé que 18 fois. L'une de ces exceptions est le sacre en 2006 d'Alfonso Cuarón, qui salue la virtuosité technique de son <span class='movie-link'><i>Gravity</i></span>, l'un des films les plus populaires de l'année précédente et par ailleurs le seul film de science-fiction à recevoir l'Oscar du meilleur réalisateur.</p>
+					</div>
+					<div class='step' data-part='Best Cinematography'>
+						<p><b>Oscar de la meilleure photographie</b></p>
+						<p>L'Oscar de la meilleure photographie semble bien plus élitiste que les autres catégories. A partir des années 1980, avec l'explosion du nombre de films sortant chaque année, les films sélectionnés se veulent plus éclectiques.</p>
+					</div>
+					<div class='step'>
+						<p>Parmi les nommés se trouvent beaucoup de films étrangers, comme <span class='movie-link'>Le fabuleux destin d'Amélie Poulain</span> ou le film chinois d'arts martiaux <span class='movie-link'>Le secret des poignards volants</span>, ou encore le drame suédois <span class='movie-link'><i>Fanny et Alexandre</i></span> et le conte fantastique espagnol <span class='movie-link'><i>Le labyrinthe de Pan</i></span>, qui remportent tous les deux le prix.</p>
+					</div>
+					<div class='step'>
+						<p><b>Quelques précisions...</b></p>
+						<p><i>De 1940 à 1967, deux récompenses sont remises chaque année, pour la meilleure photographie en couleur et en noir et blanc.</i></p>
+						<p><i><em>Mudbound</em>, nommé en 2018, n'est pas indiqué sur ce graphique, dans la mesure où le film n'a été distribué que sur Netflix. C'est également le cas cette année de <em>La Ballade de Buster Scruggs des frères Coen</em>, nommé pour l'Oscar du meilleur scénario adapté, ainsi que de <em>Roma</em> d'Alfonso Cuarón, nommé dans dix catégories &mdash; record absolu pour un film Netflix.</i></p>
+					</div>
+					<div class='step' data-part='Best Visual Effects'>
+						<p><b>Oscar des meilleurs effets spéciaux et visuels</b></p>
+						<p>Les films à effets spéciaux ont généralement des budgets importants et fonctionnent très bien en salles.</p>
+						<p>Les années 1960 sont dominées par des péplums tels <span class='movie-link'><i>Ben-Hur</i></span> et <span class='movie-link'><i>Cléopâtre</i></span>, des films historiques comme <span class='movie-link'><i>Le jour le plus long</i></span> et <span class='movie-link'><i>Tora! Tora! Tora!</i></span>, et des œuvres encore plus novatrices sur le plan technique, comme <span class='movie-link'><i>Mary Poppins</i></span> et <span class='movie-link'><i>2001, l'odyssée de l'espace</i></span>.</p>
+					</div>
+					<div class='step'>
+						<p>Les années 1980 et 1990 voient le triomphe d'<i>Industrial Light & Magic</i>, avec les films de Steven Spielberg (<span class='movie-link'><i>Les aventuriers de l'arche perdue</i></span>, <span class='movie-link' data-title="E.T., l'extra-terrestre"><i>E.T.</i></span>, <span class='movie-link'><i>Jurassic Park</i></span>...), de Robert Zemeckis (<span class='movie-link'><i>Forrest Gump</i></span>) et James Cameron (<span class='movie-link' data-title='Terminator 2 - Le jugement dernier'><i>Terminator 2</i></span> et <span class='movie-link'><i>Titanic</i></span>). C'est également le sacre de la trilogie originale <span class='movie-link' data-title='La guerre des étoiles'><span class='movie-link' data-title="L'empire contre-attaque"><span class='movie-link' data-title='Le retour du Jedi'><i>Star Wars</i></span></span></span>, dont chacun des films remporte le prix, parfois sans aucune concurrence comme en 1981 et 1984.</p>
+					</div>
+					<div class='step'>
+						<p>Si Peter Jackson domine les années 2000 avec les trois films du <span class='movie-link' data-title="Le seigneur des anneaux: la communauté de l'anneau"><span class='movie-link' data-title="Le seigneur des anneaux: les deux tours"><span class='movie-link' data-title="Le seigneur des anneaux: le retour du roi"><i>Seigneur des Anneaux</i></span></span></span> et <span class='movie-link'><i>King Kong</i></span>, le prix semble devenir plus élitiste ces dix dernières années.</p>
+						<p><span class='movie-link'><i>Avatar</i></span> remporte bien le prix en 2010, mais aucun des films Marvel et <i>Star Wars</i> nommés n'est récompensé.</p>
+						<p>L'Oscar est plutôt remis à des films techniquement méritants mais mal accueillis par le public (<span class='movie-link' data-title="À la croisée des mondes: la boussole d'or"><i>A la croisée des mondes</i></span>, <span class='movie-link'><i>Hugo Cabret</i></span>), ou bien des œuvres avec une démarche d'auteur comme <span class='movie-link'><i>L'odyssée de Pi</i></span>, <span class='movie-link'><i>Blade Runner 2049</i></span>, et surtout <span class='movie-link'><i>Ex Machina</i></span>, film le moins populaire à avoir reçu le prix.</p>
+					</div>
+					<div class='step'>
+						<p><b>Quelques précisions...</b></p>
+						<p><i>Les effets spéciaux sont les effets réalisés au tournage (explosions, coups de feu, pyrotechnie...), tandis que le terme d'effets visuels désigne les effets réalisés en post-production (notamment fonds verts et images de synthèse).</i></p>
+						<p><i>De 1973 à 1977, puis en 1979, 1981, 1984 et 1991, un Oscar d'honneur est remis à un ou deux films sans vote.</i></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id='evolutionGenresSection' class='section'>
+			<div class='textBlock'>
+				<h2>Action et aventure, pas le genre des Oscars</h2>
+
+				<p>Pourquoi cet écart grandissant entre les films nommés et récompensés aux Oscars et les films attirant le plus de spectateurs dans les salles ? La réponse tient peut-être à l'évolution des goûts du public en matière de cinéma.</p>
+				<p>En analysant les genres des films sélectionnés par l'Académie et des films les plus populaires de chaque année, on observe une disparité croissante. Si les genres plébiscités par l'Académie sont restés relativement stables au cours du temps, le public et l'industrie privilégient de plus en plus les films d'aventure et d'action, peu au goût des Oscars.</p>
+
+				<p>Depuis le début des années 2000 en particulier, le nombre de films de super-héros a explosé, plaçant ces superproductions au sommet du box-office chaque année ou presque. Ce virage vers un cinéma de divertissement "pop-corn" se fait au détriment des drames et films romantiques qui avaient autrefois les faveurs à la fois du public et de l'Académie, à l'image de <i>Titanic</i> qui s'inscrit dans ces deux genres.</p>
+
+				<figure>
+					<img src='./media/titanic.jpg' width='100%' style='display: block; margin: 0 auto;'/>
+					<figcaption>Kate Winslet et Leonardo DiCaprio dans <i>Titanic</i> (1997)</figcaption>
+				</figure>
+
+			</div>
+			<div class='chartArea left'>
+				<div class='chartContainer'>
+					<div class='chart' id='chartEvolutionGenres'></div>
+					<div class='note'>
+						<i><p>Les données sont issues de <a href='https://www.imdb.com/' target='_blank'>l'Internet Movie Database (IMDb)</a>.</p>
+						<p>A chaque film sont associés entre un et trois genres : le total est donc supérieur à 100&nbsp;%.</p>
+						<p>Les fréquences pour les Oscars correspondent aux films nommés dans les six catégories suivantes : Meilleur film, Meilleure réalisation, Meilleure photographie, Meilleurs effets spéciaux ou visuels et Meilleur scénario original et adapté.</p>
+						<p>Les fréquences pour le box office correspondent aux vingt films les plus populaires l'année précédente.</p></i>
+					</div>
+				</div>
+				<div class='comment'>
+					<div class='step' data-part='Drama' data-action='showOscars' style='margin-top: 100vh;'>
+						<p>Voici l'évolution de la proportion de <b>drames</b> parmi les films nommés aux Oscars depuis 1940. Un genre qui a toujours été très plébiscité par l'Académie, même si "drame" est une dénomination très large, regroupant des films aussi divers que <i>La La Land</i>, <i>Django Unchained</i> ou <i>Interstellar</i>.</p>
+					</div>
+					<div class='step' data-part='Drama' data-action='showAudiences'>
+						<p>Et voici l'évolution de la proportion de drames parmi les films occupant les vingt premières place du box office chaque année précédant les Oscars.</p>
+					</div>
+					<div class='step' data-part='Drama' data-action='showDifference'>
+						<p><b>Drame</b></p>
+						<p>L'écart avec le public ne cesse donc de se creuser depuis les années 1980&nbsp;: en 1975, 70&nbsp;% des films du box office (soit 14 films sur 20) étaient des drames ; en 2017, cette proportion n'est plus que de 15&nbsp;% (soit 3 films), et ce malgré un pic au milieu des années 1990 avec les succès populaires de <b><i>Bodyguard</i></b> (avec Whitney Houston) en 1992, <b><i>Madame Doubtfire</i></b> en 1993 et <b><i>Forrest Gump</i></b> en 1994.</p>
+					</div>
+					<div class='step' data-part='Romance'>
+						<p><b>Films romantiques</b></p>
+						<p>L'amour est-il mort ? C'est en tout cas ce que l'on pourrait croire en observant l'évolution de la popularité des films romantiques.</p>
+						<p>Si dans les années 1940 et 1950 les romances représentaient régulièrement près de la moitié des films du box office, cette proportion ne cesse de chuter depuis 1978 et le carton populaire <b><i>Grease</i></b>, si bien qu'en 2016 et en 2017 aucun film romantique ne faisait partie des vingt films les plus vus en salle.</p>
+						<p>2018 marque une résurgence relative du genre, avec les succès en salles de <b><i>A Star is Born</i></b> et <b><i>Crazy Rich Asians</i></b>.</p>
+					</div>
+					<div class='step' data-part='Action'>
+						<p><b>Films d'action</b></p>
+						<p>Depuis les années 1980, le public semble de plus en plus friand d'action, alors que ce genre n'a jamais vraiment été apprécié des Oscars.</p>
+						<p>Les films d'action représentaient un quart des films du box office en 1977, année de sortie du premier <b><i>Star Wars</i></b> ; en 2018, c'est près de 60&nbsp;% des films populaires qui s'apparentent à ce genre, dont une majorité de films de super-héros&nbsp;: <b><i>Black Panther</i></b>, <b><i>Avengers: Infinity War</i></b>, <b><i>Deadpool 2</i></b>...</p>
+					</div>
+					<div class='step' data-part='Adventure'>
+						<p><b>Films d'aventure</b></p>
+						<p>La même tendance se retrouve avec les films d'aventure, de plus en plus populaires depuis les années 1990&nbsp;: en 1989, année de sortie d'<b><i>Indiana Jones et la dernière croisade</i></b> et de <b><i>Retour vers le futur 2</i></b>, 20&nbsp;% des films du box office (soit 4 films) étaient des films d'aventure ; en 2016, cette proportion est montée à 80&nbsp;% (16 films), pour la plupart des films de super-héros&nbsp;: <b><i>Captain America: Civil War</i></b>, <b><i>Batman v Superman</i></b>...</p>
+						<p>Les Oscars semble cependant s'ouvrir davantage aux films d'aventure depuis les années 2000, une ouverture relative puisque que ces derniers ne sont souvent nommés que pour l'Oscar des meilleurs effets visuels, qu'ils remportent rarement.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id='oscarsGenresSection' class='section'>
+			<div class='textBlock'>
+				<h2>Les comédies peu récompensées</h2>
+
+				<p>Le problème des Oscars ne serait donc pas tant leur élitisme que leur volonté de ne pas épouser les évolutions récentes des goûts des spectateurs. Depuis toujours, les Oscars ont tendance à privilégier certains genres au détriment d'autres&nbsp;: les drames et les films romantiques sont particulièrement appréciés, comme nous l'avons vu, de même que les films biographiques (ou biopics).</p>
+
+				<p>Les films dits de genre sont quant à eux sous-représentés. Aucun film d'horreur ou de science-fiction n'a jamais remporté l'Oscar du meilleur film, et seulement un film fantastique&nbsp;: <i>La forme de l'eau</i> de Guillermo del Toro en 2018 &mdash; bien que <i>Le retour du roi</i> (Oscar du meilleur film 2004) soit un film fantastique, il n'apparaît pas comme tel sur IMDb.</p>
+
+				<p>Ces tendances sont exacerbées quand on s'intéresse uniquement aux films ayant remporté l'Oscar. Les comédies, en particulier, sont assez souvent nommées mais peu récompensées.</p>
+
+				<figure>
+					<img src='./media/shape-of-water.jpg' width='100%' style='display: block; margin: 0 auto;'/>
+					<figcaption><i>La forme de l'eau</i> (2017), seul film de genre avec <i>Le retour du roi</i> (2003) à avoir reçu l'Oscar du meilleur film</figcaption>
+				</figure>
+			</div>
+			<div class='chartArea right'>
+				<div class='chartContainer'>
+					<div class='chart' id='chartOscarsGenres'></div>
+					<div class='note'>
+						<i><p>Les données sont issues de <a href='https://www.imdb.com/' target='_blank'>l'Internet Movie Database (IMDb)</a>.</p>
+						<p>A chaque film sont associés entre un et trois genres : le total est donc supérieur à 100&nbsp;%.</p></i>
+					</div>
+				</div>
+				<div class='comment'>
+					<div class='step' data-part='Best Picture' data-action='showNominees' style='margin-top: 100vh;'>
+						<p>Chaque point sur ce graphique représente, pour un genre donné, la fréquence de films nommés pour <b>l'Oscar du meilleur film</b>.</p>
+					</div>
+					<div class='step' data-part='Best Picture' data-action='showWinners'>
+						<p>Et voici les fréquences uniquement pour les films ayant remporté une statuette <img src='./media/oscar.svg' width=20 style='display: inline-block; margin: 0' /></p>
+					</div>
+					<div class='step' data-part='Best Picture'>
+						<h3><b>Oscar du meilleur film</b></h3>
+						<p><b>Drame, film romantique et biopic</b>, sans surprise, arrivent en tête des genres les plus nommés et récompensés. Les comédies sont autant nommées que les biopics, mais seules 16&nbsp;% d'entre elles reçoivent une statuette. A l'inverse, les <b>films de guerre</b> ne constituent que 7&nbsp;% des nominations, mais sont récompensés dans plus d'un tiers des cas.</p>
+					</div>
+					<div class='step' data-part='Best Directing'>
+						<h3><b>Oscar du meilleur réalisateur</b></h3>
+						<p>Comme pour l'Oscar du meilleur film, <b>drame, film romantique et biopic</b> sont le trio de tête des genres les plus récompensés par l'Oscar du meilleur réalisateur. Les comédies sont une nouvelle fois désavantagées, puisque bien qu'elles représentent 21&nbsp;% des nominations, elles ne constituent que 17&nbsp;% des films à recevoir une statuette. Les <b>films de guerre</b> sont encore une fois sur-représentés parmi les films récompensés, puisque près de la moitié des 27 films nommés se sont vu remettre le prix.</p>
+					</div>
+					<div class='step' data-part='Best Cinematography'>
+						<h3><b>Oscar de la meilleure photographie</b></h3>
+						<p>L'Oscar de la meilleure photographie est plus éclectique. Le <b>drame</b> reste le genre prédominant, mais <b>les films romantiques, les films d'aventure, les films historiques et les biopics</b> représentent tous autour d'un quart des films récompensés. Encore une fois, les comédies sont nettement sous-représentées&nbsp;: bien qu'elles constituent 15&nbsp;% des nominations, elles ne reçoivent la statuette que dans 8&nbsp;% des cas.</p>
+					</div>
+					<div class='step' data-part='Best Visual Effects'>
+						<h3><b>Oscar des meilleurs effets spéciaux et visuels</b></h3>
+						<p>Un peu de changement pour l'Oscar des meilleurs effets visuels, où les genres les plus nommés et récompensés sont <b>les films d'aventure et d'action, les drames, les films de science-fiction et les films fantastiques</b>. Malgré tout, l'Académie semble biaisée contre les films d'action, puisque seuls 27&nbsp;% des films de ce genre nommés se sont vu remettre une statuette. A l'inverse, près de la moitié des 77 drames nommés ont reçu une statuette.</p>
+					</div>
+					<div class='step' data-part='Best Original Screenplay'>
+						<h3><b>Oscar du meilleur scénario original</b></h3>
+						<p><b>Drame, films romantiques et comédies</b> dominent l'Oscar du meilleur scénario original. Néanmoins les comédies sont encore une fois sous-représentées parmi les films récompensés&nbsp;: bien qu'elles soient bien plus souvent nommées que les films romantiques, elles disposent du même nombre de statuettes.</p>
+					</div>
+					<div class='step' data-part='Best Adapted Screenplay'>
+						<h3><b>Oscar du meilleur scénario adapté</b></h3>
+						<p>Pour l'Oscar du meilleur scénario adapté, on retrouve le même trio de tête que pour les Oscars du meilleur film et de la meilleure réalisation&nbsp;: <b>drames, films romantiques et biopics</b>. Encore une fois les comédies sont désavantagées, puisqu'elles constituent 22&nbsp;% des films nommés mais ne reçoivent une statuette que dans 13&nbsp;% des cas. Ce biais contre les comédies se fait au profit des biopics, qui représentent un quart des films récompensés, et des <b>films historiques</b> pour lesquels 38&nbsp;% des nommés ont remporté le prix.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id='conclusion' class='section'>
+			<div class='textBlock'>
+				<p>Les Oscars ne sont donc pas plus élitistes qu'avant, si ce n'est un goût plus prononcé pour les films indépendants depuis plusieurs années. Mais l'Académie des Oscars est et a toujours été une institution conservatrice, récompensant un certain type de cinéma qui n'a tout simplement plus les faveurs du public aujourd'hui.</p>
+				<p>La nomination de <i>Black Panther</i> pour l'Oscar du meilleur film 2019 marque-t-elle le début d'une réconciliation entre les Oscars et le public, ou bien &mdash; plus vraisemblablement &mdash; ne s'incrit-elle que dans la célébration de la diversité prônée par l'Académie depuis la polémique <i>#OscarsSoWhite</i>, au même titre que le sacre de Barry Jenkins (Oscar du meilleur film 2017 pour <i>Moonlight</i>) et de Jordan Peele (Oscar du meilleur scénario original 2018 pour <i>Get Out</i>) ?</p>
+				<p>Réponse le 24 février prochain.</p>
+				<br />
+				<p style='text-align: right;'>Tom Février</p>
+			</div>
+
+		</div>
   	</body>
 </html>
