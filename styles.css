@@ -221,10 +221,8 @@ div.tooltip p {
 	margin: 0;
 }
 
-#chartPopularity.tooltip {
-	width: auto;
-	max-width: 200px;
-	min-width: 150px;
+#tooltipOscarsGenres {
+	width: 220px;
 }
 
 @media all and (max-device-width: 480px) {
