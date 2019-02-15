@@ -407,7 +407,7 @@ ChartEvolutionGenres.prototype.createLegend = function() {
 	for (let i = 0; i < 2; i++) {
 		this.legend.append('rect')
 			.attr('x', this.width/2 - 180 + 300*i)
-			.attr('y', this.margin - 37)
+			.attr('y', this.margin - 30)
 			.attr('width', 40)
 			.attr('height', 3)
 			.attr('fill', (i == 0) ? this.colorWinner : this.colorAudience);
@@ -609,9 +609,9 @@ ChartEvolutionGenres.prototype.getTooltip = function(d) {
 
 	return `
 		<h3>${d.oscarsData.key}</h3>
-		<p style='margin-top:5px;'><img src='./media/oscar.svg' width=20 style='display: inline-block; margin: 0' /> <b>${d3.format('.1~%')(oscarsData.frequency)}</b></p>
+		<p style='margin-top:5px;'><img src='./media/oscar.svg' width=20 style='display: inline-block; margin: 0' /> <b>${(oscarsData.frequency != 0) ? d3.format('.1~%')(oscarsData.frequency) : "Aucun film"}</b></p>
 		<p>${(oscarsData.examples.length) > 0 ? oscarsExamples : ''}</p>
-		<p style='margin-top:5px;'><img src='./media/boxoffice.svg' width=17 style='display: inline-block; margin: 0' /> <b>${d3.format('.1~%')(audiencesData.frequency)}</b></p>
+		<p style='margin-top:5px;'><img src='./media/boxoffice.svg' width=17 style='display: inline-block; margin: 0' /> <b>${(audiencesData.frequency != 0) ? d3.format('.1~%')(audiencesData.frequency) : "Aucun film"}</b></p>
 		<p>${(audiencesData.examples.length) > 0 ? audiencesExamples : ''}</p>
 	`;
 

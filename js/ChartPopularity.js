@@ -220,7 +220,7 @@ ChartPopularity.prototype.createLegend = function() {
 
 		this.legend.append('circle')
 		.attr('cx', this.width/2 - 120 + 200*i)
-		.attr('cy', this.margin - 45)
+		.attr('cy', this.margin - 40)
 		.attr('r', 8)
 		.attr('fill', (i == 0) ? this.colorWinner : this.colorNominee);
 
@@ -238,7 +238,7 @@ ChartPopularity.prototype.createLegend = function() {
 
 	this.legend.select('.legend-audience').append('rect')
 		.attr('x', this.width/2 + 250)
-		.attr('y', this.margin - 47)
+		.attr('y', this.margin - 40)
 		.attr('width', 40)
 		.attr('height', 3)
 		.attr('fill', this.colorAudience);
