@@ -449,7 +449,7 @@ ChartOscarsGenres.prototype.updateLines = function() {
 
 ChartOscarsGenres.prototype.getTooltip = function(dataNominees, dataWinners) {
 
-	let examplesLine = (dataWinners.number == 0) ? `<i>${dataNominees.examples.slice(0, 3).join(', ')}${(dataNominees.examples.length > 3) ? '...' : ''}</i> étaient nommés</p>` : `<i>${dataWinners.examples.slice(0, 3).join(', ')}${(dataWinners.examples.length > 3) ? '...' : ''}</i></p>`;
+	let examplesLine = (dataWinners.number == 0) ? `<i>${dataNominees.examples.slice(0, 3).join(', ')}${(dataNominees.examples.length > 3) ? '...' : ''}</i> étai${(dataNominees.examples.length > 1) ? 'en' : ''}t nommé${(dataNominees.examples.length > 1) ? 's' : ''}</p>` : `<i>${dataWinners.examples.slice(0, 3).join(', ')}${(dataWinners.examples.length > 3) ? '...' : ''}</i></p>`;
 	let mainLine = `<p><img src='./media/oscar.svg' width=20 style='display: inline-block; margin: 0;' /><b>${(dataWinners.number == 0) ? 'Aucun film récompensé&nbsp;: ' : d3.format('.0%')(dataWinners.number / dataNominees.number) + " des films nommés ont reçu l'Oscar&nbsp;: "}</b>` + examplesLine;
 
 	let nomineesLine = `<p style='text-align: left; margin-top: 5px;'><span style='color: ${this.colorNominee};'>⬤</span> <i>${dataNominees.number} film${(dataNominees.number > 1) ? 's' : ''} nommé${(dataNominees.number > 1) ? 's' : ''} (${d3.format('.1~%')(dataNominees.frequency)})</i></p>`;
