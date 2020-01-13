@@ -81,7 +81,7 @@ ChartPopularity.prototype.createSVG = function() {
 ChartPopularity.prototype.createScales = function() {
 
 	this.xScale = d3.scaleTime()
-		.domain([new Date('1940'), new Date('2019')])
+		.domain([new Date('1940'), new Date('2020')])
 		.rangeRound([this.margin, this.width - this.margin]);
 
 	this.yScale = d3.scaleLinear()
@@ -91,6 +91,7 @@ ChartPopularity.prototype.createScales = function() {
 	this.yScaleAudience = d3.scaleLinear()
 		.domain([0, 56000000])
 		.rangeRound([this.height - this.margin, this.margin]);
+
 
 }
 
@@ -288,9 +289,9 @@ ChartPopularity.prototype.update = function(category, specialAction) {
 
 		case 'showAudienceCeremony':
 			this.filteredData = this.filteredData.filter(function(e) {
-				return ((e.year >= new Date('1974')) && (e.year <= new Date('2018')));
+				return ((e.year >= new Date('1974')) && (e.year <= new Date('2019')));
 			});
-			this.xScale.domain([new Date('1974'), new Date('2018')]);
+			this.xScale.domain([new Date('1974'), new Date('2019')]);
 			this.svg.select('.xAxis')
 				.transition()
 				.duration(1000)
@@ -338,7 +339,7 @@ ChartPopularity.prototype.updateAxes = function() {
 
 	this.xScale.domain([d3.min(this.filteredData, function(d) {
 		return d.year;
-	}), new Date('2019')]);
+	}), new Date('2020')]);
 
 	this.svg.select('.grid')
 		.transition()

@@ -1,4 +1,24 @@
 year	imdbId	title	genre1	genre2	genre3
+2019		Avengers: Endgame	Action	Adventure	Drama
+2019		Le Roi Lion	Animation	Adventure	Drama
+2019		Star Wars: L'ascension de Skywalker	Action	Adventure	Fantasy
+2019		Toy Story 4	Animation	Adventure	Comedy
+2019		Captain Marvel	Action	Adventure	Sci-Fi
+2019		Spider-Man: Far from Home	Action	Adventure	Sci-Fi
+2019		Aladdin	Adventure	Family	Fantasy
+2019		Ça: Chapitre 2	Drama	Fantasy	Horror
+2019		Joker	Crime	Drama	Thriller
+2019		Us	Horror	Mystery	Thriller
+2019		John Wick Parabellum	Action	Crime	Thriller
+2019		Fast & Furious: Hobbs & Shaw	Action	Adventure	
+2019		Dragons 3: Le monde caché	Animation	Action	Adventure
+2019		Comme des bêtes 2	Animation	Adventure	Comedy
+2019		Pokémon: Détective Pikachu	Action	Adventure	Comedy
+2019		Shazam!	Action	Adventure	Comedy
+2019		Once Upon a Time... in Hollywood	Comedy	Drama	
+2019		Dumbo	Adventure	Family	Fantasy
+2019		Glass	Drama	Sci-Fi	Thriller
+2019		Godzilla II Roi des Monstres	Action	Adventure	Fantasy
 2018	1825683	Black Panther	Action	Adventure	Sci-Fi
 2018	4154756	Avengers: Infinity War	Action	Adventure	Fantasy
 2018	3606756	Les indestructibles 2	Animation	Action	Adventure
@@ -21,14 +41,14 @@ year	imdbId	title	genre1	genre2	genre3
 2018	4779682	En eaux troubles	Action	Horror	Sci-Fi
 2017	2527336	Star Wars: Episode VIII - Les derniers Jedi	Action	Adventure	Fantasy
 2017	2771200	La Belle et la Bête	Family	Fantasy	Musical
-2017	0451279	Wonder Woman	Action	Adventure	Fantasy
+2017	451279	Wonder Woman	Action	Adventure	Fantasy
 2017	2283362	Jumanji: Bienvenue dans la jungle	Action	Adventure	Comedy
 2017	3896198	Les gardiens de la galaxie Vol. 2	Action	Adventure	Comedy
 2017	2250912	Spider-Man: Homecoming	Action	Adventure	Sci-Fi
 2017	1396484	Ça	Horror	Thriller	
 2017	3501632	Thor Ragnarok	Action	Adventure	Comedy
 2017	3469046	Moi, moche et méchant 3	Animation	Action	Adventure
-2017	0974015	Justice League	Action	Adventure	Fantasy
+2017	974015	Justice League	Action	Adventure	Fantasy
 2017	3315342	Logan	Action	Drama	Sci-Fi
 2017	4630562	Fast & Furious 8	Action	Crime	Thriller
 2017	2380307	Coco	Animation	Adventure	Comedy
@@ -60,7 +80,7 @@ year	imdbId	title	genre1	genre2	genre3
 2016	3783958	La La Land	Comedy	Drama	Music
 2016	2267968	Kung Fu Panda 3	Animation	Action	Adventure
 2015	2488496	Star Wars: Episode VII - Le réveil de la Force	Action	Adventure	Fantasy
-2015	0369610	Jurassic World	Action	Adventure	Sci-Fi
+2015	369610	Jurassic World	Action	Adventure	Sci-Fi
 2015	2395427	Avengers: L'ère d'Ultron	Action	Adventure	Sci-Fi
 2015	2096673	Vice-versa	Animation	Adventure	Comedy
 2015	2820852	Fast & Furious 7	Action	Crime	Thriller
@@ -72,7 +92,7 @@ year	imdbId	title	genre1	genre2	genre3
 2015	2381249	Mission: Impossible - Rogue Nation	Action	Adventure	Thriller
 2015	2848292	Pitch Perfect 2	Comedy	Music	
 2015	1663202	The Revenant	Action	Adventure	Biography
-2015	0478970	Ant-Man	Action	Adventure	Comedy
+2015	478970	Ant-Man	Action	Adventure	Comedy
 2015	2224026	En route!	Animation	Adventure	Comedy
 2015	2510894	Hôtel Transylvanie 2	Animation	Comedy	Family
 2015	2322441	Cinquante nuances de Grey	Drama	Romance	Thriller
@@ -91,10 +111,10 @@ year	imdbId	title	genre1	genre2	genre3
 2014	2245084	Les Nouveaux Héros	Animation	Action	Adventure
 2014	2103281	La planète des singes: L'affrontement	Action	Adventure	Drama
 2014	1872181	The Amazing Spider-Man: Le destin d'un héros	Action	Adventure	Sci-Fi
-2014	0831387	Godzilla	Action	Adventure	Sci-Fi
+2014	831387	Godzilla	Action	Adventure	Sci-Fi
 2014	2294449	22 Jump Street	Action	Comedy	Crime
 2014	1291150	Ninja Turtles	Action	Adventure	Comedy
-2014	0816692	Interstellar	Adventure	Drama	Sci-Fi
+2014	816692	Interstellar	Adventure	Drama	Sci-Fi
 2014	1646971	Dragons 2	Animation	Action	Adventure
 2014	2267998	Gone Girl	Crime	Drama	Mystery
 2014	1840309	Divergente	Action	Adventure	Mystery
@@ -103,7 +123,7 @@ year	imdbId	title	genre1	genre2	genre3
 2013	1300854	Iron Man 3	Action	Adventure	Sci-Fi
 2013	2294629	La reine des neiges	Animation	Adventure	Comedy
 2013	1690953	Moi, moche et méchant 2	Animation	Adventure	Comedy
-2013	0770828	Man of Steel	Action	Adventure	Fantasy
+2013	770828	Man of Steel	Action	Adventure	Fantasy
 2013	1454468	Gravity	Drama	Sci-Fi	Thriller
 2013	1453405	Monstres Academy	Animation	Adventure	Comedy
 2013	1170358	Le Hobbit: La Désolation de Smaug	Adventure	Fantasy	
@@ -111,33 +131,33 @@ year	imdbId	title	genre1	genre2	genre3
 2013	1623205	Le monde fantastique d'Oz	Adventure	Family	Fantasy
 2013	1408101	Star Trek Into Darkness	Action	Adventure	Sci-Fi
 2013	1981115	Thor: Le monde des ténèbres	Action	Adventure	Fantasy
-2013	0816711	World War Z	Action	Adventure	Horror
-2013	0481499	Les Croods	Animation	Action	Adventure
+2013	816711	World War Z	Action	Adventure	Horror
+2013	481499	Les Croods	Animation	Action	Adventure
 2013	2404463	Les flingueuses	Action	Comedy	Crime
 2013	1723121	Les Miller, une famille en herbe	Comedy	Crime	
 2013	1800241	American Bluff	Crime	Drama	
 2013	1343092	Gatsby le magnifique	Drama	Romance	
 2013	1457767	Conjuring: Les dossiers Warren	Horror	Mystery	Thriller
 2013	2024432	Arnaque à la carte	Adventure	Comedy	Crime
-2012	0848228	Avengers	Action	Adventure	Sci-Fi
+2012	848228	Avengers	Action	Adventure	Sci-Fi
 2012	1345836	The Dark Knight Rises	Action	Thriller	
 2012	1392170	Hunger Games	Action	Adventure	Sci-Fi
 2012	1074638	Skyfall	Action	Adventure	Thriller
-2012	0903624	The Hobbit: An Unexpected Journey	Adventure	Family	Fantasy
+2012	903624	The Hobbit: An Unexpected Journey	Adventure	Family	Fantasy
 2012	1673434	Twilight: Chapitre 5 - Révélation, 2e partie	Adventure	Drama	Fantasy
-2012	0948470	The Amazing Spider-Man	Action	Adventure	Sci-Fi
+2012	948470	The Amazing Spider-Man	Action	Adventure	Sci-Fi
 2012	1217209	Rebelle	Animation	Adventure	Comedy
 2012	1637725	Ted	Comedy	Fantasy	Romance
 2012	1277953	Madagascar 3: Bons baisers d'Europe	Animation	Adventure	Comedy
 2012	1482459	Le Lorax	Animation	Adventure	Comedy
 2012	1772341	Les mondes de Ralph	Animation	Adventure	Comedy
-2012	0443272	Lincoln	Biography	Drama	History
+2012	443272	Lincoln	Biography	Drama	History
 2012	1409024	Men in Black 3	Action	Adventure	Comedy
 2012	1853728	Django Unchained	Drama	Western	
 2012	1667889	L'âge de glace 4: La dérive des continents	Animation	Adventure	Comedy
 2012	1735898	Blanche-Neige et le chasseur	Action	Adventure	Drama
 2012	1707386	Les Misérables	Drama	History	Musical
-2012	0837562	Hôtel Transylvanie	Animation	Comedy	Family
+2012	837562	Hôtel Transylvanie	Animation	Comedy	Family
 2012	1397280	Taken 2	Action	Crime	Thriller
 2011	1201607	Harry Potter et les reliques de la mort: 2ème partie	Adventure	Drama	Fantasy
 2011	1399103	Transformers 3: La face cachée de la lune	Action	Adventure	Sci-Fi
@@ -148,1475 +168,1475 @@ year	imdbId	title	genre1	genre2	genre3
 2011	1229238	Mission: Impossible - Protocole fantôme	Action	Adventure	Thriller
 2011	1216475	Cars 2	Animation	Adventure	Comedy
 2011	1515091	Sherlock Holmes: Jeu d'ombres	Action	Adventure	Crime
-2011	0800369	Thor	Action	Adventure	Fantasy
+2011	800369	Thor	Action	Adventure	Fantasy
 2011	1318514	La planète des singes: Les origines	Action	Drama	Sci-Fi
-2011	0458339	Captain America: First Avenger	Action	Adventure	Sci-Fi
+2011	458339	Captain America: First Avenger	Action	Adventure	Sci-Fi
 2011	1454029	La couleur des sentiments	Drama		
 2011	1478338	Mes meilleures amies	Comedy	Romance	
 2011	1302011	Kung Fu Panda 2	Animation	Action	Adventure
-2011	0448694	Le chat potté	Animation	Action	Adventure
+2011	448694	Le chat potté	Animation	Action	Adventure
 2011	1270798	X-Men: Le commencement	Action	Adventure	Sci-Fi
 2011	1436562	Rio	Animation	Adventure	Comedy
-2011	0472181	Les Schtroumpfs	Animation	Adventure	Comedy
+2011	472181	Les Schtroumpfs	Animation	Adventure	Comedy
 2011	1615918	Alvin et les Chipmunks 3	Animation	Adventure	Comedy
-2010	0435761	Toy Story 3	Animation	Adventure	Comedy
+2010	435761	Toy Story 3	Animation	Adventure	Comedy
 2010	1014759	Alice au pays des merveilles	Adventure	Family	Fantasy
 2010	1228705	Iron Man 2	Action	Sci-Fi	
 2010	1325004	Twilight: chapitre 3 - Hésitation	Adventure	Drama	Fantasy
-2010	0926084	Harry Potter et les reliques de la mort: 1ère partie	Adventure	Fantasy	Mystery
+2010	926084	Harry Potter et les reliques de la mort: 1ère partie	Adventure	Fantasy	Mystery
 2010	1375666	Inception	Action	Adventure	Sci-Fi
 2010	1323594	Moi, moche et méchant	Animation	Comedy	Family
-2010	0892791	Shrek 4, il était une fin	Animation	Adventure	Comedy
-2010	0892769	Dragons	Animation	Action	Adventure
-2010	0398286	Raiponce	Animation	Adventure	Comedy
+2010	892791	Shrek 4, il était une fin	Animation	Adventure	Comedy
+2010	892769	Dragons	Animation	Action	Adventure
+2010	398286	Raiponce	Animation	Adventure	Comedy
 2010	1155076	Karaté Kid	Action	Drama	Family
 2010	1104001	Tron: L'héritage	Action	Adventure	Fantasy
 2010	1403865	True Grit	Adventure	Drama	Western
-2010	0800320	Le choc des Titans	Action	Adventure	Fantasy
+2010	800320	Le choc des Titans	Action	Adventure	Fantasy
 2010	1375670	Copains pour toujours	Comedy		
 2010	1001526	Megamind	Animation	Action	Comedy
-2010	0970866	Mon beau-père et nous	Comedy	Romance	
+2010	970866	Mon beau-père et nous	Comedy	Romance	
 2010	1504320	Le discours d'un roi	Biography	Drama	History
-2010	0938283	Le dernier maître de l'air	Action	Adventure	Family
+2010	938283	Le dernier maître de l'air	Action	Adventure	Family
 2010	1130884	Shutter Island	Mystery	Thriller	
-2009	0499549	Avatar	Action	Adventure	Fantasy
+2009	499549	Avatar	Action	Adventure	Fantasy
 2009	1055369	Transformers - La revanche	Action	Adventure	Sci-Fi
-2009	0417741	Harry Potter et le prince de sang-mêlé	Adventure	Family	Fantasy
+2009	417741	Harry Potter et le prince de sang-mêlé	Adventure	Family	Fantasy
 2009	1259571	Twilight: Chapitre 2 - Tentation	Adventure	Drama	Fantasy
 2009	1049413	Là-haut	Animation	Adventure	Comedy
 2009	1119646	Very Bad Trip	Comedy		
-2009	0796366	Star Trek	Action	Adventure	Sci-Fi
-2009	0878804	The Blind Side - l'éveil d'un champion	Biography	Drama	Sport
+2009	796366	Star Trek	Action	Adventure	Sci-Fi
+2009	878804	The Blind Side - l'éveil d'un champion	Biography	Drama	Sport
 2009	1231580	Alvin et les Chipmunks 2	Animation	Comedy	Family
-2009	0988045	Sherlock Holmes	Action	Adventure	Crime
-2009	0892782	Monstres contre Aliens	Animation	Action	Adventure
+2009	988045	Sherlock Holmes	Action	Adventure	Crime
+2009	892782	Monstres contre Aliens	Animation	Action	Adventure
 2009	1080016	L'âge de glace 3: Le temps des dinosaures	Animation	Action	Adventure
-2009	0458525	X-Men Origins: Wolverine	Action	Adventure	Sci-Fi
+2009	458525	X-Men Origins: Wolverine	Action	Adventure	Sci-Fi
 2009	1078912	La nuit au musée 2	Adventure	Comedy	Family
 2009	1190080	2012	Action	Adventure	Sci-Fi
 2009	1041829	La proposition	Comedy	Drama	Romance
 2009	1013752	Fast and Furious 4	Action	Crime	Thriller
 2009	1046173	G.I. Joe - Le réveil du Cobra	Action	Adventure	Sci-Fi
 2009	1067106	Le drôle de Noël de Scrooge	Animation	Drama	Family
-2009	0808151	Anges et Démons	Mystery	Thriller	
-2008	0468569	The Dark Knight: Le chevalier noir	Action	Crime	Drama
-2008	0371746	Iron Man	Action	Adventure	Sci-Fi
-2008	0367882	Indiana Jones et le royaume du crâne de cristal	Action	Adventure	Fantasy
-2008	0448157	Hancock	Action	Drama	Fantasy
-2008	0910970	Wall-E	Animation	Adventure	Family
-2008	0441773	Kung Fu Panda	Animation	Action	Adventure
+2009	808151	Anges et Démons	Mystery	Thriller	
+2008	468569	The Dark Knight: Le chevalier noir	Action	Crime	Drama
+2008	371746	Iron Man	Action	Adventure	Sci-Fi
+2008	367882	Indiana Jones et le royaume du crâne de cristal	Action	Adventure	Fantasy
+2008	448157	Hancock	Action	Drama	Fantasy
+2008	910970	Wall-E	Animation	Adventure	Family
+2008	441773	Kung Fu Panda	Animation	Action	Adventure
 2008	1099212	Twilight: Chapitre 1 - Fascination	Drama	Fantasy	Romance
-2008	0479952	Madagascar 2 - La grande évasion	Animation	Adventure	Comedy
-2008	0830515	Quantum of Solace	Action	Adventure	Thriller
-2008	0451079	Horton	Animation	Adventure	Comedy
+2008	479952	Madagascar 2 - La grande évasion	Animation	Adventure	Comedy
+2008	830515	Quantum of Solace	Action	Adventure	Thriller
+2008	451079	Horton	Animation	Adventure	Comedy
 2008	1000774	Sex and the City: Le film	Comedy	Drama	Romance
 2008	1205489	Gran Torino	Drama		
-2008	0936501	Taken	Action	Crime	Thriller
-2008	0795421	Mamma Mia!	Comedy	Musical	Romance
-2008	0822832	Marley & Moi	Comedy	Drama	Family
-2008	0499448	Le monde de Narnia: chapitre 2 - Le prince Caspian	Action	Adventure	Family
+2008	936501	Taken	Action	Crime	Thriller
+2008	795421	Mamma Mia!	Comedy	Musical	Romance
+2008	822832	Marley & Moi	Comedy	Drama	Family
+2008	499448	Le monde de Narnia: chapitre 2 - Le prince Caspian	Action	Adventure	Family
 2008	1010048	Slumdog Millionaire	Drama	Romance	
-2008	0800080	L'incroyable Hulk	Action	Adventure	Sci-Fi
-2008	0493464	Wanted: Choisis ton destin	Action	Crime	Fantasy
-2008	0425061	Max la menace	Action	Adventure	Comedy
-2007	0413300	Spider-Man 3	Action	Adventure	Sci-Fi
-2007	0413267	Shrek le Troisième	Animation	Adventure	Comedy
-2007	0418279	Transformers	Action	Adventure	Sci-Fi
-2007	0449088	Pirates des Caraïbes - Jusqu'au bout du monde	Action	Adventure	Fantasy
-2007	0373889	Harry Potter et l'ordre du Phénix	Adventure	Family	Fantasy
-2007	0480249	Je suis une légende	Drama	Horror	Sci-Fi
-2007	0440963	La vengeance dans la peau	Action	Mystery	Thriller
-2007	0465234	Benjamin Gates et le livre des secrets	Action	Adventure	Family
-2007	0952640	Alvin et les Chipmunks	Animation	Comedy	Family
-2007	0382932	Ratatouille	Animation	Adventure	Comedy
-2007	0462538	Les Simpson: le film	Animation	Adventure	Comedy
-2007	0486946	Bande de sauvages	Adventure	Comedy	
-2007	0478311	En cloque, mode d'emploi	Comedy	Drama	Romance
-2007	0467406	Juno	Comedy	Drama	
-2007	0293564	Rush Hour 3	Action	Comedy	Crime
-2007	0337978	Die Hard 4: Retour en enfer	Action	Adventure	Thriller
-2007	0486576	Les 4 fantastiques et le Surfer d'argent	Action	Adventure	Fantasy
-2007	0765429	American Gangster	Biography	Crime	Drama
-2007	0461770	Il était une fois...	Animation	Comedy	Family
-2007	0389790	Bee Movie - Drôle d'abeille	Animation	Adventure	Comedy
-2006	0383574	Pirates des Caraïbes - Le secret du coffre maudit	Action	Adventure	Fantasy
-2006	0477347	La nuit au musée	Adventure	Comedy	Family
-2006	0317219	Cars - Quatre roues	Animation	Comedy	Family
-2006	0376994	X-Men: L'affrontement final	Action	Adventure	Sci-Fi
-2006	0382625	Da Vinci Code	Mystery	Thriller	
-2006	0416449	300	Action	Fantasy	
-2006	0348150	Superman Returns	Action	Adventure	
-2006	0366548	Happy Feet	Animation	Adventure	Comedy
-2006	0438097	L'âge de glace 2	Animation	Adventure	Comedy
-2006	0381061	Casino Royale	Action	Adventure	Thriller
-2006	0454921	À la recherche du bonheur	Biography	Drama	
-2006	0327084	Nos voisins, les hommes	Animation	Adventure	Comedy
-2006	0415306	Ricky Bobby, roi du circuit	Comedy	Sport	
-2006	0389860	Click	Comedy	Drama	Fantasy
-2006	0317919	Mission: Impossible III	Action	Adventure	Thriller
-2006	0407887	Les infiltrés	Crime	Drama	Thriller
-2006	0443453	Borat, leçons culturelles sur l'Amérique au profit de la glorieuse nation Kazakhstan	Comedy		
-2006	0458352	Le diable s'habille en Prada	Comedy	Drama	
-2006	0452594	La rupture	Comedy	Drama	Romance
-2006	0443489	Dreamgirls	Drama	Music	Musical
-2005	0121766	Star Wars: Épisode III - La revanche des Sith	Action	Adventure	Fantasy
-2005	0363771	Le monde de Narnia: chapitre 1 - Le lion, la sorcière blanche et l'armoire magique	Adventure	Family	Fantasy
-2005	0330373	Harry Potter et la coupe de feu	Adventure	Family	Fantasy
-2005	0407304	La guerre des mondes	Adventure	Sci-Fi	Thriller
-2005	0360717	King Kong	Action	Adventure	Drama
-2005	0396269	Serial noceurs	Comedy	Romance	
-2005	0372784	Batman Begins	Action	Adventure	Thriller
-2005	0367594	Charlie et la chocolaterie	Adventure	Comedy	Family
-2005	0351283	Madagascar	Animation	Adventure	Comedy
-2005	0356910	Mr. & Mrs. Smith	Action	Comedy	Crime
-2005	0386588	Hitch, expert en séduction	Comedy	Romance	
-2005	0398165	Mi-temps au mitard	Comedy	Crime	Sport
-2005	0120667	Les 4 fantastiques	Action	Adventure	Fantasy
-2005	0371606	Chicken Little	Animation	Adventure	Comedy
-2005	0358082	Robots	Animation	Adventure	Comedy
-2005	0358273	Walk the Line	Biography	Drama	Music
-2005	0395699	Baby-sittor	Action	Comedy	Drama
-2005	0369441	Braqueurs amateurs	Comedy	Crime	
-2005	0405422	40 ans, toujours puceau	Comedy	Romance	
-2005	0408790	Flight plan	Action	Drama	Mystery
-2004	0298148	Shrek 2	Animation	Adventure	Comedy
-2004	0316654	Spider-Man 2	Action	Adventure	Sci-Fi
-2004	0335345	La passion du Christ	Drama		
-2004	0290002	Mon beau-père, mes parents et moi	Comedy	Romance	
-2004	0317705	Les indestructibles	Animation	Action	Adventure
-2004	0304141	Harry Potter et le prisonnier d'Azkaban	Adventure	Family	Fantasy
-2004	0319262	Le jour d'après	Action	Adventure	Sci-Fi
-2004	0338348	Le pôle express	Animation	Adventure	Comedy
-2004	0372183	La mort dans la peau	Action	Mystery	Thriller
-2004	0368891	Benjamin Gates et le trésor des Templiers	Action	Adventure	Family
-2004	0307453	Gang de requins	Animation	Adventure	Comedy
-2004	0343818	I, Robot	Action	Crime	Drama
-2004	0332452	Troie	Drama	History	Romance
-2004	0349903	Ocean's Twelve	Crime	Thriller	
-2004	0343660	Amour & amnésie	Comedy	Drama	Romance
-2004	0338526	Van Helsing	Action	Adventure	Fantasy
-2004	0339291	Les désastreuses aventures des orphelins Baudelaire	Adventure	Comedy	Family
-2004	0364725	Dodgeball - Même pas mal!	Comedy	Sport	
-2004	0368447	Le village	Drama	Mystery	Thriller
-2004	0391198	The Grudge	Horror	Mystery	Thriller
-2003	0266543	Le monde de Nemo	Animation	Adventure	Comedy
-2003	0167260	Le seigneur des anneaux: Le retour du roi	Adventure	Drama	Fantasy
-2003	0325980	Pirates des Caraïbes - La malédiction du Black Pearl	Action	Adventure	Fantasy
-2003	0234215	Matrix Reloaded	Action	Sci-Fi	
-2003	0315327	Bruce tout-puissant	Comedy	Drama	Fantasy
-2003	0290334	X-Men 2	Action	Adventure	Sci-Fi
-2003	0319343	Elfe	Comedy	Family	Fantasy
-2003	0181852	Terminator 3 - Le soulèvement des machines	Action	Sci-Fi	
-2003	0242653	Matrix Revolutions	Action	Sci-Fi	
-2003	0349205	Treize à la douzaine	Comedy	Family	
-2003	0172156	Bad Boys II	Action	Comedy	Crime
-2003	0305224	Self Control	Comedy		
-2003	0305669	Bronx à Bel Air	Comedy		
-2003	0286716	Hulk	Action	Sci-Fi	
-2003	0322259	2 Fast 2 Furious	Action	Crime	Thriller
-2003	0337741	Tout peut arriver	Comedy	Drama	Romance
-2003	0329575	Pur sang: la légende de Seabiscuit	Drama	History	Sport
-2003	0257076	S.W.A.T. unité d'élite	Action	Adventure	Crime
-2003	0338459	Mission 3D: Spy Kids 3	Action	Adventure	Comedy
-2003	0325710	Le dernier samouraï	Action	Drama	History
-2002	0145487	Spider-Man	Action	Adventure	Sci-Fi
-2002	0167261	Le seigneur des anneaux: Les deux tours	Adventure	Drama	Fantasy
-2002	0121765	Star Wars: Épisode II - L'attaque des clones	Action	Adventure	Fantasy
-2002	0295297	Harry Potter et la chambre des secrets	Adventure	Family	Fantasy
-2002	0259446	Mariage à la grecque	Comedy	Drama	Romance
-2002	0286106	Signes	Drama	Mystery	Sci-Fi
-2002	0295178	Goldmember	Action	Adventure	Comedy
-2002	0120912	Men in Black II	Action	Adventure	Comedy
-2002	0268380	L'âge de glace	Animation	Adventure	Comedy
-2002	0299658	Chicago	Comedy	Crime	Musical
-2002	0264464	Arrête-moi si tu peux	Biography	Crime	Drama
-2002	0246460	Meurs un autre jour	Action	Adventure	Thriller
-2002	0267913	Scooby-Doo	Adventure	Comedy	Family
-2002	0275847	Lilo & Stitch	Animation	Adventure	Comedy
-2002	0295701	xXx	Action	Adventure	Thriller
-2002	0304669	Hyper Noël	Comedy	Family	Fantasy
-2002	0181689	Minority Report	Action	Crime	Mystery
-2002	0298130	Le cercle: The ring	Horror	Mystery	
-2002	0256415	Fashion victime	Comedy	Romance	
-2002	0280590	Les aventures de Mister Deeds	Comedy	Romance	
-2001	0241527	Harry Potter à l'école des sorciers	Adventure	Family	Fantasy
-2001	0120737	Le seigneur des anneaux: La communauté de l'anneau	Adventure	Drama	Fantasy
-2001	0198781	Monstres et Cie	Animation	Adventure	Comedy
-2001	0126029	Shrek	Animation	Adventure	Comedy
-2001	0266915	Rush Hour 2	Action	Comedy	Crime
-2001	0209163	Le retour de la momie	Action	Adventure	Fantasy
-2001	0213149	Pearl Harbor	Action	Drama	History
-2001	0240772	Ocean's eleven - Faites vos jeux!	Crime	Thriller	
-2001	0163025	Jurassic Park III	Action	Adventure	Sci-Fi
-2001	0133152	La planète des singes	Action	Adventure	Sci-Fi
-2001	0268978	Un homme d'exception	Biography	Drama	
-2001	0212985	Hannibal	Crime	Drama	Thriller
-2001	0252866	American Pie 2	Comedy		
-2001	0232500	Fast and Furious	Action	Crime	Thriller
-2001	0146316	Lara Croft: Tomb Raider	Action	Adventure	Fantasy
-2001	0240462	Dr. Dolittle 2	Comedy	Family	Fantasy
-2001	0227538	Spy Kids	Action	Adventure	Comedy
-2001	0265086	La chute du faucon noir	Drama	History	War
-2001	0247638	Princesse malgré elle	Comedy	Family	Romance
-2001	0259711	Vanilla Sky	Fantasy	Mystery	Romance
-2000	0170016	Le Grinch	Comedy	Family	Fantasy
-2000	0162222	Seul au monde	Adventure	Drama	Romance
-2000	0120755	M-I:2 Mission: Impossible 2	Action	Adventure	Thriller
-2000	0172495	Gladiator	Action	Adventure	Drama
-2000	0207201	Ce que veulent les femmes	Comedy	Fantasy	Romance
-2000	0177971	En pleine tempête	Action	Adventure	Drama
-2000	0212338	Mon beau-père et moi	Comedy	Romance	
-2000	0120903	X-Men	Action	Adventure	Sci-Fi
-2000	0175142	Scary Movie	Comedy		
-2000	0161081	Apparences	Drama	Fantasy	Horror
-2000	0130623	Dinosaure	Animation	Adventure	Family
-2000	0190332	Tigre et dragon	Action	Adventure	Fantasy
-2000	0195685	Erin Brockovich, seule contre tous	Biography	Drama	
-2000	0160127	Charlie et ses drôles de dames	Action	Adventure	Comedy
-2000	0181865	Traffic	Crime	Drama	Thriller
-2000	0144528	La famille Foldingue	Comedy	Romance	Sci-Fi
-2000	0208003	Big Mamma	Action	Comedy	Crime
-2000	0210945	Le plus beau des combats	Biography	Drama	Sport
-2000	0187393	The patriot: Le chemin de la liberté	Action	Drama	History
-2000	0120630	Chicken Run	Animation	Adventure	Comedy
-1999	0120915	Star Wars: Épisode I - La menace fantôme	Action	Adventure	Fantasy
-1999	0167404	Sixième sens	Drama	Mystery	Thriller
-1999	0120363	Toy Story 2	Animation	Adventure	Comedy
-1999	0145660	Austin Powers - L'espion qui m'a tirée	Action	Adventure	Comedy
-1999	0133093	Matrix	Action	Sci-Fi	
-1999	0120855	Tarzan	Animation	Adventure	Family
-1999	0142342	Big Daddy	Comedy	Drama	
-1999	0120616	La momie	Action	Adventure	Fantasy
-1999	0163187	Just married (ou presque)	Comedy	Romance	
-1999	0185937	Le projet Blair Witch	Horror	Mystery	
-1999	0164912	Stuart Little	Adventure	Comedy	Family
-1999	0120689	La ligne verte	Crime	Drama	Fantasy
-1999	0169547	American Beauty	Drama		
-1999	0143145	Le monde ne suffit pas	Action	Adventure	Thriller
-1999	0150377	Double jeu	Crime	Drama	Mystery
-1999	0125439	Coup de foudre à Notting Hill	Comedy	Drama	Romance
-1999	0120891	Wild Wild West	Action	Comedy	Sci-Fi
-1999	0122933	Mafia blues	Comedy	Crime	
-1999	0144214	Le déshonneur d'Elisabeth Campbell	Crime	Drama	Mystery
-1999	0163651	American Pie	Comedy		
-1998	0120815	Il faut sauver le soldat Ryan	Drama	War	
-1998	0120591	Armageddon	Action	Adventure	Sci-Fi
-1998	0129387	Mary à tout prix	Comedy	Romance	
-1998	0120623	1001 pattes	Animation	Adventure	Comedy
-1998	0120484	Waterboy	Comedy	Sport	
-1998	0118998	Dr. Dolittle	Comedy	Family	Fantasy
-1998	0120812	Rush Hour	Action	Comedy	Crime
-1998	0120647	Deep Impact	Action	Drama	Romance
-1998	0120685	Godzilla	Action	Sci-Fi	Thriller
-1998	0129290	Docteur Patch	Biography	Comedy	Drama
-1998	0122151	L'arme fatale 4	Action	Crime	Thriller
-1998	0120382	The Truman Show	Comedy	Drama	Sci-Fi
-1998	0120762	Mulan	Animation	Adventure	Family
-1998	0128853	Vous avez un mess@ge	Comedy	Drama	Romance
-1998	0120660	Ennemi d'état	Action	Crime	Mystery
-1998	0120794	Le prince d'Égypte	Animation	Adventure	Drama
-1998	0134067	Les razmoket, le film	Animation	Adventure	Comedy
-1998	0138097	Shakespeare in Love	Comedy	Drama	History
-1998	0120746	Le masque de Zorro	Action	Adventure	Comedy
-1998	0120686	Ma meilleure ennemie	Comedy	Drama	
-1997	0120338	Titanic	Drama	Romance	
-1997	0119654	Men in Black	Adventure	Comedy	Mystery
-1997	0119567	Le monde perdu: Jurassic Park	Action	Adventure	Sci-Fi
-1997	0119528	Menteur menteur	Comedy	Fantasy	
-1997	0118571	Air Force One	Action	Drama	Thriller
-1997	0119822	Pour le pire et pour le meilleur	Comedy	Drama	Romance
-1997	0119217	Will Hunting	Drama	Romance	
-1997	0119738	Le mariage de mon meilleur ami	Comedy	Drama	Romance
-1997	0120347	Demain ne meurt jamais	Action	Adventure	Thriller
-1997	0119094	Volte/face	Action	Crime	Sci-Fi
-1997	0118688	Batman & Robin	Action	Sci-Fi	
-1997	0119190	George de la jungle	Action	Adventure	Comedy
-1997	0120082	Scream 2	Horror	Mystery	
-1997	0118880	Les ailes de l'enfer	Action	Crime	Thriller
-1997	0118884	Contact	Drama	Mystery	Sci-Fi
-1997	0119282	Hercule	Animation	Adventure	Comedy
-1997	0119137	Flubber	Comedy	Family	Sci-Fi
-1997	0118883	Complots	Action	Mystery	Thriller
-1997	0119345	Souviens-toi... l'été dernier	Horror	Mystery	
-1997	0118928	Le pic de Dante	Action	Adventure	Thriller
-1996	0116629	Independence Day	Action	Adventure	Sci-Fi
-1996	0117998	Twister	Action	Adventure	Drama
-1996	0117060	Mission: Impossible	Action	Adventure	Thriller
-1996	0116695	Jerry Maguire	Comedy	Drama	Romance
-1996	0117438	La rançon	Action	Crime	Thriller
-1996	0115433	Les 101 dalmatiens	Adventure	Comedy	Crime
-1996	0117500	Rock	Action	Adventure	Thriller
-1996	0117218	Le professeur foldingue	Comedy	Romance	Sci-Fi
-1996	0115685	The Birdcage	Comedy		
-1996	0117913	Le droit de tuer?	Crime	Drama	Thriller
-1996	0116313	Le club des ex	Comedy		
-1996	0117333	Phénomène	Drama	Fantasy	Romance
-1996	0117571	Scream	Horror	Mystery	
-1996	0116213	L'effaceur	Action	Drama	Mystery
-1996	0116583	Le bossu de Notre-Dame	Animation	Drama	Family
-1996	0117038	Michael	Comedy	Drama	Fantasy
-1996	0117731	Star Trek: Premier Contact	Action	Adventure	Drama
-1996	0117705	Space Jam	Animation	Adventure	Comedy
-1996	0116209	Le patient anglais	Drama	Romance	War
-1996	0115759	Broken Arrow	Action	Adventure	Thriller
-1995	0114709	Toy Story	Animation	Adventure	Comedy
-1995	0112462	Batman Forever	Action	Adventure	Fantasy
-1995	0112384	Apollo 13	Adventure	Drama	History
-1995	0114148	Pocahontas, une légende indienne	Animation	Adventure	Drama
-1995	0112281	Ace Ventura en Afrique	Adventure	Comedy	Crime
-1995	0113189	GoldenEye	Action	Adventure	Thriller
-1995	0113497	Jumanji	Adventure	Family	Fantasy
-1995	0112642	Casper	Comedy	Family	Fantasy
-1995	0114369	Seven	Crime	Drama	Mystery
-1995	0112864	Une journée en enfer - Die Hard 3	Action	Adventure	Thriller
-1995	0112740	USS Alabama	Action	Drama	Thriller
-1995	0114898	Waterworld	Action	Adventure	Sci-Fi
-1995	0112792	Esprits rebelles	Biography	Drama	
-1995	0113862	Professeur Holland	Drama	Music	
-1995	0114924	L'amour à tout prix	Comedy	Drama	Romance
-1995	0112715	Congo	Action	Adventure	Mystery
-1995	0113041	Le père de la mariée II	Comedy	Family	Romance
-1995	0112573	Braveheart	Biography	Drama	History
-1995	0113161	Get Shorty (Stars et truands)	Comedy	Crime	Thriller
-1995	0112579	Sur la route de Madison	Drama	Romance	
-1994	0109830	Forrest Gump	Drama	Romance	
-1994	0110357	The Lion King	Animation	Adventure	Drama
-1994	0111503	True Lies - Le caméléon	Action	Comedy	Thriller
-1994	0111070	Super Noël	Comedy	Drama	Family
-1994	0109813	La famille Pierrafeu	Comedy	Family	Fantasy
-1994	0109686	Dumb & Dumber	Comedy		
-1994	0109444	Danger immédiat	Action	Crime	Drama
-1994	0111257	Speed	Action	Adventure	Crime
-1994	0110475	The Mask	Comedy	Fantasy	
-1994	0110912	Pulp Fiction	Crime	Drama	
-1994	0110148	Entretien avec un vampire	Drama	Horror	
-1994	0110478	Maverick	Action	Adventure	Comedy
-1994	0109446	Le client	Crime	Drama	Mystery
-1994	0109635	Harcèlement	Drama	Thriller	
-1994	0111280	Star trek: Générations	Action	Adventure	Mystery
-1994	0109040	Ace Ventura, détective chiens et chats	Comedy		
-1994	0111282	Stargate - La porte des étoiles	Action	Adventure	Sci-Fi
-1994	0110322	Légendes d'automne	Drama	Romance	War
-1994	0111742	Wolf	Drama	Horror	Romance
-1994	0111255	L'expert	Action	Crime	Drama
-1993	0107290	Jurassic Park	Adventure	Sci-Fi	Thriller
-1993	0107614	Madame Doubtfire	Comedy	Drama	Family
-1993	0106977	Le fugitif	Action	Crime	Drama
-1993	0106918	La firme	Drama	Mystery	Thriller
-1993	0108160	Nuits blanches à Seattle	Comedy	Drama	Romance
-1993	0107211	Proposition indécente	Drama	Romance	
-1993	0107206	Dans la ligne de mire	Action	Crime	Drama
-1993	0107798	L'affaire Pélican	Crime	Drama	Mystery
-1993	0108052	La liste de Schindler	Biography	Drama	History
-1993	0106582	Cliffhanger, traque au sommet	Action	Adventure	Thriller
-1993	0106965	Sauvez Willy	Adventure	Drama	Family
-1993	0107818	Philadelphia	Drama		
-1993	0107688	L'étrange Noël de monsieur Jack	Animation	Family	Fantasy
-1993	0107048	Un jour sans fin	Comedy	Fantasy	Romance
-1993	0107050	Les grincheux	Comedy	Drama	Romance
-1993	0106611	Rasta Rockett	Adventure	Comedy	Family
-1993	0106673	Président d'un jour	Comedy	Romance	
-1993	0107969	Soleil levant	Action	Crime	Drama
-1993	0106697	Demolition Man	Action	Crime	Sci-Fi
-1993	0108147	Sister Act: acte 2	Comedy	Family	Music
-1992	0103639	Aladdin	Animation	Adventure	Comedy
-1992	0104431	Maman, j'ai encore raté l'avion	Adventure	Comedy	Family
-1992	0103776	Batman, le défi	Action	Crime	Fantasy
-1992	0104714	L'arme fatale 3	Action	Crime	Thriller
-1992	0104257	Des hommes d'honneur	Drama	Thriller	
-1992	0105417	Sister Act	Comedy	Crime	Family
-1992	0103855	Bodyguard	Drama	Music	Romance
-1992	0105793	Wayne's World	Comedy	Music	
-1992	0103772	Basic Instinct	Drama	Mystery	Thriller
-1992	0104694	Une équipe hors du commun	Comedy	Drama	Family
-1992	0105695	Impitoyable	Drama	Western	
-1992	0104389	La main sur le berceau	Drama	Thriller	
-1992	0105690	Piège en haute mer	Action	Thriller	
-1992	0105112	Jeux de guerre	Action	Thriller	
-1992	0103874	Dracula	Horror		
-1992	0105812	Les blancs ne savent pas sauter	Comedy	Drama	Sport
-1992	0104691	Le dernier des Mohicans	Action	Adventure	Drama
-1992	0103859	Boomerang	Comedy	Drama	Romance
-1992	0105323	Le temps d'un week-end	Drama		
-1992	0104036	The Crying Game	Crime	Drama	Romance
-1991	0101414	La Belle et la Bête	Animation	Family	Fantasy
-1991	0103064	Terminator 2 - Le jugement dernier	Action	Sci-Fi	
-1991	0102798	Robin des bois: Prince des voleurs	Action	Adventure	Drama
-1991	0102926	Le silence des agneaux	Crime	Drama	Thriller
-1991	0101587	La vie, l'amour... les vaches	Comedy		
-1991	0102057	Hook ou la revanche du Capitaine Crochet	Adventure	Comedy	Family
-1991	0101272	La famille Addams	Comedy	Fantasy	
-1991	0102945	Les nuits avec mon ennemi	Drama	Thriller	
-1991	0101862	Le père de la mariée	Comedy	Family	Romance
-1991	0102510	Y a-t-il un flic pour sauver le président?	Comedy	Crime	
-1991	0101921	Beignets de tomates vertes	Drama		
-1991	0101540	Les nerfs à vif	Crime	Thriller	
-1991	0103060	Les tortues ninja II - Les héros sont de retour	Action	Adventure	Comedy
-1991	0101393	Backdraft	Action	Crime	Drama
-1991	0102975	Star trek VI - Terre inconnue	Action	Adventure	Sci-Fi
-1991	0102713	Le prince des marées	Drama	Romance	
-1991	0102138	JFK	Drama	History	Thriller
-1991	0102059	Hot Shots!	Action	Comedy	
-1991	0103241	Quoi de neuf Bob?	Comedy		
-1991	0102492	My Girl	Comedy	Drama	Family
-1990	0099785	Maman, j'ai raté l'avion!	Comedy	Family	
-1990	0099653	Ghost	Drama	Fantasy	Romance
-1990	0099348	Danse avec les loups	Adventure	Drama	Western
-1990	0100405	Pretty Woman	Comedy	Romance	
-1990	0100758	Les tortues ninja	Action	Adventure	Comedy
-1990	0099810	À la poursuite d'Octobre Rouge	Action	Adventure	Thriller
-1990	0100802	Total Recall	Action	Sci-Fi	Thriller
-1990	0099423	58 minutes pour vivre	Action	Thriller	
-1990	0099422	Dick Tracy	Action	Comedy	Crime
-1990	0099938	Un flic à la maternelle	Comedy	Crime	
-1990	0099088	Retour vers le futur: 3e partie	Adventure	Comedy	Sci-Fi
-1990	0100404	Présumé innocent	Mystery	Thriller	
-1990	0099371	Jours de tonnerre	Action	Drama	Sport
-1990	0099044	48 heures de plus	Action	Comedy	Crime
-1990	0098966	Tels pères, telle fille	Comedy	Drama	Family
-1990	0099141	Comme un oiseau sur la branche	Action	Comedy	
-1990	0099674	Le parrain, 3ème partie	Crime	Drama	
-1990	0099582	L'expérience interdite	Drama	Horror	Sci-Fi
-1990	0100157	Misery	Crime	Drama	Thriller
-1990	0099487	Edward aux mains d'argent	Drama	Fantasy	Romance
-1989	0096895	Batman	Action	Adventure	
-1989	0097576	Indiana Jones et la dernière croisade	Action	Adventure	Fantasy
-1989	0097733	L'arme fatale 2	Action	Crime	Thriller
-1989	0097778	Allô maman, ici bébé!	Comedy		
-1989	0097523	Chérie, j'ai rétréci les gosses	Adventure	Comedy	Family
-1989	0096874	Retour vers le futur 2	Adventure	Comedy	Sci-Fi
-1989	0097428	S.O.S. fantômes II	Action	Comedy	Fantasy
-1989	0097757	La petite sirène	Animation	Family	Fantasy
-1989	0097239	Miss Daisy et son chauffeur	Drama		
-1989	0098067	Portrait craché d'une famille modèle	Comedy	Drama	
-1989	0097165	Le cercle des poètes disparus	Comedy	Drama	
-1989	0098635	Quand Harry rencontre Sally...	Comedy	Drama	Romance
-1989	0098621	La guerre des Rose	Comedy	Romance	
-1989	0098384	Potins de femmes	Comedy	Drama	Romance
-1989	0097958	Le sapin a les boules	Comedy		
-1989	0098536	Turner et Hooch	Comedy	Crime	Drama
-1989	0096969	Né un 4 juillet	Biography	Drama	War
-1989	0098554	L'oncle Buck	Comedy		
-1989	0097351	Jusqu'au bout du rêve	Drama	Family	Fantasy
-1989	0098439	Tango & Cash	Action	Comedy	Crime
-1988	0095953	Rain Man	Drama		
-1988	0096438	Qui veut la peau de Roger Rabbit?	Animation	Adventure	Comedy
-1988	0094898	Un prince à New York	Comedy	Romance	
-1988	0094737	Big	Comedy	Drama	Family
-1988	0096320	Jumeaux	Comedy	Crime	
-1988	0092493	Crocodile Dundee II	Action	Adventure	Comedy
-1988	0095016	Piège de cristal	Action	Thriller	
-1988	0094889	Cocktail	Comedy	Drama	Romance
-1988	0095705	Y a-t-il un flic pour sauver la reine?	Comedy	Crime	
-1988	0095776	Oliver et compagnie	Animation	Adventure	Comedy
-1988	0094721	Beetlejuice	Comedy	Fantasy	
-1988	0096463	Working Girl - Quand les femmes s'en mêlent	Comedy	Drama	Romance
-1988	0095159	Un poisson nommé Wanda	Comedy	Crime	
-1988	0096061	Fantômes en fête	Comedy	Drama	Fantasy
-1988	0096446	Willow	Action	Adventure	Drama
-1988	0094715	Au fil de la vie	Comedy	Drama	Music
-1988	0095956	Rambo III	Action	Adventure	Thriller
-1988	0094812	Duo à trois	Comedy	Romance	Sport
-1988	0095742	Le cauchemar de Freddy	Horror		
-1988	0095489	Le petit dinosaure et la vallée des merveilles	Animation	Adventure	Drama
-1987	0094137	Trois hommes et un bébé	Comedy	Drama	Family
-1987	0093010	Liaison fatale	Drama	Thriller	
-1987	0092644	Le flic de Beverly Hills 2	Action	Comedy	Crime
-1987	0093105	Good Morning, Vietnam	Biography	Comedy	Drama
-1987	0093565	Éclair de lune	Comedy	Drama	Romance
-1987	0094226	Les incorruptibles	Crime	Drama	Thriller
-1987	0093936	Le secret de mon succès	Comedy	Romance	
-1987	0094025	Étroite surveillance	Action	Comedy	Crime
-1987	0093409	L'arme fatale	Action	Crime	Thriller
-1987	0092890	Dirty Dancing	Drama	Music	Romance
-1987	0094332	Les sorcières d'Eastwick	Comedy	Fantasy	Horror
-1987	0093773	Predator	Action	Adventure	Sci-Fi
-1987	0094142	Balance maman hors du train	Comedy	Crime	Thriller
-1987	0092925	Dragnet	Comedy	Crime	
-1987	0093378	La Bamba	Biography	Drama	Music
-1987	0093870	RoboCop	Action	Crime	Sci-Fi
-1987	0093690	Une chance pas croyable	Comedy		
-1987	0092699	Broadcast News	Comedy	Drama	Romance
-1987	0093428	Tuer n'est pas jouer	Action	Adventure	Thriller
-1987	0093748	Un ticket pour deux	Comedy		
-1986	0092099	Top Gun	Action	Drama	
-1986	0090555	Crocodile Dundee	Adventure	Comedy	
-1986	0091763	Platoon	Drama	War	
-1986	0091326	Karate kid, le moment de vérité II	Action	Family	Romance
-1986	0092007	Star Trek IV - Retour sur Terre	Adventure	Comedy	Sci-Fi
-1986	0090685	À fond la fac	Comedy	Romance	Sport
-1986	0090605	Aliens - Le retour	Action	Adventure	Sci-Fi
-1986	0091129	Golden child - L'enfant sacré du Tibet	Action	Adventure	Comedy
-1986	0091877	Y a-t-il quelqu'un pour tuer ma femme?	Comedy	Crime	
-1986	0091042	La folle journée de Ferris Bueller	Comedy		
-1986	0090966	Le clochard de Beverly Hills	Comedy		
-1986	0090863	La couleur de l'argent	Drama	Sport	
-1986	0092005	Stand by me - Compte sur moi	Adventure	Drama	
-1986	0091396	L'affaire Chelsea Deardon	Comedy	Crime	Romance
-1986	0090859	Cobra	Action	Crime	Thriller
-1986	0090633	Fiével et le nouveau monde	Animation	Adventure	Comedy
-1986	0091777	Police Academy 3: instructeurs de choc	Comedy		
-1986	0091187	Le maître de guerre	Drama	War	
-1986	0091738	Peggy Sue s'est mariée	Comedy	Drama	Fantasy
-1986	0091778	Poltergeist II	Horror		
-1985	0088763	Retour vers le futur	Adventure	Comedy	Sci-Fi
-1985	0089880	Rambo II: La mission	Action	Adventure	Thriller
-1985	0089927	Rocky IV	Drama	Sport	
-1985	0088939	La couleur pourpre	Drama		
-1985	0089755	Out of Africa - Souvenirs d'Afrique	Biography	Drama	Romance
-1985	0088933	Cocoon	Comedy	Drama	Sci-Fi
-1985	0089370	Le diamant du Nil	Action	Adventure	Comedy
-1985	0090329	Witness: Témoin sous surveillance	Crime	Drama	Romance
-1985	0089218	Les goonies	Adventure	Comedy	Family
-1985	0090056	Drôles d'espions	Adventure	Comedy	
-1985	0089822	Police academy 2: au boulot!	Comedy		
-1985	0089155	Fletch	Comedy	Crime	Mystery
-1985	0090264	Dangereusement vôtre	Action	Adventure	Thriller
-1985	0089670	Bonjour les vacances II	Adventure	Comedy	
-1985	0089560	Mask	Biography	Drama	
-1985	0088847	Breakfast Club	Comedy	Drama	
-1985	0090319	Soleil de nuit	Drama	Music	
-1985	0089767	Pale Rider - Le cavalier solitaire	Western		
-1985	0089791	Pee-wee Big Adventure	Adventure	Comedy	Family
-1985	0089360	À double tranchant	Drama	Mystery	Thriller
-1984	0087332	S.O.S fantômes	Action	Comedy	Fantasy
-1984	0086960	Le flic de Beverly Hills	Action	Comedy	Crime
-1984	0087469	Indiana Jones et le temple maudit	Action	Adventure	
-1984	0087363	Gremlins	Comedy	Fantasy	Horror
-1984	0087538	Le moment de vérité	Action	Drama	Family
-1984	0087928	Police Academy	Comedy		
-1984	0087277	Footloose	Drama	Music	Romance
-1984	0088011	À la poursuite du diamant vert	Action	Adventure	Comedy
-1984	0088170	Star trek III - À la recherche de Spock	Action	Adventure	Sci-Fi
-1984	0087957	Purple Rain	Drama	Music	Musical
-1984	0088161	Splash	Comedy	Fantasy	Romance
-1984	0086879	Amadeus	Biography	Drama	History
-1984	0088272	La corde raide	Crime	Mystery	Thriller
-1984	0087781	Le meilleur	Drama	Sport	
-1984	0087365	Greystoke, la légende de Tarzan	Adventure	Drama	
-1984	0088000	Les tronches	Comedy		
-1984	0086837	2010 - L'année du premier contact (L'odyssée continue)	Adventure	Mystery	Sci-Fi
-1984	0086998	Break Street 84	Comedy	Drama	Music
-1984	0086927	Le palace en folie	Comedy		
-1984	0088247	Terminator	Action	Sci-Fi	
-1983	0086190	Le retour du Jedi	Action	Adventure	Fantasy
-1983	0086425	Tendres passions	Comedy	Drama	
-1983	0085549	Flashdance	Drama	Music	Romance
-1983	0086465	Un fauteuil pour deux	Comedy		
-1983	0086567	WarGames	Sci-Fi	Thriller	
-1983	0086034	Octopussy	Action	Adventure	Thriller
-1983	0086383	Sudden Impact - Le retour de l'inspecteur Harry	Action	Crime	Thriller
-1983	0086361	Staying Alive	Drama	Music	Romance
-1983	0085970	Mister Mom - Profession: père au foyer	Comedy	Drama	
-1983	0086200	Risky Business	Comedy	Crime	Drama
-1983	0085995	Bonjour les vacances	Adventure	Comedy	
-1983	0086393	Superman III	Action	Comedy	Sci-Fi
-1983	0085244	Les copains d'abord	Comedy	Drama	
-1983	0086006	Jamais plus jamais	Action	Adventure	Thriller
-1983	0086250	Scarface	Crime	Drama	
-1983	0085750	Les dents de la mer 3	Adventure	Horror	Thriller
-1983	0085255	Tonnerre de feu	Action	Crime	Drama
-1983	0086619	Yentl	Drama	Musical	Romance
-1983	0086312	Le mystère Silkwood	Biography	Drama	History
-1983	0086154	Psychose II	Crime	Horror	Mystery
-1982	0083866	E.T., l'extra-terrestre	Family	Sci-Fi	
-1982	0084805	Tootsie	Comedy	Drama	Romance
-1982	0084434	Officier et gentleman	Drama	Romance	
-1982	0084602	Rocky III, l'oeil du tigre	Drama	Sport	
-1982	0084726	Star trek II - La colère de Khan	Action	Adventure	Sci-Fi
-1982	0083511	48 heures	Action	Comedy	Crime
-1982	0084516	Poltergeist	Horror	Thriller	
-1982	0083642	La cage aux poules	Comedy	Musical	
-1982	0083564	Annie	Comedy	Drama	Family
-1982	0084855	Le verdict	Drama		
-1982	0083987	Gandhi	Biography	Drama	History
-1982	0083944	Rambo	Action	Adventure	
-1982	0084809	Le joujou	Comedy		
-1982	0083943	Firefox, l'arme absolue	Action	Adventure	Thriller
-1982	0083791	Dark Crystal	Adventure	Family	Fantasy
-1982	0082198	Conan le barbare	Adventure	Fantasy	
-1982	0084749	L'épée sauvage	Action	Adventure	Fantasy
-1982	0083641	Les meilleurs amis	Comedy	Drama	Romance
-1982	0083972	Meurtres en 3 dimensions	Horror	Thriller	
-1982	0084827	Tron	Action	Adventure	Sci-Fi
-1981	0082971	Les aventuriers de l'arche perdue	Action	Adventure	
-1981	0082846	La maison du lac	Drama		
-1981	0084522	Porky's	Comedy		
-1981	0082031	Arthur	Comedy	Romance	
-1981	0083131	Les bleus	Comedy	War	
-1981	0082136	L'équipée du Cannonball	Action	Comedy	Sport
-1981	0082406	Rox et Rouky	Animation	Adventure	Drama
-1981	0082398	Rien que pour vos yeux	Action	Adventure	Thriller
-1981	0082158	Les chariots de feu	Biography	Drama	Sport
-1981	0082405	Les quatre saisons	Comedy	Drama	
-1981	0081633	Bandits, bandits	Adventure	Comedy	Fantasy
-1981	0082186	Le choc des Titans	Action	Adventure	Family
-1981	0081974	Absence de malice	Drama	Romance	Thriller
-1981	0082979	Reds	Biography	Drama	History
-1981	0083170	Tarzan l'homme singe	Adventure	Drama	
-1981	0083169	Taps	Drama		
-1981	0083064	L'anti-gang	Action	Crime	Drama
-1981	0082348	Excalibur	Adventure	Drama	Fantasy
-1981	0082163	Nice Dreams	Comedy	Crime	
-1981	0082517	La folle histoire du monde	Comedy	History	
-1980	0080684	L'empire contre-attaque	Action	Adventure	Fantasy
-1980	0081573	Superman II	Action	Adventure	Sci-Fi
-1980	0080319	Comment se débarrasser de son patron	Comedy		
-1980	0081562	Faut s'faire la malle	Comedy	Crime	
-1980	0080339	Y a-t-il un pilote dans l'avion?	Comedy		
-1980	0080377	Ça va cogner	Action	Comedy	
-1980	0081375	La bidasse	Comedy	War	
-1980	0080549	Nashville Lady	Biography	Drama	Music
-1980	0081529	Tu fais pas le poids, shérif!	Action	Comedy	
-1980	0080453	Le lagon bleu	Adventure	Drama	Romance
-1980	0080455	Les Blues Brothers	Adventure	Comedy	Crime
-1980	0081283	Des gens comme les autres	Drama		
-1980	0081696	Urban Cowboy	Drama	Romance	Western
-1980	0081353	Popeye	Adventure	Comedy	Family
-1980	0081505	Shining	Drama	Horror	
-1980	0081480	Comme au bon vieux temps	Comedy	Romance	
-1980	0080520	Cheech and Chong's Next Movie	Comedy	Crime	Sci-Fi
-1980	0080487	Le golf en folie !	Comedy	Sport	
-1980	0080761	Vendredi 13	Horror	Mystery	Thriller
-1980	0080474	Brubaker	Crime	Drama	
-1979	0079417	Kramer contre Kramer	Drama		
-1979	0078767	Amityville, la maison du diable	Horror		
-1979	0078788	Apocalypse Now	Drama	War	
-1979	0079945	Star Trek, le film	Adventure	Mystery	Sci-Fi
-1979	0078748	Alien - Le 8ème passager	Horror	Sci-Fi	
-1979	0079588	Les Muppets: Ça, c'est du cinéma	Adventure	Comedy	Family
-1979	0078721	Elle	Comedy	Romance	
-1979	0079367	Un vrai schnock	Comedy		
-1979	0079574	Moonraker	Action	Adventure	Sci-Fi
-1979	0079100	Le cavalier électrique	Comedy	Drama	Romance
-1979	0078966	Le syndrome chinois	Drama	Thriller	
-1979	0079522	Manhattan	Comedy	Drama	Romance
-1979	0079489	Le vampire de ces dames	Comedy		
-1979	0079540	Arrête de ramer, t'es sur le sable	Comedy		
-1979	0079116	L'évadé d'Alcatraz	Biography	Crime	Drama
-1979	0079510	Tendre combat	Comedy	Romance	Sport
-1979	0079948	Merci d'avoir été ma femme...	Comedy	Romance	
-1979	0079336	Ne tirez pas sur le dentiste	Adventure	Comedy	Crime
-1979	0078754	Que le spectacle commence	Comedy	Drama	Music
-1979	0078723	1941	Action	Comedy	War
-1978	0077631	Grease	Musical	Romance	
-1978	0078346	Superman	Action	Adventure	Drama
-1978	0077523	Doux, dur et dingue	Action	Comedy	
-1978	0077766	Les dents de la mer, 2e partie	Adventure	Drama	Horror
-1978	0077663	Le ciel peut attendre	Comedy	Fantasy	Romance
-1978	0077696	La fureur du danger	Action	Comedy	
-1978	0077416	Voyage au bout de l'enfer	Drama	War	
-1978	0077651	Halloween, la nuit des masques	Horror	Thriller	
-1978	0077369	Le convoi	Action	Drama	
-1978	0077578	Drôle d'embrouille	Comedy	Mystery	Thriller
-1978	0078446	Faut trouver le joint	Comedy	Music	
-1978	0077928	Midnight Express	Biography	Crime	Drama
-1978	0077362	Le retour	Drama	Romance	War
-1978	0077699	Appelez-moi Docteur	Comedy	Drama	Romance
-1978	0077745	L'invasion des profanateurs	Horror	Sci-Fi	
-1978	0078444	La femme libre	Comedy	Drama	Romance
-1978	0078504	The Wiz	Adventure	Family	Fantasy
-1978	0077716	Château de rêves	Drama	Romance	Sport
-1978	0077288	La cage aux folles	Comedy		
-1978	0077531	F.I.S.T	Crime	Drama	Thriller
-1977	0076759	La guerre des étoiles	Action	Adventure	Fantasy
-1977	0075860	Rencontres du troisième type	Drama	Sci-Fi	
-1977	0076729	Cours après moi shérif	Action	Comedy	
-1977	0076095	Adieu, je reste	Comedy	Drama	Romance
-1977	0076666	La fièvre du samedi soir	Drama	Music	
-1977	0076618	Les aventures de Bernard et Bianca	Animation	Adventure	Comedy
-1977	0075784	Un pont trop loin	Drama	History	War
-1977	0076752	L'espion qui m'aimait	Action	Adventure	Thriller
-1977	0076489	Oh, God!	Comedy	Fantasy	
-1977	0076538	Peter et Elliott le dragon	Animation	Adventure	Comedy
-1977	0075686	Annie Hall	Comedy	Romance	
-1977	0078227	Les faux-durs	Comedy	Romance	Sport
-1977	0076070	L'épreuve de force	Action	Crime	Thriller
-1977	0076843	Le tournant de la vie	Drama	Romance	
-1977	0076138	Héros	Comedy	Drama	
-1977	0076141	Le grand frisson	Comedy	Mystery	
-1977	0076009	L'exorciste II: L'hérétique	Horror		
-1977	0075648	Les naufragés du 747	Action	Drama	Thriller
-1977	0076723	La castagne	Comedy	Drama	Sport
-1977	0077681	La colline a des yeux	Horror	Thriller	
-1976	0075148	Rocky	Drama	Sport	
-1976	0075265	Une étoile est née	Drama	Music	Romance
-1976	0074119	Les hommes du président	Biography	Drama	History
-1976	0074751	King Kong	Adventure	Horror	
-1976	0074483	L'inspecteur ne renonce jamais	Action	Crime	Thriller
-1976	0074174	La chouette équipe	Comedy	Drama	Family
-1976	0075222	La dernière folie de Mel Brooks	Comedy		
-1976	0075066	Quand la panthère rose s'emmêle	Comedy	Crime	
-1976	0074285	Carrie au bal du diable	Horror		
-1976	0075029	Josey Wales hors-la-loi	Western		
-1976	0075314	Taxi Driver	Crime	Drama	
-1976	0076054	Un vendredi dingue, dingue, dingue	Comedy	Family	Fantasy
-1976	0074812	L'âge de cristal	Action	Sci-Fi	
-1976	0074860	Marathon Man	Crime	Thriller	
-1976	0074923	Ambulances tous risques	Comedy	Drama	
-1976	0075629	Across the Great Divide	Family	Western	
-1976	0075086	Lâche-moi les baskets	Comedy	Romance	
-1976	0074906	Missouri Breaks	Drama	Western	
-1976	0074539	La flûte à six schtroumpfs	Animation	Comedy	Family
-1976	0074564	Gator	Action	Drama	Crime
-1975	0073195	Les dents de la mer	Adventure	Drama	Thriller
-1975	0073629	The Rocky Horror Picture Show	Comedy	Musical	
-1975	0073486	Vol au-dessus d'un nid de coucou	Drama		
-1975	0072890	Un après-midi de chien	Biography	Crime	Drama
-1975	0073692	Shampoo	Comedy	Drama	
-1975	0072081	Le retour de la panthère rose	Comedy	Crime	Mystery
-1975	0073802	Les 3 jours du condor	Mystery	Thriller	
-1975	0073026	Funny Lady	Biography	Comedy	Drama
-1975	0072653	Le gang des chaussons aux pommes	Comedy	Family	Western
-1975	0073941	Aloha, Bobby and Rose	Drama		
-1975	0073496	The Other Side of the Mountain	Biography	Drama	Romance
-1975	0073812	Tommy	Drama	Musical	
-1975	0072610	La Liberté sauvage	Adventure	Drama	Family
-1975	0073631	Rollerball	Action	Sci-Fi	Sport
-1975	0073113	L'odyssée du Hindenburg	Adventure	Drama	History
-1975	0073075	La kermesse des aigles	Adventure	Drama	
-1975	0072951	La montagne ensorcelée	Adventure	Family	Fantasy
-1975	0072848	Le jour du fléau	Drama	Thriller	
-1975	0072737	L'évadé	Action	Adventure	Drama
-1975	0073018	French Connection II	Action	Crime	Drama
-1974	0071230	Le shérif est en prison	Comedy	Western	
-1974	0072308	La tour infernale	Action	Drama	Thriller
-1974	0072317	The Trial of Billy Jack	Action	Drama	Music
-1974	0072431	Frankenstein junior	Comedy		
-1974	0071455	Tremblement de terre	Action	Drama	Thriller
-1974	0071562	Le parrain, 2ème partie	Crime	Drama	
-1974	0071110	747 en péril	Action	Drama	Thriller
-1974	0074797	The Life and Times of Grizzly Adams	Adventure	Family	Western
-1974	0071571	La grande casse	Action	Crime	Drama
-1974	0071206	Benji	Adventure	Family	Romance
-1974	0071607	Le nouvel amour de coccinelle	Comedy	Family	Fantasy
-1974	0072271	Massacre à la tronçonneuse	Horror		
-1974	0071315	Chinatown	Drama	Mystery	Thriller
-1974	0072288	Le canardeur	Comedy	Crime	Drama
-1974	0071402	Un justicier dans la ville	Action	Crime	Drama
-1974	0071807	L'homme au pistolet d'or	Action	Adventure	Thriller
-1974	0071583	Faites-le avec les doigts	Comedy		
-1974	0071788	Macon County Line	Action	Drama	Romance
-1974	0071115	Alice n'est plus ici	Drama	Romance	
-1974	0071524	Spéciale première	Comedy	Drama	Romance
-1973	0070047	L'exorciste	Horror		
-1973	0070735	L'arnaque	Comedy	Crime	Drama
-1973	0069704	American Graffiti	Comedy	Drama	
-1973	0070511	Papillon	Biography	Crime	Drama
-1973	0070328	Vivre et laisser mourir	Action	Adventure	Thriller
-1973	0070608	Robin des bois	Animation	Adventure	Comedy
-1973	0070510	La barbe à papa	Comedy	Drama	
-1973	0070666	Serpico	Biography	Crime	Drama
-1973	0070034	Opération dragon	Action	Crime	Drama
-1973	0070239	Jesus Christ Superstar	Drama	History	Musical
-1973	0072281	Les trois mousquetaires	Action	Adventure	
-1973	0070819	Une maîtresse dans les bras, une femme sur le dos	Comedy	Romance	
-1973	0069947	Chacal	Crime	Drama	Thriller
-1973	0068699	L'homme des hautes plaines	Mystery	Western	
-1973	0069888	Class of '44	Drama		
-1973	0069768	La bataille de la planète des singes	Action	Sci-Fi	
-1973	0070016	Charlotte's Web	Animation	Family	Musical
-1973	0069966	S.O.S. Black Guns	Crime	Drama	Action
-1973	0070379	Mean streets - les rues chaudes	Crime	Drama	Thriller
-1973	0070337	Les horizons perdus	Adventure	Drama	Fantasy
-1972	0068646	Le parrain	Crime	Drama	
-1972	0069113	L'aventure du Poséidon	Action	Adventure	Drama
-1972	0068762	Jeremiah Johnson	Adventure	Drama	Western
-1972	0068327	Cabaret	Drama	Musical	
-1972	0068638	Guet-apens	Action	Crime	Thriller
-1972	0070849	Le dernier Tango à Paris	Drama	Romance	
-1972	0068612	Fritz le chat	Animation	Comedy	Drama
-1972	0068341	Cosa Nostra	Crime	Drama	
-1972	0068687	Le brise coeur	Comedy	Drama	Romance
-1972	0069257	Les nouveaux exploits de Shaft	Action	Crime	Drama
-1972	0068828	Lady Sings the Blues	Biography	Drama	Music
-1972	0068408	La conquête de la planète des singes	Action	Sci-Fi	
-1972	0068421	John Wayne et les cow-boys	Adventure	Drama	Western
-1972	0068156	1776	Drama	Family	History
-1972	0068909	L'homme de la Manche	Drama	Fantasy	Musical
-1972	0068240	Avanti!	Comedy	Romance	
-1972	0068833	La dernière maison sur la gauche	Horror	Thriller	
-1972	0068284	Le vampire noir	Fantasy	Horror	Romance
-1972	0068361	Le charme discret de la bourgeoisie	Comedy		
-1972	0065750	La furia del Hombre Lobo	Horror		
-1971	0066832	Billy Jack	Action	Drama	
-1971	0067093	Un violon sur le toit	Drama	Family	Musical
-1971	0066995	Les diamants sont éternels	Action	Adventure	Thriller
-1971	0067328	La dernière séance	Drama		
-1971	0066892	Ce plaisir qu'on dit charnel	Drama		
-1971	0067217	L'hôpital	Comedy	Drama	Mystery
-1971	0067991	Willard	Horror	Sci-Fi	
-1971	0066817	L'apprentie sorcière	Animation	Adventure	Comedy
-1971	0067810	Sweet Sweetback's Baadasssss Song	Crime	Drama	Thriller
-1971	0067065	Les évadés de la planète des singes	Action	Sci-Fi	
-1971	0067588	Un frisson dans la nuit	Thriller		
-1971	0066830	The Big Doll House	Action	Drama	Thriller
-1971	0067525	Le survivant	Action	Sci-Fi	Thriller
-1971	0066831	Big Jake	Western		
-1971	0066767	Le dossier Anderson	Action	Crime	Thriller
-1971	0067770	Soleil rouge	Action	Western	
-1971	0067992	Charlie et la chocolaterie	Family	Fantasy	Musical
-1971	0066434	THX 1138	Drama	Sci-Fi	Thriller
-1971	0067778	Le souffle au coeur	Comedy	Drama	
-1971	0090928	Honey Britches	Comedy	Horror	Thriller
-1970	0066011	Love Story	Drama	Romance	
-1970	0065377	Airport	Action	Drama	Thriller
-1970	0066026	M.A.S.H.	Comedy	Drama	War
-1970	0066206	Patton	Biography	Drama	War
-1970	0065421	Les aristochats	Animation	Adventure	Comedy
-1970	0065988	Little Big Man	Adventure	Comedy	Drama
-1970	0066319	La fille de Ryan	Drama	Romance	
-1970	0066473	Tora! Tora! Tora!	Action	Drama	History
-1970	0065528	Catch 22	Comedy	Drama	War
-1970	0066195	La chouette et le pussycat	Comedy		
-1970	0065916	Joe	Drama	Thriller	
-1970	0065462	Le secret de la planète des singes	Action	Adventure	Sci-Fi
-1970	0065482	Les boatniks - Du vent dans les voiles	Family	Comedy	
-1970	0066774	Ann och Eve - de erotiska	Drama		
-1970	0066181	Melinda	Comedy	Drama	Fantasy
-1970	0066301	Rio Lobo	Adventure	Romance	War
-1970	0065466	Orgissimo	Comedy	Drama	Music
-1970	0065547	Chisum	Biography	Western	
-1970	0066450	Appelez-moi Monsieur Tibbs	Crime	Drama	Mystery
-1970	0065611	Darling Lili	Comedy	Drama	Musical
-1969	0064115	Butch Cassidy et le Kid	Biography	Crime	Drama
-1969	0064665	Macadam cowboy	Drama		
-1969	0064276	Easy Rider	Adventure	Drama	
-1969	0064418	Hello, Dolly!	Adventure	Comedy	Musical
-1969	0064100	Bob et Carole et Ted et Alice	Comedy	Drama	Romance
-1969	0064782	La kermesse de l'Ouest	Comedy	Drama	Musical
-1969	0065126	100 dollars pour un shérif	Adventure	Drama	Western
-1969	0064117	Fleur de cactus	Comedy	Romance	
-1969	0064381	Goodbye Columbus	Comedy	Drama	Romance
-1969	0064757	Au service secret de Sa Majesté	Action	Adventure	Thriller
-1969	0065215	Virages	Action	Drama	Sport
-1969	0065037	Pookie	Comedy	Drama	Romance
-1969	0168192	The Stewardesses	Comedy	Drama	
-1969	0064911	La cavale infernale	Action	Drama	
-1969	0064041	L'arrangement	Drama	Romance	
-1969	0064002	Alice's Restaurant	Comedy	Drama	Music
-1969	0064639	Les naufragés de l'espace	Adventure	Drama	Sci-Fi
-1969	0064169	Le clan des Siciliens	Crime	Drama	
-1969	0064158	Che!	Biography	Drama	History
-1969	0064155	Charro	Western		
-1968	0062622	2001, l'odyssée de l'espace	Adventure	Sci-Fi	
-1968	0063374	Drôle de couple	Comedy		
-1968	0062765	Bullitt	Action	Crime	Mystery
-1968	0063518	Roméo & Juliette	Drama	Romance	
-1968	0063442	La planète des singes	Adventure	Sci-Fi	
-1968	0063829	Les tiens, les miens, le nôtre	Comedy	Family	
-1968	0063227	Le lion en hiver	Biography	Drama	History
-1968	0063035	Les bérets verts	Drama	War	
-1968	0063385	Oliver!	Drama	Family	Musical
-1968	0062974	La vallée du bonheur	Family	Fantasy	Musical
-1968	0063821	Il y a un homme dans le lit de maman	Comedy	Drama	Family
-1968	0063801	Que faisiez-vous quand les lumières se sont éteintes?	Comedy		
-1968	0064116	Il était une fois dans l'Ouest	Western		
-1968	0063642	Star!	Biography	Comedy	Drama
-1968	0063634	À plein tube	Comedy	Musical	
-1968	0063775	Pancho Villa	War	Western	
-1968	0063661	Sweet November	Comedy	Drama	Romance
-1968	0063823	Yellow Submarine	Animation	Adventure	Comedy
-1968	0062994	Funny Girl	Biography	Comedy	Drama
-1968	0260434	Tricks of the Trade	Drama		
-1967	0061852	Le livre de la jungle	Animation	Adventure	Family
-1967	0061722	Le lauréat	Comedy	Drama	Romance
-1967	0061735	Devine qui vient dîner?	Comedy	Drama	
-1967	0061578	Les douze salopards	Action	Adventure	War
-1967	0062430	La vallée des poupées	Drama	Music	Romance
-1967	0062512	On ne vit que deux fois	Action	Adventure	Thriller
-1967	0062376	Les anges aux poings serrés	Drama		
-1967	0062362	Millie	Comedy	Musical	Romance
-1967	0061439	Camelot	Adventure	Fantasy	Musical
-1967	0061420	Le crédo de la violence	Action	Drama	Thriller
-1967	0061811	Dans la chaleur de la nuit	Crime	Drama	Mystery
-1967	0061834	Je suis curieuse	Drama		
-1967	0061385	Pieds nus dans le parc	Comedy	Romance	
-1967	0062467	Seule dans la nuit	Horror	Thriller	
-1967	0061619	El Dorado	Drama	Romance	Western
-1967	0061810	F comme Flint	Action	Adventure	Comedy
-1967	0061796	Que vienne la nuit	Drama		
-1967	0061584	L'extravagant docteur Dolittle	Adventure	Comedy	Family
-1967	0061407	La mégère apprivoisée	Comedy	Drama	Romance
-1967	0062472	La caravane de feu	Western		
-1966	0060164	La bible	Drama		
-1966	0060491	Hawaï	Drama		
-1966	0060665	Un homme pour l'éternité	Biography	Drama	History
-1966	0060640	Lt. Robin Crusoe, U.S.N.	Adventure	Comedy	Family
-1966	0060921	Les Russes arrivent, les Russes arrivent	Comedy	War	
-1966	0060472	Grand Prix	Drama	Sport	
-1966	0060862	Les professionnels	Action	Adventure	Western
-1966	0060086	Alfie, le dragueur	Comedy	Drama	
-1966	0059557	Notre homme Flint	Action	Adventure	Comedy
-1966	0060748	Nevada Smith	Western		
-1966	0061189	Les anges sauvages	Action	Drama	Thriller
-1966	0060897	Le retour des sept	Action	Western	
-1966	0060196	Le bon, la brute et le truand	Western		
-1966	0060232	La poursuite impitoyable	Crime	Drama	Thriller
-1966	0061093	Trois sur un sofa	Comedy	Romance	
-1966	0059563	Paradis hawaïen	Comedy	Musical	
-1966	0059127	Dracula, prince des ténèbres	Horror		
-1966	0060675	Masculin féminin	Drama	Romance	
-1966	0060107	Andreï Roublev	Biography	Drama	History
-1966	0060647	Made in U.S.A	Comedy	Crime	Mystery
-1965	0059742	La mélodie du bonheur	Biography	Drama	Family
-1965	0059113	Le docteur Jivago	Drama	Romance	War
-1965	0059800	Opération Tonnerre	Action	Adventure	Thriller
-1965	0059797	Ces merveilleux fous volants dans leurs drôles de machines	Adventure	Comedy	Family
-1965	0059793	L'espion aux pattes de velours	Comedy	Crime	Family
-1965	0059243	La grande course autour du monde	Action	Adventure	Comedy
-1965	0059017	Cat Ballou	Comedy	Romance	Western
-1965	0059903	Quoi de neuf, Pussycat?	Comedy		
-1965	0059885	L'express du colonel von Ryan	Action	Adventure	War
-1965	0059245	La plus grande histoire jamais contée	Biography	Drama	History
-1965	0059674	Le chevalier des sables	Drama		
-1965	0059037	Le Kid de Cincinnati	Drama		
-1965	0059578	Et pour quelques dollars de plus	Western		
-1965	0188550	Daytona Beach Weekend	Drama	Musical	
-1965	0058920	The Art of Love	Comedy		
-1965	0059740	Les quatre fils de Katie Elder	Western		
-1965	0059309	Première victoire	Drama	War	
-1965	0059250	Sur la piste de la grande caravane	Comedy	Western	
-1965	0059224	La stripteaseuse effarouchée	Comedy	Musical	Romance
-1965	0056585	Chatouille-moi	Comedy	Musical	Romance
-1964	0058331	Mary Poppins	Comedy	Family	Fantasy
-1964	0058385	My Fair Lady	Drama	Family	Musical
-1964	0058150	Goldfinger	Action	Adventure	Thriller
-1964	0057917	Les ambitieux	Drama	Romance	
-1964	0058461	Pour une poignée de dollars	Western		
-1964	0058182	Quatre garçons dans le vent	Comedy	Music	Musical
-1964	0058743	Madame croque-maris	Comedy	Romance	
-1964	0058708	La reine du Colorado	Biography	Comedy	Musical
-1964	0058092	Grand méchant loup appelle	Adventure	Comedy	Romance
-1964	0058586	Quand l'inspecteur s'emmêle	Comedy	Mystery	
-1964	0059825	Le train	Thriller	War	
-1964	0058329	Pas de printemps pour Marnie	Crime	Drama	Mystery
-1964	0058725	L'amour en quatrième vitesse	Comedy	Musical	
-1964	0058085	La chute de l'Empire romain	Drama	History	War
-1964	0058437	L'outrage	Crime	Drama	Western
-1964	0058534	L'homme à tout faire	Drama	Music	Musical
-1964	0057227	Salut, les cousins	Comedy	Musical	Romance
-1964	0154587	Les aventures de Yogi le nounours	Animation	Adventure	Comedy
-1964	0057012	Docteur Folamour, ou: Comment j'ai appris à ne plus m'en faire et à aimer la bombe	Comedy		
-1964	0058604	Soy Cuba	Drama	History	War
-1963	0056937	Cléopâtre	Biography	Drama	History
-1963	0057193	Un monde fou, fou, fou, fou	Action	Adventure	Comedy
-1963	0057590	Tom Jones: de l'alcôve à la potence	Adventure	Comedy	History
-1963	0057187	Irma la Douce	Comedy	Romance	
-1963	0057076	Bons baisers de Russie	Action	Adventure	Thriller
-1963	0057546	Merlin l'enchanteur	Animation	Adventure	Comedy
-1963	0057518	Après lui, le déluge	Comedy	Sci-Fi	Family
-1963	0056923	Charade	Comedy	Mystery	Romance
-1963	0056891	Bye Bye Birdie	Comedy	Musical	
-1963	0057115	La grande évasion	Adventure	Drama	History
-1963	0056869	Les oiseaux	Drama	Horror	Mystery
-1963	0057413	La panthère rose	Comedy	Crime	Romance
-1963	0057634	Hôtel international	Drama		
-1963	0057163	Le plus sauvage d'entre tous	Drama		
-1963	0057372	Docteur Jerry et Mister Love	Comedy	Romance	Sci-Fi
-1963	0056875	Blood Feast	Horror		
-1963	0057129	La maison du diable	Horror		
-1963	0057191	Blondes, brunes et rousses	Comedy	Musical	Romance
-1963	0057580	The Three Stooges Go Around the World in a Daze	Comedy		
-1963	0057038	Héros de Babylone	Adventure		
-1962	0056085	La conquête de l'Ouest	Western		
-1962	0056172	Lawrence d'Arabie	Adventure	Biography	Drama
-1962	0056197	Le jour le plus long	Action	Drama	History
-1962	0056095	Les enfants du capitaine Grant	Adventure	Family	Fantasy
-1962	0055928	James Bond 007 contre Dr. No	Action	Adventure	Thriller
-1962	0056262	Le marchand de fanfares	Comedy	Musical	Romance
-1962	0056575	Un soupçon de vison	Comedy	Romance	
-1962	0056700	Le monde merveilleux des contes de Grimm	Animation	Adventure	Biography
-1962	0056059	Hatari!	Action	Adventure	Drama
-1962	0056264	Les révoltés du Bounty	Adventure	Drama	History
-1962	0056048	Gypsy, Venus de Broadway	Biography	Comedy	Drama
-1962	0056193	Lolita	Crime	Drama	Romance
-1962	0056579	The Three Stooges Meet Hercules	Comedy	Fantasy	
-1962	0056687	Qu'est-il arrivé à Baby Jane?	Drama	Horror	Thriller
-1962	0056556	Taras Bulba	Adventure	Drama	History
-1962	0056526	La foire aux illusions	Musical	Romance	
-1962	0056142	King Kong contre Godzilla	Action	Adventure	Fantasy
-1962	0056023	Des filles... encore des filles	Comedy	Musical	
-1962	0054890	Les quatre cavaliers de l'apocalypse	Drama	War	
-1962	0056138	Un direct au coeur	Drama	Musical	Sport
-1961	0055254	Les 101 dalmatiens	Animation	Adventure	Comedy
-1961	0055614	West Side Story	Crime	Drama	Musical
-1961	0054953	Les canons de Navarone	Action	Adventure	Drama
-1961	0054847	Le Cid	Adventure	Biography	Drama
-1961	0054594	Monte là-dessus	Comedy	Family	Sci-Fi
-1961	0055100	Un pyjama pour deux	Comedy	Drama	Romance
-1961	0055047	Le roi des rois	Biography	Drama	History
-1961	0054759	Le rendez-vous de septembre	Comedy	Romance	
-1961	0054885	Flower Drum Song	Comedy	Musical	Romance
-1961	0054692	Sous le ciel bleu d'Hawaï	Comedy	Musical	
-1961	0054649	Babes in Toyland	Comedy	Family	Fantasy
-1961	0055471	La fièvre dans le sang	Drama	Romance	
-1961	0055073	El Perdido	Drama	Romance	Western
-1961	0055458	Snow White and the Three Stooges	Adventure	Comedy	Family
-1961	0055018	Les innocents	Horror		
-1961	0055304	La chambre des tortures	Drama	Horror	Mystery
-1961	0055074	La dernière fois que j' ai vu Archie	Comedy	Romance	War
-1961	0054632	L'année dernière à Marienbad	Drama	Mystery	
-1961	0055572	Une femme est une femme	Comedy	Drama	Romance
-1961	0055508	Trois femmes	Comedy	Drama	
-1960	0054357	Les Robinsons des mers du sud	Adventure	Family	
-1960	0054215	Psychose	Horror	Mystery	Thriller
-1960	0054331	Spartacus	Adventure	Biography	Drama
-1960	0053779	La dolce vita	Comedy	Drama	
-1960	0053804	Exodus	Action	Drama	History
-1960	0053604	La garçonnière	Comedy	Drama	Romance
-1960	0053580	Alamo	Adventure	Drama	History
-1960	0053622	La Vénus au vison	Drama		
-1960	0054135	L'inconnu de Las Vegas	Comedy	Crime	Music
-1960	0054367	La tête à l'envers	Comedy	Sport	
-1960	0053841	Du haut de la terrasse	Drama	Romance	
-1960	0053793	Elmer Gantry, le charlatan	Drama		
-1960	0054188	Ne mangez pas les marguerites	Comedy	Family	Romance
-1960	0054172	Pépé	Comedy	Musical	
-1960	0054084	Piège à minuit	Drama	Mystery	Thriller
-1960	0054483	Le monde de Suzie Wong	Drama	Romance	
-1960	0054022	Le milliardaire	Comedy	Musical	Romance
-1960	0053877	The Grass Is Greener	Comedy	Drama	Romance
-1960	0054047	Les 7 mercenaires	Action	Adventure	Western
-1960	0053716	Cendrillon aux grands pieds	Comedy	Family	Fantasy
-1959	0052618	Ben-Hur	Adventure	Drama	History
-1959	0053285	La belle au bois dormant	Animation	Family	Fantasy
-1959	0053291	Certains l'aiment chaud	Comedy	Romance	
-1959	0053143	Opération jupons	Comedy	Romance	War
-1959	0053172	Confidences sur l'oreiller	Comedy	Romance	
-1959	0052918	Mirage de la vie	Drama		
-1959	0053318	Soudain l'été dernier	Drama	Mystery	Thriller
-1959	0053125	La mort aux trousses	Adventure	Mystery	Thriller
-1959	0053131	Au risque de se perdre	Drama		
-1959	0053221	Rio Bravo	Action	Drama	Western
-1959	0053290	Salomon et la reine de Saba	Drama	History	Romance
-1959	0052561	Autopsie d'un meurtre	Crime	Drama	Mystery
-1959	0053137	Le dernier rivage	Drama	Romance	Sci-Fi
-1959	0052896	Un trou dans la tête	Comedy	Drama	
-1959	0052948	Voyage au centre de la terre	Adventure	Family	Fantasy
-1959	0052738	Le journal d'Anne Frank	Biography	Drama	Family
-1959	0053183	La gloire et la peur	Action	Drama	War
-1959	0053434	L'homme aux colts d'or	Western		
-1959	0053334	La plus grande aventure de Tarzan	Action	Adventure	
-1959	0053335	Tarzan, l'homme-singe	Action	Adventure	Romance
-1958	0051383	Ma tante	Comedy	Drama	Romance
-1958	0051459	La chatte sur un toit brûlant	Drama		
-1958	0052415	Le bal des maudits	Action	Drama	War
-1958	0052182	Tables séparées	Drama	Romance	
-1958	0052365	Les Vikings	Action	Adventure	
-1958	0051337	Le septième voyage de Sinbad	Action	Adventure	Family
-1958	0050381	Les travaux d'Hercule	Adventure	Fantasy	
-1958	0052357	Sueurs froides	Mystery	Romance	Thriller
-1958	0051622	La mouche noire	Drama	Horror	Sci-Fi
-1958	0052311	La soif du mal	Crime	Drama	Film-Noir
-1958	0052275	Le combat mortel de Tarzan	Action	Adventure	
-1958	0051380	L'attaque de la femme de 50 pieds	Horror	Sci-Fi	
-1958	0051378	Ascenseur pour l'échafaud	Crime	Drama	Thriller
-1958	0051792	Jalsaghar	Drama	Music	
-1958	0050669	Maigret tend un piège	Crime	Drama	
-1957	0050212	Le pont de la rivière Kwaï	Adventure	Drama	War
-1957	0050933	Sayonara	Drama	Romance	
-1957	0050839	Les plaisirs de l'enfer	Drama	Romance	
-1957	0050798	Fidèle vagabond	Adventure	Drama	Family
-1957	0050468	Règlement de comptes à O.K. Corral	Biography	Drama	Western
-1957	0050379	L'adieu aux armes	Drama	Romance	War
-1957	0050858	Orgueil et passion	Action	Adventure	Drama
-1957	0051201	Témoin à charge	Crime	Drama	Mystery
-1957	0050549	Une île au soleil	Drama	Romance	
-1957	0050280	Frankenstein s'est échappé!	Horror	Sci-Fi	Thriller
-1957	0050083	Douze hommes en colère	Drama		
-1957	0050556	Le rock du bagne	Drama	Music	Musical
-1957	0050530	I Was a Teenage Werewolf	Drama	Fantasy	Horror
-1957	0051057	Tarzan et le safari perdu	Action	Adventure	
-1957	0050302	The Delinquents	Drama		
-1957	0048902	Teenage Thunder	Drama		
-1957	0050251	Prisonnières des Martiens	Action	Family	Sci-Fi
-1957	0050783	Les nuits de Cabiria	Drama		
-1957	0051088	Contrebande au Caire	Crime	Drama	Film-Noir
-1957	0050454	Un dénommé Squarcio	Drama	Romance	
-1956	0049833	Les dix commandements	Adventure	Drama	
-1956	0048960	Le tour du monde en 80 jours	Adventure	Comedy	Family
-1956	0049261	Géant	Drama	Western	
-1956	0049408	Le roi et moi	Biography	Drama	Musical
-1956	0049314	Haute société	Comedy	Musical	Romance
-1956	0049934	Guerre et paix	Drama	Romance	War
-1956	0049474	L'homme au complet gris	Drama	Romance	War
-1956	0049513	Moby Dick	Adventure	Drama	
-1956	0049470	L'homme qui en savait trop	Drama	Thriller	
-1956	0049593	Le trouillard du Far West	Action	Comedy	Music
-1956	0049301	Hélène de Troie	Adventure	Drama	History
-1956	0049578	The Opposite Sex	Comedy	Musical	Romance
-1956	0049452	Le cavalier du crépuscule	Drama	Musical	Romance
-1956	0049092	Le conquérant	Adventure	Biography	History
-1956	0049682	Rock Around the Clock	Comedy	Music	Romance
-1956	0049223	Planète interdite	Action	Adventure	Sci-Fi
-1956	0049189	Et Dieu... créa la femme	Drama	Romance	
-1956	0049367	Invitation à la danse	Animation	Fantasy	Musical
-1956	0049782	Rodan	Adventure	Drama	Horror
-1956	0048956	L'invaincu	Drama		
-1955	0048280	La belle et le clochard	Animation	Adventure	Comedy
-1955	0048380	Permission jusqu'à l'aube	Comedy	Drama	War
-1955	0047860	Le cri de la victoire	Drama	Romance	War
-1955	0048140	Blanches colombes et vilains messieurs	Comedy	Crime	Musical
-1955	0048691	Les implacables	Western		
-1955	0048605	7 ans de réflexion	Comedy	Romance	
-1955	0047840	Artistes et modèles	Comedy	Musical	Romance
-1955	0048728	La main au collet	Mystery	Romance	Thriller
-1955	0048124	La pantoufle de verre	Fantasy	Musical	Romance
-1955	0048283	La terre des pharaons	Adventure	Drama	History
-1955	0048696	Tarantula	Horror	Sci-Fi	
-1955	0048473	La complainte du sentier	Drama		
-1955	0048308	Lola Montès	Biography	Drama	Romance
-1955	0048021	Du rififi chez les hommes	Crime	Thriller	
-1955	0047821	Femmes entre elles	Drama	Romance	
-1954	0047396	Fenêtre sur cour	Mystery	Thriller	
-1954	0047673	Noël blanc	Comedy	Musical	Romance
-1954	0046672	Vingt mille lieues sous la mer	Adventure	Drama	Family
-1954	0046899	Les gladiateurs	Action	Drama	History
-1954	0046816	Ouragan sur le Caine	Drama	War	
-1954	0047522	Une étoile est née	Drama	Musical	Romance
-1954	0047296	Sur les quais	Crime	Drama	Thriller
-1954	0046719	Bronco Apache	Western		
-1954	0046834	La grande nuit de Casanova	Adventure	Comedy	
-1954	0047034	Godzilla	Drama	Horror	Sci-Fi
-1954	0047150	Richard Coeur de Lion	Adventure	History	Romance
-1954	0046770	Voyage au-delà des vivants	Drama	History	Romance
-1954	0047501	Sitting Bull	Western		
-1954	0047230	Escadrille Panthère	Drama	War	
-1954	0047190	Nettoyage par le vide	Crime	Drama	Film-Noir
-1954	0047348	Le fantôme de la Rue Morgue	Crime	Horror	Mystery
-1954	0047542	Je dois tuer	Crime	Drama	Film-Noir
-1954	0047464	Le secret des Incas	Adventure		
-1954	0047413	Le cavalier traqué	Western		
-1954	0047123	Une femme qui s'affiche	Comedy	Romance	
-1953	0046183	Les aventures de Peter Pan	Animation	Adventure	Family
-1953	0046247	La tunique	Drama	History	
-1953	0045793	Tant qu'il y aura des hommes	Drama	Romance	War
-1953	0045888	L'homme au masque de cire	Horror		
-1953	0046303	L'homme des vallées perdues	Drama	Western	
-1953	0045810	Les hommes préfèrent les blondes	Comedy	Musical	Romance
-1953	0045546	Le monstre des temps perdus	Adventure	Horror	Sci-Fi
-1953	0046435	Titanic	Drama	History	Romance
-1953	0046534	La guerre des mondes	Action	Sci-Fi	Thriller
-1953	0046161	Les bérets rouges	Drama	War	
-1953	0045737	Fort Bravo	Western		
-1953	0046532	À l'assaut du Fort Clark	Romance	War	Western
-1953	0045752	The Farmer Takes a Wife	Comedy	Musical	Romance
-1953	0045512	Les révoltés de la Claire-Louise	Adventure	Crime	Thriller
-1953	0046248	Robot Monster	Sci-Fi		
-1953	0046521	Les vitelloni	Comedy	Drama	
-1953	0046712	Anatahan	Drama	War	
-1953	0046004	Le petit fugitif	Drama	Family	
-1953	0045981	Quand tu liras cette lettre	Drama		
-1953	0046478	Les contes de la lune vague après la pluie	Drama	Fantasy	War
-1952	0044672	Sous le plus grand chapiteau du monde	Drama	Family	Romance
-1952	0045162	Les neiges du Kilimandjaro	Adventure	Drama	Romance
-1952	0044926	Moulin Rouge	Biography	Drama	Music
-1952	0045061	L'homme tranquille	Comedy	Drama	Romance
-1952	0044706	Le train sifflera trois fois	Action	Drama	Thriller
-1952	0045152	Chantons sous la pluie	Comedy	Musical	Romance
-1952	0045197	Robin des Bois et ses joyeux compagnons	Action	Adventure	Family
-1952	0045339	Le monde lui appartient	Action	Adventure	History
-1952	0044907	La vie de Jean Valjean	Adventure	Drama	History
-1952	0044750	Invasion, U.S.A.	Drama	Sci-Fi	War
-1952	0044837	Les feux de la rampe	Drama	Music	Romance
-1952	0044608	L'intrépide	Comedy		
-1952	0045274	Umberto D.	Drama		
-1952	0044741	Vivre	Drama		
-1952	0043686	Jeux interdits	Drama	War	
-1951	0043949	Quo Vadis	Biography	Drama	History
-1951	0044081	Un tramway nommé désir	Drama		
-1951	0044079	L'inconnu du Nord-Express	Crime	Film-Noir	Thriller
-1951	0043278	Un Américain à Paris	Drama	Musical	Romance
-1951	0043338	Le gouffre aux chimères	Drama	Film-Noir	
-1951	0043370	Call Me Mister	Musical		
-1951	0043795	Meet Me After the Show	Comedy	Music	Musical
-1951	0043882	Sur la Riviera	Comedy	Musical	
-1951	0043912	Pékin-Express	Action	Drama	Film-Noir
-1951	0043595	La flamme du passé	Comedy	Romance	
-1951	0043265	La reine africaine	Adventure	Drama	Romance
-1951	0043747	La Rivière de la mort	Western		
-1951	0044103	Les contes d'Hoffmann	Fantasy	Music	Musical
-1951	0044876	L'homme au complet blanc	Comedy	Drama	Sci-Fi
-1950	0042332	Cendrillon	Animation	Family	Fantasy
-1950	0042200	Annie, la reine du cirque	Biography	Comedy	Musical
-1950	0042727	C'étaient des hommes	Drama		
-1950	0042393	Destination... Lune!	Adventure	Drama	Sci-Fi
-1950	0042788	Les forbans de la nuit	Crime	Film-Noir	Mystery
-1950	0043044	Trois petits mots	Biography	Comedy	Musical
-1950	0042447	Propre à rien	Comedy	Musical	Western
-1950	0043150	Taxi, s'il vous plait	Comedy	Drama	Romance
-1950	0042735	L'histoire des Miniver	Drama		
-1950	0043116	La rue de la gaieté	Musical		
-1950	0042376	L'esclave du gang	Crime	Drama	Film-Noir
-1950	0042876	Rashômon	Crime	Drama	Mystery
-1950	0042192	Ève	Drama		
-1949	0041838	Samson et Dalila	Adventure	Drama	History
-1949	0041163	Bastogne	Action	Drama	History
-1949	0041507	Amour poste restante	Comedy	Musical	Romance
-1949	0041673	Ma bonne amie Irma	Comedy	Musical	Romance
-1949	0041746	L'héritage de la chair	Drama		
-1949	0041767	Échec à Borgia	Adventure	Drama	History
-1949	0041373	Boulevard des passions	Drama	Film-Noir	Romance
-1949	0041165	Mamzelle Mitraillette	Comedy	Western	
-1949	0041959	Le troisième homme	Film-Noir	Mystery	Thriller
-1949	0041800	Rendez-vous de juillet	Comedy	Drama	
-1948	0040725	Les chaussons rouges	Drama	Music	Romance
-1948	0040806	La fosse aux serpents	Drama	Mystery	
-1948	0040308	Parade de printemps	Musical	Romance	
-1948	0040897	Le trésor de la Sierra Madre	Adventure	Drama	Western
-1948	0040068	Deux nigauds contre Frankenstein	Comedy	Fantasy	Horror
-1948	0040694	Le pirate	Adventure	Comedy	Musical
-1948	0040798	L'homme aux lunettes d'écaille	Drama	Film-Noir	Mystery
-1948	0040869	La dame au manteau d'hermine	Comedy	Fantasy	Musical
-1948	0040109	Arc de triomphe	Drama	Romance	War
-1948	0040522	Le voleur de bicyclette	Drama		
-1948	0039220	Le gang des tueurs	Crime	Drama	Film-Noir
-1948	0040338	Première désillusion	Drama	Film-Noir	Mystery
-1948	0040682	Les parents terribles	Drama		
-1947	0039391	Ambre	Adventure	Drama	History
-1947	0039428	Les anneaux d'or	Adventure	Romance	War
-1947	0039337	L'etoile des étoiles	Comedy	Fantasy	Musical
-1947	0039776	En route vers Rio	Adventure	Comedy	Musical
-1947	0039819	L'Extravagante Miss Pilgrim	Comedy	Musical	Romance
-1947	0039628	Le Miracle sur la 34ème rue	Comedy	Drama	Family
-1947	0039966	Vivre en paix	Drama	War	Comedy
-1947	0039531	Mac Coy aux poings d'or	Drama		
-1947	0039725	Possédée	Crime	Drama	Film-Noir
-1947	0039286	Feux croisés	Crime	Drama	Film-Noir
-1947	0039636	Le deuil sied à Électre	Drama		
-1947	0039631	Monsieur Verdoux	Comedy	Crime	Drama
-1947	0039739	Quai des Orfèvres	Crime	Drama	
-1947	0039155	Antoine et Antoinette	Comedy	Drama	
-1947	0040525	La dame de Shanghai	Crime	Drama	Film-Noir
-1947	0040481	Il pleut toujours le dimanche	Crime	Drama	
-1946	0038969	Mélodie du sud	Animation	Comedy	Family
-1946	0036868	Les plus belles années de notre vie	Drama	Romance	War
-1946	0038499	Duel au soleil	Drama	Romance	Western
-1946	0038787	Les enchaînés	Drama	Film-Noir	Romance
-1946	0038854	Le facteur sonne toujours deux fois	Crime	Drama	Film-Noir
-1946	0039035	La pluie qui chante	Biography	Musical	
-1946	0039111	Jody et le faon	Drama	Family	Western
-1946	0038321	Badman's Territory	Western		
-1946	0039041	Demain viendra toujours	Drama	Romance	War
-1946	0039110	Sans réserve	Comedy	Romance	
-1946	0038326	Le fils de Robin des Bois	Action	Adventure	Family
-1946	0038369	Le dahlia bleu	Crime	Film-Noir	Mystery
-1946	0039053	Two Guys from Milwaukee	Comedy		
-1946	0038622	Humoresque	Drama	Music	Romance
-1946	0038348	La belle et la bête	Drama	Fantasy	Romance
-1946	0038824	Panique	Drama		
-1945	0040603	Les fausses pudeurs	Drama		
-1945	0037536	Les cloches de Sainte-Marie	Drama		
-1945	0038239	Week-end au Waldorf	Comedy	Drama	Musical
-1945	0037884	Le poison	Drama	Film-Noir	
-1945	0039116	Ziegfeld Follies	Comedy	Musical	
-1945	0038109	La maison du docteur Edwardes	Film-Noir	Mystery	Romance
-1945	0037644	Dillinger, l'ennemi public n°1	Biography	Crime	Drama
-1945	0037604	L'horloge	Drama	Romance	
-1945	0037638	Détour	Crime	Drama	Film-Noir
-1944	0036872	La route semée d'étoiles	Comedy	Drama	Music
-1944	0037059	Le chant du Missouri	Comedy	Drama	Family
-1944	0036775	Assurance sur la mort	Crime	Drama	Film-Noir
-1944	0037465	Wilson	Biography	Drama	History
-1943	0036430	This Is the Army	Comedy	Musical	War
-1943	0035896	Pour qui sonne le glas	Adventure	Drama	History
-1943	0036969	Jane Eyre	Drama	Romance	
-1943	0035942	Girl Crazy	Comedy	Musical	Romance
-1943	0035749	L'île aux plaisirs	Comedy	Musical	
-1943	0036261	Le fantôme de l'opéra	Drama	Horror	Music
-1943	0036406	Rosie l'endiablée	Musical		
-1943	0035982	Hello Frisco, Hello	Comedy	Musical	Romance
-1943	0034856	Les enfants d'Hitler	Drama	Romance	
-1943	0036414	Le triomphe de Tarzan	Action	Adventure	War
-1943	0036244	L'étrange incident	Drama	Western	
-1943	0037219	The Return of the Vampire	Drama	Horror	
-1943	0036055	Les rois de la blague	Comedy	Musical	
-1943	0035753	Le corbeau	Crime	Drama	Mystery
-1942	0034492	Bambi	Animation	Drama	Family
-1942	0035093	Madame Miniver	Drama	Romance	War
-1942	0035575	La glorieuse parade	Biography	Drama	Musical
-1942	0035238	Prisonniers du passé	Drama	Romance	
-1942	0035019	Uniformes et jupon court	Comedy	Romance	
-1942	0034746	Pour moi et ma mie	Musical	Romance	War
-1942	0034587	La féline	Fantasy	Horror	Thriller
-1942	0034928	Le livre de la jungle	Action	Adventure	Family
-1942	0035272	La folle histoire de Roxie Hart	Comedy	Crime	Romance
-1942	0035447	To the Shores of Tripoli	Drama	Romance	War
-1942	0034465	Les mille et une nuits	Action	Adventure	Comedy
-1942	0035262	En route pour le Maroc	Adventure	Comedy	Family
-1942	0034593	La pagode en flammes	Drama		
-1942	0035746	Le commando frappe à l'aube	Drama	History	War
-1942	0034583	Casablanca	Drama	Romance	War
-1942	0034522	Le cygne noir	Action	Adventure	Drama
-1942	0035151	Lune de miel mouvementée	Adventure	Comedy	Drama
-1942	0033379	The Bashful Bachelor	Comedy		
-1942	0035583	O toi ma charmante!	Comedy	Musical	Romance
-1942	0034780	La maison de mes rêves	Comedy		
-1941	0034167	Sergent York	Biography	Drama	History
-1941	0033726	Franc jeu	Comedy	Crime	Drama
-1941	0034248	Soupçons	Mystery	Thriller	
-1941	0033436	Deux nigauds soldats	Comedy	Musical	War
-1941	0034485	Débuts à Broadway	Comedy	Musical	Romance
-1941	0033563	Dumbo, l'éléphant volant	Animation	Drama	Family
-1941	0033467	Citizen Kane	Drama	Mystery	
-1941	0034328	La femme aux deux visages	Comedy	Romance	
-1941	0034091	Les secrets de Walt Disney	Animation	Comedy	Family
-1941	0033957	No Greater Sin	Drama		
-1940	0032910	Pinocchio	Animation	Comedy	Family
-1940	0032455	Fantasia	Animation	Family	Fantasy
-1940	0032273	La fièvre du pétrole	Adventure	Drama	Romance
-1940	0032976	Rebecca	Drama	Mystery	Romance
-1940	0032762	Le signe de Zorro	Action	Adventure	Romance
-1940	0032484	Correspondant 17	Action	Romance	Thriller
-1940	0033124	Swiss Family Robinson	Adventure		
-1940	0033117	Suzanne et ses idées	Drama	Comedy	
-1940	0032599	La dame du vendredi	Comedy	Drama	Romance
-1940	0033152	Le voleur de Bagdad	Adventure	Family	Fantasy
-1940	0033045	Rendez-vous	Comedy	Drama	Romance
-1940	0032981	L'aventure d'une nuit	Comedy	Drama	Romance
-1940	0032286	Brother Rat and a Baby	Comedy		
-1940	0032551	Les raisins de la colère	Drama	History	
-1940	0032575	Il épouse sa femme	Comedy		
-1940	0032384	De Mayerling à Sarajevo	Drama		
-1939	0031381	Autant en emporte le vent	Drama	History	Romance
-1939	0032138	Le magicien d'Oz	Adventure	Family	Fantasy
-1939	0031679	Mr. Smith au sénat	Comedy	Drama	
-1939	0031455	Quasimodo	Drama	Horror	Romance
-1939	0032143	Femmes	Comedy	Drama	
-1939	0032007	Tarzan trouve un fils	Action	Adventure	Family
-1939	0031725	Ninotchka	Comedy	Romance	
-1939	0031983	La grande farandole	Biography	Drama	Musical
-1939	0031252	Sur la piste des Mohawks	Drama	History	Romance
-1939	0031397	Les voyages de Gulliver	Animation	Adventure	Comedy
-1939	0031336	Quatre jeunes femmes	Drama	Romance	
-1939	0031225	Femme ou démon	Comedy	Western	
-1939	0031393	The Great Victor Herbert	Biography	Music	Musical
-1939	0031996	Swanee River	Biography	Drama	Musical
-1939	0031074	Balalaika	Musical	Romance	
-1939	0031517	Judge Hardy and Son	Comedy		
-1939	0031282	Divorcé malgré lui	Comedy	Drama	
-1939	0032636	Invisible Stripes	Crime	Drama	Film-Noir
-1939	0031012	On Dress Parade	Drama		
-1939	0032963	Raffles, gentleman cambrioleur	Adventure	Comedy	Crime
-1938	0030993	Vous ne l'emporterez pas avec vous	Comedy	Drama	Romance
-1938	0029843	Les aventures de Robin des Bois	Action	Adventure	Romance
-1938	0030637	Pygmalion	Comedy	Drama	Romance
-1938	0030631	Le professeur Schnock	Comedy		
-1938	0030651	Radio City Revels	Comedy	Musical	Romance
-1938	0030643	Le quai des brumes	Crime	Drama	Romance
-1937	0029583	Blanche Neige et les sept nains	Animation	Family	Fantasy
-1937	0029516	Saratoga	Drama	Comedy	Romance
-1937	0029606	Une étoile est née	Drama		
-1937	0029347	Deanna et ses boys	Comedy	Drama	Music
-1937	0029608	Stella Dallas	Drama	Romance	
-1937	0029377	La vie privée du tribun	Biography	Drama	Romance
-1937	0028739	Marie Walewska	Drama	History	Romance
-1937	0028578	Annapolis Salute	Drama	Romance	
-1937	0028950	La grande illusion	Drama	War	
-1937	0029453	Pépé le Moko	Crime	Drama	Romance
-1937	0028957	Green Fields	Comedy	Romance	
-1936	0028373	Trois jeunes filles à la page	Comedy	Musical	Romance
-1936	0028063	Tourbillon blanc	Comedy	Music	Romance
-1936	0027690	L'enchanteresse	Drama	History	
-1936	0027969	Soupe au lait	Comedy		
-1936	0028683	Le roman de Marguerite Gautier	Drama	Romance	
-1936	0027914	Loufoque et Cie	Comedy	Fantasy	Romance
-1936	0027951	Mayerling	Drama	Romance	
-1936	0028163	Red River Valley	Action	Music	Western
-1936	0027977	Les temps modernes	Comedy	Drama	Family
-1936	0027478	Le crime de Monsieur Lange	Comedy	Crime	Drama
-1935	0027125	Le danseur du dessus	Comedy	Musical	Romance
-1935	0026787	La femme de sa vie	Comedy	Romance	
-1935	0027139	Tumbling Tumbleweeds	Western		
-1935	0026720	Le cavalier miracle	Action	Comedy	Western
-1935	0026071	Anna Karenine	Drama	Romance	
-1935	0027200	Westward Ho	Drama	History	Western
-1935	0026705	Le roman d'un chanteur	Drama	Musical	Romance
-1934	0025316	New York - Miami	Comedy	Romance	
-1934	0025907	L'île au trésor	Adventure	Family	
-1934	0025617	Le voile des illusions	Drama	Romance	
-1934	0025948	Viva Villa!	Biography	Western	
-1934	0024961	Patte de chat	Comedy		
-1934	0024894	Le chat noir	Adventure	Crime	Horror
-1934	0025384	Let's Try Again	Drama		
-1933	0024216	King Kong, la huitième merveille du monde	Adventure	Horror	Sci-Fi
-1933	0023876	Cavalcade	Drama	Romance	War
-1933	0024166	Je ne suis pas un ange	Comedy	Musical	Romance
-1933	0024034	42ème rue	Comedy	Musical	Romance
-1933	0024548	Lady Lou	Comedy	Drama	History
-1933	0028755	Damaged Lives	Drama		
-1933	0024593	Le fils de Kong	Adventure	Comedy	
-1933	0024433	Peg o' My Heart	Drama	Romance	
-1933	0024067	Going Hollywood	Musical	Romance	
-1933	0024481	La reine Christine	Biography	Drama	History
-1933	0024539	Secrets	Drama	Western	
-1932	0023458	Shanghaï Express	Adventure	Drama	Romance
-1932	0022854	Emma	Drama		
-1932	0023241	Silence... on tourne!	Comedy	Family	Romance
-1932	0022958	Grand Hôtel	Drama	Romance	
-1932	0023238	La chasse du comte Zaroff	Action	Adventure	Thriller
-1932	0022641	Comme tu me veux	Drama		
-1932	0022660	La bête de la cité	Crime	Drama	Film-Noir
-1932	0023293	Une soirée étrange	Comedy	Horror	Thriller
-1932	0022877	Fanny	Comedy	Drama	
-1931	0021884	Frankenstein	Drama	Horror	Sci-Fi
-1931	0023196	Mata Hari	Crime	Drama	Romance
-1931	0022453	La courtisane	Drama	Romance	
-1931	0022001	L'inspiratrice	Drama	Romance	
-1931	0022026	Kiki	Musical		
-1931	0022100	M le maudit	Crime	Mystery	Thriller
-1931	0021749	Les lumières de la ville	Comedy	Drama	Romance
-1930	0021483	Tom Sawyer	Adventure	Comedy	Drama
-1930	0164686	Ingagi	Action	Adventure	Fantasy
-1930	0020629	À l'ouest rien de nouveau	Drama	War	
-1930	0020876	À la hauteur!	Comedy		
-1930	0020641	Anna Christie	Drama	Romance	
-1930	0021281	Raffles, gentleman cambrioleur	Adventure	Crime	Drama
-1930	0020999	The Indians Are Coming	Western		
-1930	0021310	Romance	Drama	Romance	
-1930	0021106	Madame Satan	Musical	Romance	Comedy
-1930	0020697	L'ange bleu	Drama	Music	
-1930	0021577	L'âge d'or	Comedy	Drama	
-1929	0020030	Le masque de fer	Adventure	Drama	History
-1929	0020572	Quel phénomène!	Comedy		
-1929	0019729	The Broadway Melody	Drama	Musical	Romance
-1929	0020479	La mégère apprivoisée	Comedy	Romance	
-1929	0020538	Indomptée	Drama		
-1929	0020410	Le droit d'aimer	Drama	Romance	
-1929	0020589	Wild Orchids	Romance	Drama	
-1929	0020062	The Kiss	Romance	Drama	
-1929	0019776	Têtes brûlées	Comedy	Musical	
-1929	0020198	L'île mystérieuse	Adventure	Romance	Sci-Fi
-1929	0018737	Loulou	Crime	Drama	Romance
-1928	0019388	Le fou chantant	Musical	Drama	
-1928	0019332	The Road to Ruin	Drama		
-1928	0020223	L'arche de Noé	Drama	War	
-1928	0019096	Lights of New York	Crime	Drama	
-1928	0019344	Faiblesse humaine	Drama		
-1928	0019563	Le talion	Drama	Mystery	
-1928	0019591	Intrigues	Drama		
-1928	0019237	Les nouvelles vierges	Drama		
-1928	0019195	La belle ténébreuse	Drama	Romance	
-1928	0018836	The Divine Woman	Drama	Romance	
-1928	0019254	La passion de Jeanne d'Arc	Biography	Drama	History
-1927	0018037	Le chanteur de jazz	Drama	Music	Musical
-1927	0018578	Les ailes	Drama	Romance	War
-1927	0018183	La petite vendeuse	Comedy	Romance	
-1927	0018054	Le roi des rois	Biography	Drama	History
-1927	0018379	L'heure suprême	Drama	Romance	
-1927	0017136	Metropolis	Drama	Sci-Fi	
-1927	0018038	L'insurgé	Western		
-1927	0017750	Chicago	Comedy	Crime	Drama
-1927	0018107	Anna Karenine	Drama	Romance	
-1927	0018566	Le roman de Manon	History	Romance	
-1927	0019553	Quand la chair succombe	Drama		
-1927	0018526	Les nuits de Chicago	Crime	Drama	Film-Noir
-1927	0018051	Le petit frère	Comedy	Drama	Family
-1927	0018129	La flamme d'amour	Drama		
-1927	0018515	Two Arabian Knights	Comedy	Romance	Adventure
-1927	0018113	Sunya	Drama		
-1927	0018118	The Loves of Carmen	Drama	Romance	
-1927	0017860	Le bel âge	Comedy		
-1927	0018211	Now We're in the Air	Comedy		
-1927	0018179	Monsieur Wu	Drama	Romance	
+2008	800080	L'incroyable Hulk	Action	Adventure	Sci-Fi
+2008	493464	Wanted: Choisis ton destin	Action	Crime	Fantasy
+2008	425061	Max la menace	Action	Adventure	Comedy
+2007	413300	Spider-Man 3	Action	Adventure	Sci-Fi
+2007	413267	Shrek le Troisième	Animation	Adventure	Comedy
+2007	418279	Transformers	Action	Adventure	Sci-Fi
+2007	449088	Pirates des Caraïbes - Jusqu'au bout du monde	Action	Adventure	Fantasy
+2007	373889	Harry Potter et l'ordre du Phénix	Adventure	Family	Fantasy
+2007	480249	Je suis une légende	Drama	Horror	Sci-Fi
+2007	440963	La vengeance dans la peau	Action	Mystery	Thriller
+2007	465234	Benjamin Gates et le livre des secrets	Action	Adventure	Family
+2007	952640	Alvin et les Chipmunks	Animation	Comedy	Family
+2007	382932	Ratatouille	Animation	Adventure	Comedy
+2007	462538	Les Simpson: le film	Animation	Adventure	Comedy
+2007	486946	Bande de sauvages	Adventure	Comedy	
+2007	478311	En cloque, mode d'emploi	Comedy	Drama	Romance
+2007	467406	Juno	Comedy	Drama	
+2007	293564	Rush Hour 3	Action	Comedy	Crime
+2007	337978	Die Hard 4: Retour en enfer	Action	Adventure	Thriller
+2007	486576	Les 4 fantastiques et le Surfer d'argent	Action	Adventure	Fantasy
+2007	765429	American Gangster	Biography	Crime	Drama
+2007	461770	Il était une fois...	Animation	Comedy	Family
+2007	389790	Bee Movie - Drôle d'abeille	Animation	Adventure	Comedy
+2006	383574	Pirates des Caraïbes - Le secret du coffre maudit	Action	Adventure	Fantasy
+2006	477347	La nuit au musée	Adventure	Comedy	Family
+2006	317219	Cars - Quatre roues	Animation	Comedy	Family
+2006	376994	X-Men: L'affrontement final	Action	Adventure	Sci-Fi
+2006	382625	Da Vinci Code	Mystery	Thriller	
+2006	416449	300	Action	Fantasy	
+2006	348150	Superman Returns	Action	Adventure	
+2006	366548	Happy Feet	Animation	Adventure	Comedy
+2006	438097	L'âge de glace 2	Animation	Adventure	Comedy
+2006	381061	Casino Royale	Action	Adventure	Thriller
+2006	454921	À la recherche du bonheur	Biography	Drama	
+2006	327084	Nos voisins, les hommes	Animation	Adventure	Comedy
+2006	415306	Ricky Bobby, roi du circuit	Comedy	Sport	
+2006	389860	Click	Comedy	Drama	Fantasy
+2006	317919	Mission: Impossible III	Action	Adventure	Thriller
+2006	407887	Les infiltrés	Crime	Drama	Thriller
+2006	443453	Borat, leçons culturelles sur l'Amérique au profit de la glorieuse nation Kazakhstan	Comedy		
+2006	458352	Le diable s'habille en Prada	Comedy	Drama	
+2006	452594	La rupture	Comedy	Drama	Romance
+2006	443489	Dreamgirls	Drama	Music	Musical
+2005	121766	Star Wars: Épisode III - La revanche des Sith	Action	Adventure	Fantasy
+2005	363771	Le monde de Narnia: chapitre 1 - Le lion, la sorcière blanche et l'armoire magique	Adventure	Family	Fantasy
+2005	330373	Harry Potter et la coupe de feu	Adventure	Family	Fantasy
+2005	407304	La guerre des mondes	Adventure	Sci-Fi	Thriller
+2005	360717	King Kong	Action	Adventure	Drama
+2005	396269	Serial noceurs	Comedy	Romance	
+2005	372784	Batman Begins	Action	Adventure	Thriller
+2005	367594	Charlie et la chocolaterie	Adventure	Comedy	Family
+2005	351283	Madagascar	Animation	Adventure	Comedy
+2005	356910	Mr. & Mrs. Smith	Action	Comedy	Crime
+2005	386588	Hitch, expert en séduction	Comedy	Romance	
+2005	398165	Mi-temps au mitard	Comedy	Crime	Sport
+2005	120667	Les 4 fantastiques	Action	Adventure	Fantasy
+2005	371606	Chicken Little	Animation	Adventure	Comedy
+2005	358082	Robots	Animation	Adventure	Comedy
+2005	358273	Walk the Line	Biography	Drama	Music
+2005	395699	Baby-sittor	Action	Comedy	Drama
+2005	369441	Braqueurs amateurs	Comedy	Crime	
+2005	405422	40 ans, toujours puceau	Comedy	Romance	
+2005	408790	Flight plan	Action	Drama	Mystery
+2004	298148	Shrek 2	Animation	Adventure	Comedy
+2004	316654	Spider-Man 2	Action	Adventure	Sci-Fi
+2004	335345	La passion du Christ	Drama		
+2004	290002	Mon beau-père, mes parents et moi	Comedy	Romance	
+2004	317705	Les indestructibles	Animation	Action	Adventure
+2004	304141	Harry Potter et le prisonnier d'Azkaban	Adventure	Family	Fantasy
+2004	319262	Le jour d'après	Action	Adventure	Sci-Fi
+2004	338348	Le pôle express	Animation	Adventure	Comedy
+2004	372183	La mort dans la peau	Action	Mystery	Thriller
+2004	368891	Benjamin Gates et le trésor des Templiers	Action	Adventure	Family
+2004	307453	Gang de requins	Animation	Adventure	Comedy
+2004	343818	I, Robot	Action	Crime	Drama
+2004	332452	Troie	Drama	History	Romance
+2004	349903	Ocean's Twelve	Crime	Thriller	
+2004	343660	Amour & amnésie	Comedy	Drama	Romance
+2004	338526	Van Helsing	Action	Adventure	Fantasy
+2004	339291	Les désastreuses aventures des orphelins Baudelaire	Adventure	Comedy	Family
+2004	364725	Dodgeball - Même pas mal!	Comedy	Sport	
+2004	368447	Le village	Drama	Mystery	Thriller
+2004	391198	The Grudge	Horror	Mystery	Thriller
+2003	266543	Le monde de Nemo	Animation	Adventure	Comedy
+2003	167260	Le seigneur des anneaux: Le retour du roi	Adventure	Drama	Fantasy
+2003	325980	Pirates des Caraïbes - La malédiction du Black Pearl	Action	Adventure	Fantasy
+2003	234215	Matrix Reloaded	Action	Sci-Fi	
+2003	315327	Bruce tout-puissant	Comedy	Drama	Fantasy
+2003	290334	X-Men 2	Action	Adventure	Sci-Fi
+2003	319343	Elfe	Comedy	Family	Fantasy
+2003	181852	Terminator 3 - Le soulèvement des machines	Action	Sci-Fi	
+2003	242653	Matrix Revolutions	Action	Sci-Fi	
+2003	349205	Treize à la douzaine	Comedy	Family	
+2003	172156	Bad Boys II	Action	Comedy	Crime
+2003	305224	Self Control	Comedy		
+2003	305669	Bronx à Bel Air	Comedy		
+2003	286716	Hulk	Action	Sci-Fi	
+2003	322259	2 Fast 2 Furious	Action	Crime	Thriller
+2003	337741	Tout peut arriver	Comedy	Drama	Romance
+2003	329575	Pur sang: la légende de Seabiscuit	Drama	History	Sport
+2003	257076	S.W.A.T. unité d'élite	Action	Adventure	Crime
+2003	338459	Mission 3D: Spy Kids 3	Action	Adventure	Comedy
+2003	325710	Le dernier samouraï	Action	Drama	History
+2002	145487	Spider-Man	Action	Adventure	Sci-Fi
+2002	167261	Le seigneur des anneaux: Les deux tours	Adventure	Drama	Fantasy
+2002	121765	Star Wars: Épisode II - L'attaque des clones	Action	Adventure	Fantasy
+2002	295297	Harry Potter et la chambre des secrets	Adventure	Family	Fantasy
+2002	259446	Mariage à la grecque	Comedy	Drama	Romance
+2002	286106	Signes	Drama	Mystery	Sci-Fi
+2002	295178	Goldmember	Action	Adventure	Comedy
+2002	120912	Men in Black II	Action	Adventure	Comedy
+2002	268380	L'âge de glace	Animation	Adventure	Comedy
+2002	299658	Chicago	Comedy	Crime	Musical
+2002	264464	Arrête-moi si tu peux	Biography	Crime	Drama
+2002	246460	Meurs un autre jour	Action	Adventure	Thriller
+2002	267913	Scooby-Doo	Adventure	Comedy	Family
+2002	275847	Lilo & Stitch	Animation	Adventure	Comedy
+2002	295701	xXx	Action	Adventure	Thriller
+2002	304669	Hyper Noël	Comedy	Family	Fantasy
+2002	181689	Minority Report	Action	Crime	Mystery
+2002	298130	Le cercle: The ring	Horror	Mystery	
+2002	256415	Fashion victime	Comedy	Romance	
+2002	280590	Les aventures de Mister Deeds	Comedy	Romance	
+2001	241527	Harry Potter à l'école des sorciers	Adventure	Family	Fantasy
+2001	120737	Le seigneur des anneaux: La communauté de l'anneau	Adventure	Drama	Fantasy
+2001	198781	Monstres et Cie	Animation	Adventure	Comedy
+2001	126029	Shrek	Animation	Adventure	Comedy
+2001	266915	Rush Hour 2	Action	Comedy	Crime
+2001	209163	Le retour de la momie	Action	Adventure	Fantasy
+2001	213149	Pearl Harbor	Action	Drama	History
+2001	240772	Ocean's eleven - Faites vos jeux!	Crime	Thriller	
+2001	163025	Jurassic Park III	Action	Adventure	Sci-Fi
+2001	133152	La planète des singes	Action	Adventure	Sci-Fi
+2001	268978	Un homme d'exception	Biography	Drama	
+2001	212985	Hannibal	Crime	Drama	Thriller
+2001	252866	American Pie 2	Comedy		
+2001	232500	Fast and Furious	Action	Crime	Thriller
+2001	146316	Lara Croft: Tomb Raider	Action	Adventure	Fantasy
+2001	240462	Dr. Dolittle 2	Comedy	Family	Fantasy
+2001	227538	Spy Kids	Action	Adventure	Comedy
+2001	265086	La chute du faucon noir	Drama	History	War
+2001	247638	Princesse malgré elle	Comedy	Family	Romance
+2001	259711	Vanilla Sky	Fantasy	Mystery	Romance
+2000	170016	Le Grinch	Comedy	Family	Fantasy
+2000	162222	Seul au monde	Adventure	Drama	Romance
+2000	120755	M-I:2 Mission: Impossible 2	Action	Adventure	Thriller
+2000	172495	Gladiator	Action	Adventure	Drama
+2000	207201	Ce que veulent les femmes	Comedy	Fantasy	Romance
+2000	177971	En pleine tempête	Action	Adventure	Drama
+2000	212338	Mon beau-père et moi	Comedy	Romance	
+2000	120903	X-Men	Action	Adventure	Sci-Fi
+2000	175142	Scary Movie	Comedy		
+2000	161081	Apparences	Drama	Fantasy	Horror
+2000	130623	Dinosaure	Animation	Adventure	Family
+2000	190332	Tigre et dragon	Action	Adventure	Fantasy
+2000	195685	Erin Brockovich, seule contre tous	Biography	Drama	
+2000	160127	Charlie et ses drôles de dames	Action	Adventure	Comedy
+2000	181865	Traffic	Crime	Drama	Thriller
+2000	144528	La famille Foldingue	Comedy	Romance	Sci-Fi
+2000	208003	Big Mamma	Action	Comedy	Crime
+2000	210945	Le plus beau des combats	Biography	Drama	Sport
+2000	187393	The patriot: Le chemin de la liberté	Action	Drama	History
+2000	120630	Chicken Run	Animation	Adventure	Comedy
+1999	120915	Star Wars: Épisode I - La menace fantôme	Action	Adventure	Fantasy
+1999	167404	Sixième sens	Drama	Mystery	Thriller
+1999	120363	Toy Story 2	Animation	Adventure	Comedy
+1999	145660	Austin Powers - L'espion qui m'a tirée	Action	Adventure	Comedy
+1999	133093	Matrix	Action	Sci-Fi	
+1999	120855	Tarzan	Animation	Adventure	Family
+1999	142342	Big Daddy	Comedy	Drama	
+1999	120616	La momie	Action	Adventure	Fantasy
+1999	163187	Just married (ou presque)	Comedy	Romance	
+1999	185937	Le projet Blair Witch	Horror	Mystery	
+1999	164912	Stuart Little	Adventure	Comedy	Family
+1999	120689	La ligne verte	Crime	Drama	Fantasy
+1999	169547	American Beauty	Drama		
+1999	143145	Le monde ne suffit pas	Action	Adventure	Thriller
+1999	150377	Double jeu	Crime	Drama	Mystery
+1999	125439	Coup de foudre à Notting Hill	Comedy	Drama	Romance
+1999	120891	Wild Wild West	Action	Comedy	Sci-Fi
+1999	122933	Mafia blues	Comedy	Crime	
+1999	144214	Le déshonneur d'Elisabeth Campbell	Crime	Drama	Mystery
+1999	163651	American Pie	Comedy		
+1998	120815	Il faut sauver le soldat Ryan	Drama	War	
+1998	120591	Armageddon	Action	Adventure	Sci-Fi
+1998	129387	Mary à tout prix	Comedy	Romance	
+1998	120623	1001 pattes	Animation	Adventure	Comedy
+1998	120484	Waterboy	Comedy	Sport	
+1998	118998	Dr. Dolittle	Comedy	Family	Fantasy
+1998	120812	Rush Hour	Action	Comedy	Crime
+1998	120647	Deep Impact	Action	Drama	Romance
+1998	120685	Godzilla	Action	Sci-Fi	Thriller
+1998	129290	Docteur Patch	Biography	Comedy	Drama
+1998	122151	L'arme fatale 4	Action	Crime	Thriller
+1998	120382	The Truman Show	Comedy	Drama	Sci-Fi
+1998	120762	Mulan	Animation	Adventure	Family
+1998	128853	Vous avez un mess@ge	Comedy	Drama	Romance
+1998	120660	Ennemi d'état	Action	Crime	Mystery
+1998	120794	Le prince d'Égypte	Animation	Adventure	Drama
+1998	134067	Les razmoket, le film	Animation	Adventure	Comedy
+1998	138097	Shakespeare in Love	Comedy	Drama	History
+1998	120746	Le masque de Zorro	Action	Adventure	Comedy
+1998	120686	Ma meilleure ennemie	Comedy	Drama	
+1997	120338	Titanic	Drama	Romance	
+1997	119654	Men in Black	Adventure	Comedy	Mystery
+1997	119567	Le monde perdu: Jurassic Park	Action	Adventure	Sci-Fi
+1997	119528	Menteur menteur	Comedy	Fantasy	
+1997	118571	Air Force One	Action	Drama	Thriller
+1997	119822	Pour le pire et pour le meilleur	Comedy	Drama	Romance
+1997	119217	Will Hunting	Drama	Romance	
+1997	119738	Le mariage de mon meilleur ami	Comedy	Drama	Romance
+1997	120347	Demain ne meurt jamais	Action	Adventure	Thriller
+1997	119094	Volte/face	Action	Crime	Sci-Fi
+1997	118688	Batman & Robin	Action	Sci-Fi	
+1997	119190	George de la jungle	Action	Adventure	Comedy
+1997	120082	Scream 2	Horror	Mystery	
+1997	118880	Les ailes de l'enfer	Action	Crime	Thriller
+1997	118884	Contact	Drama	Mystery	Sci-Fi
+1997	119282	Hercule	Animation	Adventure	Comedy
+1997	119137	Flubber	Comedy	Family	Sci-Fi
+1997	118883	Complots	Action	Mystery	Thriller
+1997	119345	Souviens-toi... l'été dernier	Horror	Mystery	
+1997	118928	Le pic de Dante	Action	Adventure	Thriller
+1996	116629	Independence Day	Action	Adventure	Sci-Fi
+1996	117998	Twister	Action	Adventure	Drama
+1996	117060	Mission: Impossible	Action	Adventure	Thriller
+1996	116695	Jerry Maguire	Comedy	Drama	Romance
+1996	117438	La rançon	Action	Crime	Thriller
+1996	115433	Les 101 dalmatiens	Adventure	Comedy	Crime
+1996	117500	Rock	Action	Adventure	Thriller
+1996	117218	Le professeur foldingue	Comedy	Romance	Sci-Fi
+1996	115685	The Birdcage	Comedy		
+1996	117913	Le droit de tuer?	Crime	Drama	Thriller
+1996	116313	Le club des ex	Comedy		
+1996	117333	Phénomène	Drama	Fantasy	Romance
+1996	117571	Scream	Horror	Mystery	
+1996	116213	L'effaceur	Action	Drama	Mystery
+1996	116583	Le bossu de Notre-Dame	Animation	Drama	Family
+1996	117038	Michael	Comedy	Drama	Fantasy
+1996	117731	Star Trek: Premier Contact	Action	Adventure	Drama
+1996	117705	Space Jam	Animation	Adventure	Comedy
+1996	116209	Le patient anglais	Drama	Romance	War
+1996	115759	Broken Arrow	Action	Adventure	Thriller
+1995	114709	Toy Story	Animation	Adventure	Comedy
+1995	112462	Batman Forever	Action	Adventure	Fantasy
+1995	112384	Apollo 13	Adventure	Drama	History
+1995	114148	Pocahontas, une légende indienne	Animation	Adventure	Drama
+1995	112281	Ace Ventura en Afrique	Adventure	Comedy	Crime
+1995	113189	GoldenEye	Action	Adventure	Thriller
+1995	113497	Jumanji	Adventure	Family	Fantasy
+1995	112642	Casper	Comedy	Family	Fantasy
+1995	114369	Seven	Crime	Drama	Mystery
+1995	112864	Une journée en enfer - Die Hard 3	Action	Adventure	Thriller
+1995	112740	USS Alabama	Action	Drama	Thriller
+1995	114898	Waterworld	Action	Adventure	Sci-Fi
+1995	112792	Esprits rebelles	Biography	Drama	
+1995	113862	Professeur Holland	Drama	Music	
+1995	114924	L'amour à tout prix	Comedy	Drama	Romance
+1995	112715	Congo	Action	Adventure	Mystery
+1995	113041	Le père de la mariée II	Comedy	Family	Romance
+1995	112573	Braveheart	Biography	Drama	History
+1995	113161	Get Shorty (Stars et truands)	Comedy	Crime	Thriller
+1995	112579	Sur la route de Madison	Drama	Romance	
+1994	109830	Forrest Gump	Drama	Romance	
+1994	110357	The Lion King	Animation	Adventure	Drama
+1994	111503	True Lies - Le caméléon	Action	Comedy	Thriller
+1994	111070	Super Noël	Comedy	Drama	Family
+1994	109813	La famille Pierrafeu	Comedy	Family	Fantasy
+1994	109686	Dumb & Dumber	Comedy		
+1994	109444	Danger immédiat	Action	Crime	Drama
+1994	111257	Speed	Action	Adventure	Crime
+1994	110475	The Mask	Comedy	Fantasy	
+1994	110912	Pulp Fiction	Crime	Drama	
+1994	110148	Entretien avec un vampire	Drama	Horror	
+1994	110478	Maverick	Action	Adventure	Comedy
+1994	109446	Le client	Crime	Drama	Mystery
+1994	109635	Harcèlement	Drama	Thriller	
+1994	111280	Star trek: Générations	Action	Adventure	Mystery
+1994	109040	Ace Ventura, détective chiens et chats	Comedy		
+1994	111282	Stargate - La porte des étoiles	Action	Adventure	Sci-Fi
+1994	110322	Légendes d'automne	Drama	Romance	War
+1994	111742	Wolf	Drama	Horror	Romance
+1994	111255	L'expert	Action	Crime	Drama
+1993	107290	Jurassic Park	Adventure	Sci-Fi	Thriller
+1993	107614	Madame Doubtfire	Comedy	Drama	Family
+1993	106977	Le fugitif	Action	Crime	Drama
+1993	106918	La firme	Drama	Mystery	Thriller
+1993	108160	Nuits blanches à Seattle	Comedy	Drama	Romance
+1993	107211	Proposition indécente	Drama	Romance	
+1993	107206	Dans la ligne de mire	Action	Crime	Drama
+1993	107798	L'affaire Pélican	Crime	Drama	Mystery
+1993	108052	La liste de Schindler	Biography	Drama	History
+1993	106582	Cliffhanger, traque au sommet	Action	Adventure	Thriller
+1993	106965	Sauvez Willy	Adventure	Drama	Family
+1993	107818	Philadelphia	Drama		
+1993	107688	L'étrange Noël de monsieur Jack	Animation	Family	Fantasy
+1993	107048	Un jour sans fin	Comedy	Fantasy	Romance
+1993	107050	Les grincheux	Comedy	Drama	Romance
+1993	106611	Rasta Rockett	Adventure	Comedy	Family
+1993	106673	Président d'un jour	Comedy	Romance	
+1993	107969	Soleil levant	Action	Crime	Drama
+1993	106697	Demolition Man	Action	Crime	Sci-Fi
+1993	108147	Sister Act: acte 2	Comedy	Family	Music
+1992	103639	Aladdin	Animation	Adventure	Comedy
+1992	104431	Maman, j'ai encore raté l'avion	Adventure	Comedy	Family
+1992	103776	Batman, le défi	Action	Crime	Fantasy
+1992	104714	L'arme fatale 3	Action	Crime	Thriller
+1992	104257	Des hommes d'honneur	Drama	Thriller	
+1992	105417	Sister Act	Comedy	Crime	Family
+1992	103855	Bodyguard	Drama	Music	Romance
+1992	105793	Wayne's World	Comedy	Music	
+1992	103772	Basic Instinct	Drama	Mystery	Thriller
+1992	104694	Une équipe hors du commun	Comedy	Drama	Family
+1992	105695	Impitoyable	Drama	Western	
+1992	104389	La main sur le berceau	Drama	Thriller	
+1992	105690	Piège en haute mer	Action	Thriller	
+1992	105112	Jeux de guerre	Action	Thriller	
+1992	103874	Dracula	Horror		
+1992	105812	Les blancs ne savent pas sauter	Comedy	Drama	Sport
+1992	104691	Le dernier des Mohicans	Action	Adventure	Drama
+1992	103859	Boomerang	Comedy	Drama	Romance
+1992	105323	Le temps d'un week-end	Drama		
+1992	104036	The Crying Game	Crime	Drama	Romance
+1991	101414	La Belle et la Bête	Animation	Family	Fantasy
+1991	103064	Terminator 2 - Le jugement dernier	Action	Sci-Fi	
+1991	102798	Robin des bois: Prince des voleurs	Action	Adventure	Drama
+1991	102926	Le silence des agneaux	Crime	Drama	Thriller
+1991	101587	La vie, l'amour... les vaches	Comedy		
+1991	102057	Hook ou la revanche du Capitaine Crochet	Adventure	Comedy	Family
+1991	101272	La famille Addams	Comedy	Fantasy	
+1991	102945	Les nuits avec mon ennemi	Drama	Thriller	
+1991	101862	Le père de la mariée	Comedy	Family	Romance
+1991	102510	Y a-t-il un flic pour sauver le président?	Comedy	Crime	
+1991	101921	Beignets de tomates vertes	Drama		
+1991	101540	Les nerfs à vif	Crime	Thriller	
+1991	103060	Les tortues ninja II - Les héros sont de retour	Action	Adventure	Comedy
+1991	101393	Backdraft	Action	Crime	Drama
+1991	102975	Star trek VI - Terre inconnue	Action	Adventure	Sci-Fi
+1991	102713	Le prince des marées	Drama	Romance	
+1991	102138	JFK	Drama	History	Thriller
+1991	102059	Hot Shots!	Action	Comedy	
+1991	103241	Quoi de neuf Bob?	Comedy		
+1991	102492	My Girl	Comedy	Drama	Family
+1990	99785	Maman, j'ai raté l'avion!	Comedy	Family	
+1990	99653	Ghost	Drama	Fantasy	Romance
+1990	99348	Danse avec les loups	Adventure	Drama	Western
+1990	100405	Pretty Woman	Comedy	Romance	
+1990	100758	Les tortues ninja	Action	Adventure	Comedy
+1990	99810	À la poursuite d'Octobre Rouge	Action	Adventure	Thriller
+1990	100802	Total Recall	Action	Sci-Fi	Thriller
+1990	99423	58 minutes pour vivre	Action	Thriller	
+1990	99422	Dick Tracy	Action	Comedy	Crime
+1990	99938	Un flic à la maternelle	Comedy	Crime	
+1990	99088	Retour vers le futur: 3e partie	Adventure	Comedy	Sci-Fi
+1990	100404	Présumé innocent	Mystery	Thriller	
+1990	99371	Jours de tonnerre	Action	Drama	Sport
+1990	99044	48 heures de plus	Action	Comedy	Crime
+1990	98966	Tels pères, telle fille	Comedy	Drama	Family
+1990	99141	Comme un oiseau sur la branche	Action	Comedy	
+1990	99674	Le parrain, 3ème partie	Crime	Drama	
+1990	99582	L'expérience interdite	Drama	Horror	Sci-Fi
+1990	100157	Misery	Crime	Drama	Thriller
+1990	99487	Edward aux mains d'argent	Drama	Fantasy	Romance
+1989	96895	Batman	Action	Adventure	
+1989	97576	Indiana Jones et la dernière croisade	Action	Adventure	Fantasy
+1989	97733	L'arme fatale 2	Action	Crime	Thriller
+1989	97778	Allô maman, ici bébé!	Comedy		
+1989	97523	Chérie, j'ai rétréci les gosses	Adventure	Comedy	Family
+1989	96874	Retour vers le futur 2	Adventure	Comedy	Sci-Fi
+1989	97428	S.O.S. fantômes II	Action	Comedy	Fantasy
+1989	97757	La petite sirène	Animation	Family	Fantasy
+1989	97239	Miss Daisy et son chauffeur	Drama		
+1989	98067	Portrait craché d'une famille modèle	Comedy	Drama	
+1989	97165	Le cercle des poètes disparus	Comedy	Drama	
+1989	98635	Quand Harry rencontre Sally...	Comedy	Drama	Romance
+1989	98621	La guerre des Rose	Comedy	Romance	
+1989	98384	Potins de femmes	Comedy	Drama	Romance
+1989	97958	Le sapin a les boules	Comedy		
+1989	98536	Turner et Hooch	Comedy	Crime	Drama
+1989	96969	Né un 4 juillet	Biography	Drama	War
+1989	98554	L'oncle Buck	Comedy		
+1989	97351	Jusqu'au bout du rêve	Drama	Family	Fantasy
+1989	98439	Tango & Cash	Action	Comedy	Crime
+1988	95953	Rain Man	Drama		
+1988	96438	Qui veut la peau de Roger Rabbit?	Animation	Adventure	Comedy
+1988	94898	Un prince à New York	Comedy	Romance	
+1988	94737	Big	Comedy	Drama	Family
+1988	96320	Jumeaux	Comedy	Crime	
+1988	92493	Crocodile Dundee II	Action	Adventure	Comedy
+1988	95016	Piège de cristal	Action	Thriller	
+1988	94889	Cocktail	Comedy	Drama	Romance
+1988	95705	Y a-t-il un flic pour sauver la reine?	Comedy	Crime	
+1988	95776	Oliver et compagnie	Animation	Adventure	Comedy
+1988	94721	Beetlejuice	Comedy	Fantasy	
+1988	96463	Working Girl - Quand les femmes s'en mêlent	Comedy	Drama	Romance
+1988	95159	Un poisson nommé Wanda	Comedy	Crime	
+1988	96061	Fantômes en fête	Comedy	Drama	Fantasy
+1988	96446	Willow	Action	Adventure	Drama
+1988	94715	Au fil de la vie	Comedy	Drama	Music
+1988	95956	Rambo III	Action	Adventure	Thriller
+1988	94812	Duo à trois	Comedy	Romance	Sport
+1988	95742	Le cauchemar de Freddy	Horror		
+1988	95489	Le petit dinosaure et la vallée des merveilles	Animation	Adventure	Drama
+1987	94137	Trois hommes et un bébé	Comedy	Drama	Family
+1987	93010	Liaison fatale	Drama	Thriller	
+1987	92644	Le flic de Beverly Hills 2	Action	Comedy	Crime
+1987	93105	Good Morning, Vietnam	Biography	Comedy	Drama
+1987	93565	Éclair de lune	Comedy	Drama	Romance
+1987	94226	Les incorruptibles	Crime	Drama	Thriller
+1987	93936	Le secret de mon succès	Comedy	Romance	
+1987	94025	Étroite surveillance	Action	Comedy	Crime
+1987	93409	L'arme fatale	Action	Crime	Thriller
+1987	92890	Dirty Dancing	Drama	Music	Romance
+1987	94332	Les sorcières d'Eastwick	Comedy	Fantasy	Horror
+1987	93773	Predator	Action	Adventure	Sci-Fi
+1987	94142	Balance maman hors du train	Comedy	Crime	Thriller
+1987	92925	Dragnet	Comedy	Crime	
+1987	93378	La Bamba	Biography	Drama	Music
+1987	93870	RoboCop	Action	Crime	Sci-Fi
+1987	93690	Une chance pas croyable	Comedy		
+1987	92699	Broadcast News	Comedy	Drama	Romance
+1987	93428	Tuer n'est pas jouer	Action	Adventure	Thriller
+1987	93748	Un ticket pour deux	Comedy		
+1986	92099	Top Gun	Action	Drama	
+1986	90555	Crocodile Dundee	Adventure	Comedy	
+1986	91763	Platoon	Drama	War	
+1986	91326	Karate kid, le moment de vérité II	Action	Family	Romance
+1986	92007	Star Trek IV - Retour sur Terre	Adventure	Comedy	Sci-Fi
+1986	90685	À fond la fac	Comedy	Romance	Sport
+1986	90605	Aliens - Le retour	Action	Adventure	Sci-Fi
+1986	91129	Golden child - L'enfant sacré du Tibet	Action	Adventure	Comedy
+1986	91877	Y a-t-il quelqu'un pour tuer ma femme?	Comedy	Crime	
+1986	91042	La folle journée de Ferris Bueller	Comedy		
+1986	90966	Le clochard de Beverly Hills	Comedy		
+1986	90863	La couleur de l'argent	Drama	Sport	
+1986	92005	Stand by me - Compte sur moi	Adventure	Drama	
+1986	91396	L'affaire Chelsea Deardon	Comedy	Crime	Romance
+1986	90859	Cobra	Action	Crime	Thriller
+1986	90633	Fiével et le nouveau monde	Animation	Adventure	Comedy
+1986	91777	Police Academy 3: instructeurs de choc	Comedy		
+1986	91187	Le maître de guerre	Drama	War	
+1986	91738	Peggy Sue s'est mariée	Comedy	Drama	Fantasy
+1986	91778	Poltergeist II	Horror		
+1985	88763	Retour vers le futur	Adventure	Comedy	Sci-Fi
+1985	89880	Rambo II: La mission	Action	Adventure	Thriller
+1985	89927	Rocky IV	Drama	Sport	
+1985	88939	La couleur pourpre	Drama		
+1985	89755	Out of Africa - Souvenirs d'Afrique	Biography	Drama	Romance
+1985	88933	Cocoon	Comedy	Drama	Sci-Fi
+1985	89370	Le diamant du Nil	Action	Adventure	Comedy
+1985	90329	Witness: Témoin sous surveillance	Crime	Drama	Romance
+1985	89218	Les goonies	Adventure	Comedy	Family
+1985	90056	Drôles d'espions	Adventure	Comedy	
+1985	89822	Police academy 2: au boulot!	Comedy		
+1985	89155	Fletch	Comedy	Crime	Mystery
+1985	90264	Dangereusement vôtre	Action	Adventure	Thriller
+1985	89670	Bonjour les vacances II	Adventure	Comedy	
+1985	89560	Mask	Biography	Drama	
+1985	88847	Breakfast Club	Comedy	Drama	
+1985	90319	Soleil de nuit	Drama	Music	
+1985	89767	Pale Rider - Le cavalier solitaire	Western		
+1985	89791	Pee-wee Big Adventure	Adventure	Comedy	Family
+1985	89360	À double tranchant	Drama	Mystery	Thriller
+1984	87332	S.O.S fantômes	Action	Comedy	Fantasy
+1984	86960	Le flic de Beverly Hills	Action	Comedy	Crime
+1984	87469	Indiana Jones et le temple maudit	Action	Adventure	
+1984	87363	Gremlins	Comedy	Fantasy	Horror
+1984	87538	Le moment de vérité	Action	Drama	Family
+1984	87928	Police Academy	Comedy		
+1984	87277	Footloose	Drama	Music	Romance
+1984	88011	À la poursuite du diamant vert	Action	Adventure	Comedy
+1984	88170	Star trek III - À la recherche de Spock	Action	Adventure	Sci-Fi
+1984	87957	Purple Rain	Drama	Music	Musical
+1984	88161	Splash	Comedy	Fantasy	Romance
+1984	86879	Amadeus	Biography	Drama	History
+1984	88272	La corde raide	Crime	Mystery	Thriller
+1984	87781	Le meilleur	Drama	Sport	
+1984	87365	Greystoke, la légende de Tarzan	Adventure	Drama	
+1984	88000	Les tronches	Comedy		
+1984	86837	2010 - L'année du premier contact (L'odyssée continue)	Adventure	Mystery	Sci-Fi
+1984	86998	Break Street 84	Comedy	Drama	Music
+1984	86927	Le palace en folie	Comedy		
+1984	88247	Terminator	Action	Sci-Fi	
+1983	86190	Le retour du Jedi	Action	Adventure	Fantasy
+1983	86425	Tendres passions	Comedy	Drama	
+1983	85549	Flashdance	Drama	Music	Romance
+1983	86465	Un fauteuil pour deux	Comedy		
+1983	86567	WarGames	Sci-Fi	Thriller	
+1983	86034	Octopussy	Action	Adventure	Thriller
+1983	86383	Sudden Impact - Le retour de l'inspecteur Harry	Action	Crime	Thriller
+1983	86361	Staying Alive	Drama	Music	Romance
+1983	85970	Mister Mom - Profession: père au foyer	Comedy	Drama	
+1983	86200	Risky Business	Comedy	Crime	Drama
+1983	85995	Bonjour les vacances	Adventure	Comedy	
+1983	86393	Superman III	Action	Comedy	Sci-Fi
+1983	85244	Les copains d'abord	Comedy	Drama	
+1983	86006	Jamais plus jamais	Action	Adventure	Thriller
+1983	86250	Scarface	Crime	Drama	
+1983	85750	Les dents de la mer 3	Adventure	Horror	Thriller
+1983	85255	Tonnerre de feu	Action	Crime	Drama
+1983	86619	Yentl	Drama	Musical	Romance
+1983	86312	Le mystère Silkwood	Biography	Drama	History
+1983	86154	Psychose II	Crime	Horror	Mystery
+1982	83866	E.T., l'extra-terrestre	Family	Sci-Fi	
+1982	84805	Tootsie	Comedy	Drama	Romance
+1982	84434	Officier et gentleman	Drama	Romance	
+1982	84602	Rocky III, l'oeil du tigre	Drama	Sport	
+1982	84726	Star trek II - La colère de Khan	Action	Adventure	Sci-Fi
+1982	83511	48 heures	Action	Comedy	Crime
+1982	84516	Poltergeist	Horror	Thriller	
+1982	83642	La cage aux poules	Comedy	Musical	
+1982	83564	Annie	Comedy	Drama	Family
+1982	84855	Le verdict	Drama		
+1982	83987	Gandhi	Biography	Drama	History
+1982	83944	Rambo	Action	Adventure	
+1982	84809	Le joujou	Comedy		
+1982	83943	Firefox, l'arme absolue	Action	Adventure	Thriller
+1982	83791	Dark Crystal	Adventure	Family	Fantasy
+1982	82198	Conan le barbare	Adventure	Fantasy	
+1982	84749	L'épée sauvage	Action	Adventure	Fantasy
+1982	83641	Les meilleurs amis	Comedy	Drama	Romance
+1982	83972	Meurtres en 3 dimensions	Horror	Thriller	
+1982	84827	Tron	Action	Adventure	Sci-Fi
+1981	82971	Les aventuriers de l'arche perdue	Action	Adventure	
+1981	82846	La maison du lac	Drama		
+1981	84522	Porky's	Comedy		
+1981	82031	Arthur	Comedy	Romance	
+1981	83131	Les bleus	Comedy	War	
+1981	82136	L'équipée du Cannonball	Action	Comedy	Sport
+1981	82406	Rox et Rouky	Animation	Adventure	Drama
+1981	82398	Rien que pour vos yeux	Action	Adventure	Thriller
+1981	82158	Les chariots de feu	Biography	Drama	Sport
+1981	82405	Les quatre saisons	Comedy	Drama	
+1981	81633	Bandits, bandits	Adventure	Comedy	Fantasy
+1981	82186	Le choc des Titans	Action	Adventure	Family
+1981	81974	Absence de malice	Drama	Romance	Thriller
+1981	82979	Reds	Biography	Drama	History
+1981	83170	Tarzan l'homme singe	Adventure	Drama	
+1981	83169	Taps	Drama		
+1981	83064	L'anti-gang	Action	Crime	Drama
+1981	82348	Excalibur	Adventure	Drama	Fantasy
+1981	82163	Nice Dreams	Comedy	Crime	
+1981	82517	La folle histoire du monde	Comedy	History	
+1980	80684	L'empire contre-attaque	Action	Adventure	Fantasy
+1980	81573	Superman II	Action	Adventure	Sci-Fi
+1980	80319	Comment se débarrasser de son patron	Comedy		
+1980	81562	Faut s'faire la malle	Comedy	Crime	
+1980	80339	Y a-t-il un pilote dans l'avion?	Comedy		
+1980	80377	Ça va cogner	Action	Comedy	
+1980	81375	La bidasse	Comedy	War	
+1980	80549	Nashville Lady	Biography	Drama	Music
+1980	81529	Tu fais pas le poids, shérif!	Action	Comedy	
+1980	80453	Le lagon bleu	Adventure	Drama	Romance
+1980	80455	Les Blues Brothers	Adventure	Comedy	Crime
+1980	81283	Des gens comme les autres	Drama		
+1980	81696	Urban Cowboy	Drama	Romance	Western
+1980	81353	Popeye	Adventure	Comedy	Family
+1980	81505	Shining	Drama	Horror	
+1980	81480	Comme au bon vieux temps	Comedy	Romance	
+1980	80520	Cheech and Chong's Next Movie	Comedy	Crime	Sci-Fi
+1980	80487	Le golf en folie !	Comedy	Sport	
+1980	80761	Vendredi 13	Horror	Mystery	Thriller
+1980	80474	Brubaker	Crime	Drama	
+1979	79417	Kramer contre Kramer	Drama		
+1979	78767	Amityville, la maison du diable	Horror		
+1979	78788	Apocalypse Now	Drama	War	
+1979	79945	Star Trek, le film	Adventure	Mystery	Sci-Fi
+1979	78748	Alien - Le 8ème passager	Horror	Sci-Fi	
+1979	79588	Les Muppets: Ça, c'est du cinéma	Adventure	Comedy	Family
+1979	78721	Elle	Comedy	Romance	
+1979	79367	Un vrai schnock	Comedy		
+1979	79574	Moonraker	Action	Adventure	Sci-Fi
+1979	79100	Le cavalier électrique	Comedy	Drama	Romance
+1979	78966	Le syndrome chinois	Drama	Thriller	
+1979	79522	Manhattan	Comedy	Drama	Romance
+1979	79489	Le vampire de ces dames	Comedy		
+1979	79540	Arrête de ramer, t'es sur le sable	Comedy		
+1979	79116	L'évadé d'Alcatraz	Biography	Crime	Drama
+1979	79510	Tendre combat	Comedy	Romance	Sport
+1979	79948	Merci d'avoir été ma femme...	Comedy	Romance	
+1979	79336	Ne tirez pas sur le dentiste	Adventure	Comedy	Crime
+1979	78754	Que le spectacle commence	Comedy	Drama	Music
+1979	78723	1941	Action	Comedy	War
+1978	77631	Grease	Musical	Romance	
+1978	78346	Superman	Action	Adventure	Drama
+1978	77523	Doux, dur et dingue	Action	Comedy	
+1978	77766	Les dents de la mer, 2e partie	Adventure	Drama	Horror
+1978	77663	Le ciel peut attendre	Comedy	Fantasy	Romance
+1978	77696	La fureur du danger	Action	Comedy	
+1978	77416	Voyage au bout de l'enfer	Drama	War	
+1978	77651	Halloween, la nuit des masques	Horror	Thriller	
+1978	77369	Le convoi	Action	Drama	
+1978	77578	Drôle d'embrouille	Comedy	Mystery	Thriller
+1978	78446	Faut trouver le joint	Comedy	Music	
+1978	77928	Midnight Express	Biography	Crime	Drama
+1978	77362	Le retour	Drama	Romance	War
+1978	77699	Appelez-moi Docteur	Comedy	Drama	Romance
+1978	77745	L'invasion des profanateurs	Horror	Sci-Fi	
+1978	78444	La femme libre	Comedy	Drama	Romance
+1978	78504	The Wiz	Adventure	Family	Fantasy
+1978	77716	Château de rêves	Drama	Romance	Sport
+1978	77288	La cage aux folles	Comedy		
+1978	77531	F.I.S.T	Crime	Drama	Thriller
+1977	76759	La guerre des étoiles	Action	Adventure	Fantasy
+1977	75860	Rencontres du troisième type	Drama	Sci-Fi	
+1977	76729	Cours après moi shérif	Action	Comedy	
+1977	76095	Adieu, je reste	Comedy	Drama	Romance
+1977	76666	La fièvre du samedi soir	Drama	Music	
+1977	76618	Les aventures de Bernard et Bianca	Animation	Adventure	Comedy
+1977	75784	Un pont trop loin	Drama	History	War
+1977	76752	L'espion qui m'aimait	Action	Adventure	Thriller
+1977	76489	Oh, God!	Comedy	Fantasy	
+1977	76538	Peter et Elliott le dragon	Animation	Adventure	Comedy
+1977	75686	Annie Hall	Comedy	Romance	
+1977	78227	Les faux-durs	Comedy	Romance	Sport
+1977	76070	L'épreuve de force	Action	Crime	Thriller
+1977	76843	Le tournant de la vie	Drama	Romance	
+1977	76138	Héros	Comedy	Drama	
+1977	76141	Le grand frisson	Comedy	Mystery	
+1977	76009	L'exorciste II: L'hérétique	Horror		
+1977	75648	Les naufragés du 747	Action	Drama	Thriller
+1977	76723	La castagne	Comedy	Drama	Sport
+1977	77681	La colline a des yeux	Horror	Thriller	
+1976	75148	Rocky	Drama	Sport	
+1976	75265	Une étoile est née	Drama	Music	Romance
+1976	74119	Les hommes du président	Biography	Drama	History
+1976	74751	King Kong	Adventure	Horror	
+1976	74483	L'inspecteur ne renonce jamais	Action	Crime	Thriller
+1976	74174	La chouette équipe	Comedy	Drama	Family
+1976	75222	La dernière folie de Mel Brooks	Comedy		
+1976	75066	Quand la panthère rose s'emmêle	Comedy	Crime	
+1976	74285	Carrie au bal du diable	Horror		
+1976	75029	Josey Wales hors-la-loi	Western		
+1976	75314	Taxi Driver	Crime	Drama	
+1976	76054	Un vendredi dingue, dingue, dingue	Comedy	Family	Fantasy
+1976	74812	L'âge de cristal	Action	Sci-Fi	
+1976	74860	Marathon Man	Crime	Thriller	
+1976	74923	Ambulances tous risques	Comedy	Drama	
+1976	75629	Across the Great Divide	Family	Western	
+1976	75086	Lâche-moi les baskets	Comedy	Romance	
+1976	74906	Missouri Breaks	Drama	Western	
+1976	74539	La flûte à six schtroumpfs	Animation	Comedy	Family
+1976	74564	Gator	Action	Drama	Crime
+1975	73195	Les dents de la mer	Adventure	Drama	Thriller
+1975	73629	The Rocky Horror Picture Show	Comedy	Musical	
+1975	73486	Vol au-dessus d'un nid de coucou	Drama		
+1975	72890	Un après-midi de chien	Biography	Crime	Drama
+1975	73692	Shampoo	Comedy	Drama	
+1975	72081	Le retour de la panthère rose	Comedy	Crime	Mystery
+1975	73802	Les 3 jours du condor	Mystery	Thriller	
+1975	73026	Funny Lady	Biography	Comedy	Drama
+1975	72653	Le gang des chaussons aux pommes	Comedy	Family	Western
+1975	73941	Aloha, Bobby and Rose	Drama		
+1975	73496	The Other Side of the Mountain	Biography	Drama	Romance
+1975	73812	Tommy	Drama	Musical	
+1975	72610	La Liberté sauvage	Adventure	Drama	Family
+1975	73631	Rollerball	Action	Sci-Fi	Sport
+1975	73113	L'odyssée du Hindenburg	Adventure	Drama	History
+1975	73075	La kermesse des aigles	Adventure	Drama	
+1975	72951	La montagne ensorcelée	Adventure	Family	Fantasy
+1975	72848	Le jour du fléau	Drama	Thriller	
+1975	72737	L'évadé	Action	Adventure	Drama
+1975	73018	French Connection II	Action	Crime	Drama
+1974	71230	Le shérif est en prison	Comedy	Western	
+1974	72308	La tour infernale	Action	Drama	Thriller
+1974	72317	The Trial of Billy Jack	Action	Drama	Music
+1974	72431	Frankenstein junior	Comedy		
+1974	71455	Tremblement de terre	Action	Drama	Thriller
+1974	71562	Le parrain, 2ème partie	Crime	Drama	
+1974	71110	747 en péril	Action	Drama	Thriller
+1974	74797	The Life and Times of Grizzly Adams	Adventure	Family	Western
+1974	71571	La grande casse	Action	Crime	Drama
+1974	71206	Benji	Adventure	Family	Romance
+1974	71607	Le nouvel amour de coccinelle	Comedy	Family	Fantasy
+1974	72271	Massacre à la tronçonneuse	Horror		
+1974	71315	Chinatown	Drama	Mystery	Thriller
+1974	72288	Le canardeur	Comedy	Crime	Drama
+1974	71402	Un justicier dans la ville	Action	Crime	Drama
+1974	71807	L'homme au pistolet d'or	Action	Adventure	Thriller
+1974	71583	Faites-le avec les doigts	Comedy		
+1974	71788	Macon County Line	Action	Drama	Romance
+1974	71115	Alice n'est plus ici	Drama	Romance	
+1974	71524	Spéciale première	Comedy	Drama	Romance
+1973	70047	L'exorciste	Horror		
+1973	70735	L'arnaque	Comedy	Crime	Drama
+1973	69704	American Graffiti	Comedy	Drama	
+1973	70511	Papillon	Biography	Crime	Drama
+1973	70328	Vivre et laisser mourir	Action	Adventure	Thriller
+1973	70608	Robin des bois	Animation	Adventure	Comedy
+1973	70510	La barbe à papa	Comedy	Drama	
+1973	70666	Serpico	Biography	Crime	Drama
+1973	70034	Opération dragon	Action	Crime	Drama
+1973	70239	Jesus Christ Superstar	Drama	History	Musical
+1973	72281	Les trois mousquetaires	Action	Adventure	
+1973	70819	Une maîtresse dans les bras, une femme sur le dos	Comedy	Romance	
+1973	69947	Chacal	Crime	Drama	Thriller
+1973	68699	L'homme des hautes plaines	Mystery	Western	
+1973	69888	Class of '44	Drama		
+1973	69768	La bataille de la planète des singes	Action	Sci-Fi	
+1973	70016	Charlotte's Web	Animation	Family	Musical
+1973	69966	S.O.S. Black Guns	Crime	Drama	Action
+1973	70379	Mean streets - les rues chaudes	Crime	Drama	Thriller
+1973	70337	Les horizons perdus	Adventure	Drama	Fantasy
+1972	68646	Le parrain	Crime	Drama	
+1972	69113	L'aventure du Poséidon	Action	Adventure	Drama
+1972	68762	Jeremiah Johnson	Adventure	Drama	Western
+1972	68327	Cabaret	Drama	Musical	
+1972	68638	Guet-apens	Action	Crime	Thriller
+1972	70849	Le dernier Tango à Paris	Drama	Romance	
+1972	68612	Fritz le chat	Animation	Comedy	Drama
+1972	68341	Cosa Nostra	Crime	Drama	
+1972	68687	Le brise coeur	Comedy	Drama	Romance
+1972	69257	Les nouveaux exploits de Shaft	Action	Crime	Drama
+1972	68828	Lady Sings the Blues	Biography	Drama	Music
+1972	68408	La conquête de la planète des singes	Action	Sci-Fi	
+1972	68421	John Wayne et les cow-boys	Adventure	Drama	Western
+1972	68156	1776	Drama	Family	History
+1972	68909	L'homme de la Manche	Drama	Fantasy	Musical
+1972	68240	Avanti!	Comedy	Romance	
+1972	68833	La dernière maison sur la gauche	Horror	Thriller	
+1972	68284	Le vampire noir	Fantasy	Horror	Romance
+1972	68361	Le charme discret de la bourgeoisie	Comedy		
+1972	65750	La furia del Hombre Lobo	Horror		
+1971	66832	Billy Jack	Action	Drama	
+1971	67093	Un violon sur le toit	Drama	Family	Musical
+1971	66995	Les diamants sont éternels	Action	Adventure	Thriller
+1971	67328	La dernière séance	Drama		
+1971	66892	Ce plaisir qu'on dit charnel	Drama		
+1971	67217	L'hôpital	Comedy	Drama	Mystery
+1971	67991	Willard	Horror	Sci-Fi	
+1971	66817	L'apprentie sorcière	Animation	Adventure	Comedy
+1971	67810	Sweet Sweetback's Baadasssss Song	Crime	Drama	Thriller
+1971	67065	Les évadés de la planète des singes	Action	Sci-Fi	
+1971	67588	Un frisson dans la nuit	Thriller		
+1971	66830	The Big Doll House	Action	Drama	Thriller
+1971	67525	Le survivant	Action	Sci-Fi	Thriller
+1971	66831	Big Jake	Western		
+1971	66767	Le dossier Anderson	Action	Crime	Thriller
+1971	67770	Soleil rouge	Action	Western	
+1971	67992	Charlie et la chocolaterie	Family	Fantasy	Musical
+1971	66434	THX 1138	Drama	Sci-Fi	Thriller
+1971	67778	Le souffle au coeur	Comedy	Drama	
+1971	90928	Honey Britches	Comedy	Horror	Thriller
+1970	66011	Love Story	Drama	Romance	
+1970	65377	Airport	Action	Drama	Thriller
+1970	66026	M.A.S.H.	Comedy	Drama	War
+1970	66206	Patton	Biography	Drama	War
+1970	65421	Les aristochats	Animation	Adventure	Comedy
+1970	65988	Little Big Man	Adventure	Comedy	Drama
+1970	66319	La fille de Ryan	Drama	Romance	
+1970	66473	Tora! Tora! Tora!	Action	Drama	History
+1970	65528	Catch 22	Comedy	Drama	War
+1970	66195	La chouette et le pussycat	Comedy		
+1970	65916	Joe	Drama	Thriller	
+1970	65462	Le secret de la planète des singes	Action	Adventure	Sci-Fi
+1970	65482	Les boatniks - Du vent dans les voiles	Family	Comedy	
+1970	66774	Ann och Eve - de erotiska	Drama		
+1970	66181	Melinda	Comedy	Drama	Fantasy
+1970	66301	Rio Lobo	Adventure	Romance	War
+1970	65466	Orgissimo	Comedy	Drama	Music
+1970	65547	Chisum	Biography	Western	
+1970	66450	Appelez-moi Monsieur Tibbs	Crime	Drama	Mystery
+1970	65611	Darling Lili	Comedy	Drama	Musical
+1969	64115	Butch Cassidy et le Kid	Biography	Crime	Drama
+1969	64665	Macadam cowboy	Drama		
+1969	64276	Easy Rider	Adventure	Drama	
+1969	64418	Hello, Dolly!	Adventure	Comedy	Musical
+1969	64100	Bob et Carole et Ted et Alice	Comedy	Drama	Romance
+1969	64782	La kermesse de l'Ouest	Comedy	Drama	Musical
+1969	65126	100 dollars pour un shérif	Adventure	Drama	Western
+1969	64117	Fleur de cactus	Comedy	Romance	
+1969	64381	Goodbye Columbus	Comedy	Drama	Romance
+1969	64757	Au service secret de Sa Majesté	Action	Adventure	Thriller
+1969	65215	Virages	Action	Drama	Sport
+1969	65037	Pookie	Comedy	Drama	Romance
+1969	168192	The Stewardesses	Comedy	Drama	
+1969	64911	La cavale infernale	Action	Drama	
+1969	64041	L'arrangement	Drama	Romance	
+1969	64002	Alice's Restaurant	Comedy	Drama	Music
+1969	64639	Les naufragés de l'espace	Adventure	Drama	Sci-Fi
+1969	64169	Le clan des Siciliens	Crime	Drama	
+1969	64158	Che!	Biography	Drama	History
+1969	64155	Charro	Western		
+1968	62622	2001, l'odyssée de l'espace	Adventure	Sci-Fi	
+1968	63374	Drôle de couple	Comedy		
+1968	62765	Bullitt	Action	Crime	Mystery
+1968	63518	Roméo & Juliette	Drama	Romance	
+1968	63442	La planète des singes	Adventure	Sci-Fi	
+1968	63829	Les tiens, les miens, le nôtre	Comedy	Family	
+1968	63227	Le lion en hiver	Biography	Drama	History
+1968	63035	Les bérets verts	Drama	War	
+1968	63385	Oliver!	Drama	Family	Musical
+1968	62974	La vallée du bonheur	Family	Fantasy	Musical
+1968	63821	Il y a un homme dans le lit de maman	Comedy	Drama	Family
+1968	63801	Que faisiez-vous quand les lumières se sont éteintes?	Comedy		
+1968	64116	Il était une fois dans l'Ouest	Western		
+1968	63642	Star!	Biography	Comedy	Drama
+1968	63634	À plein tube	Comedy	Musical	
+1968	63775	Pancho Villa	War	Western	
+1968	63661	Sweet November	Comedy	Drama	Romance
+1968	63823	Yellow Submarine	Animation	Adventure	Comedy
+1968	62994	Funny Girl	Biography	Comedy	Drama
+1968	260434	Tricks of the Trade	Drama		
+1967	61852	Le livre de la jungle	Animation	Adventure	Family
+1967	61722	Le lauréat	Comedy	Drama	Romance
+1967	61735	Devine qui vient dîner?	Comedy	Drama	
+1967	61578	Les douze salopards	Action	Adventure	War
+1967	62430	La vallée des poupées	Drama	Music	Romance
+1967	62512	On ne vit que deux fois	Action	Adventure	Thriller
+1967	62376	Les anges aux poings serrés	Drama		
+1967	62362	Millie	Comedy	Musical	Romance
+1967	61439	Camelot	Adventure	Fantasy	Musical
+1967	61420	Le crédo de la violence	Action	Drama	Thriller
+1967	61811	Dans la chaleur de la nuit	Crime	Drama	Mystery
+1967	61834	Je suis curieuse	Drama		
+1967	61385	Pieds nus dans le parc	Comedy	Romance	
+1967	62467	Seule dans la nuit	Horror	Thriller	
+1967	61619	El Dorado	Drama	Romance	Western
+1967	61810	F comme Flint	Action	Adventure	Comedy
+1967	61796	Que vienne la nuit	Drama		
+1967	61584	L'extravagant docteur Dolittle	Adventure	Comedy	Family
+1967	61407	La mégère apprivoisée	Comedy	Drama	Romance
+1967	62472	La caravane de feu	Western		
+1966	60164	La bible	Drama		
+1966	60491	Hawaï	Drama		
+1966	60665	Un homme pour l'éternité	Biography	Drama	History
+1966	60640	Lt. Robin Crusoe, U.S.N.	Adventure	Comedy	Family
+1966	60921	Les Russes arrivent, les Russes arrivent	Comedy	War	
+1966	60472	Grand Prix	Drama	Sport	
+1966	60862	Les professionnels	Action	Adventure	Western
+1966	60086	Alfie, le dragueur	Comedy	Drama	
+1966	59557	Notre homme Flint	Action	Adventure	Comedy
+1966	60748	Nevada Smith	Western		
+1966	61189	Les anges sauvages	Action	Drama	Thriller
+1966	60897	Le retour des sept	Action	Western	
+1966	60196	Le bon, la brute et le truand	Western		
+1966	60232	La poursuite impitoyable	Crime	Drama	Thriller
+1966	61093	Trois sur un sofa	Comedy	Romance	
+1966	59563	Paradis hawaïen	Comedy	Musical	
+1966	59127	Dracula, prince des ténèbres	Horror		
+1966	60675	Masculin féminin	Drama	Romance	
+1966	60107	Andreï Roublev	Biography	Drama	History
+1966	60647	Made in U.S.A	Comedy	Crime	Mystery
+1965	59742	La mélodie du bonheur	Biography	Drama	Family
+1965	59113	Le docteur Jivago	Drama	Romance	War
+1965	59800	Opération Tonnerre	Action	Adventure	Thriller
+1965	59797	Ces merveilleux fous volants dans leurs drôles de machines	Adventure	Comedy	Family
+1965	59793	L'espion aux pattes de velours	Comedy	Crime	Family
+1965	59243	La grande course autour du monde	Action	Adventure	Comedy
+1965	59017	Cat Ballou	Comedy	Romance	Western
+1965	59903	Quoi de neuf, Pussycat?	Comedy		
+1965	59885	L'express du colonel von Ryan	Action	Adventure	War
+1965	59245	La plus grande histoire jamais contée	Biography	Drama	History
+1965	59674	Le chevalier des sables	Drama		
+1965	59037	Le Kid de Cincinnati	Drama		
+1965	59578	Et pour quelques dollars de plus	Western		
+1965	188550	Daytona Beach Weekend	Drama	Musical	
+1965	58920	The Art of Love	Comedy		
+1965	59740	Les quatre fils de Katie Elder	Western		
+1965	59309	Première victoire	Drama	War	
+1965	59250	Sur la piste de la grande caravane	Comedy	Western	
+1965	59224	La stripteaseuse effarouchée	Comedy	Musical	Romance
+1965	56585	Chatouille-moi	Comedy	Musical	Romance
+1964	58331	Mary Poppins	Comedy	Family	Fantasy
+1964	58385	My Fair Lady	Drama	Family	Musical
+1964	58150	Goldfinger	Action	Adventure	Thriller
+1964	57917	Les ambitieux	Drama	Romance	
+1964	58461	Pour une poignée de dollars	Western		
+1964	58182	Quatre garçons dans le vent	Comedy	Music	Musical
+1964	58743	Madame croque-maris	Comedy	Romance	
+1964	58708	La reine du Colorado	Biography	Comedy	Musical
+1964	58092	Grand méchant loup appelle	Adventure	Comedy	Romance
+1964	58586	Quand l'inspecteur s'emmêle	Comedy	Mystery	
+1964	59825	Le train	Thriller	War	
+1964	58329	Pas de printemps pour Marnie	Crime	Drama	Mystery
+1964	58725	L'amour en quatrième vitesse	Comedy	Musical	
+1964	58085	La chute de l'Empire romain	Drama	History	War
+1964	58437	L'outrage	Crime	Drama	Western
+1964	58534	L'homme à tout faire	Drama	Music	Musical
+1964	57227	Salut, les cousins	Comedy	Musical	Romance
+1964	154587	Les aventures de Yogi le nounours	Animation	Adventure	Comedy
+1964	57012	Docteur Folamour, ou: Comment j'ai appris à ne plus m'en faire et à aimer la bombe	Comedy		
+1964	58604	Soy Cuba	Drama	History	War
+1963	56937	Cléopâtre	Biography	Drama	History
+1963	57193	Un monde fou, fou, fou, fou	Action	Adventure	Comedy
+1963	57590	Tom Jones: de l'alcôve à la potence	Adventure	Comedy	History
+1963	57187	Irma la Douce	Comedy	Romance	
+1963	57076	Bons baisers de Russie	Action	Adventure	Thriller
+1963	57546	Merlin l'enchanteur	Animation	Adventure	Comedy
+1963	57518	Après lui, le déluge	Comedy	Sci-Fi	Family
+1963	56923	Charade	Comedy	Mystery	Romance
+1963	56891	Bye Bye Birdie	Comedy	Musical	
+1963	57115	La grande évasion	Adventure	Drama	History
+1963	56869	Les oiseaux	Drama	Horror	Mystery
+1963	57413	La panthère rose	Comedy	Crime	Romance
+1963	57634	Hôtel international	Drama		
+1963	57163	Le plus sauvage d'entre tous	Drama		
+1963	57372	Docteur Jerry et Mister Love	Comedy	Romance	Sci-Fi
+1963	56875	Blood Feast	Horror		
+1963	57129	La maison du diable	Horror		
+1963	57191	Blondes, brunes et rousses	Comedy	Musical	Romance
+1963	57580	The Three Stooges Go Around the World in a Daze	Comedy		
+1963	57038	Héros de Babylone	Adventure		
+1962	56085	La conquête de l'Ouest	Western		
+1962	56172	Lawrence d'Arabie	Adventure	Biography	Drama
+1962	56197	Le jour le plus long	Action	Drama	History
+1962	56095	Les enfants du capitaine Grant	Adventure	Family	Fantasy
+1962	55928	James Bond 007 contre Dr. No	Action	Adventure	Thriller
+1962	56262	Le marchand de fanfares	Comedy	Musical	Romance
+1962	56575	Un soupçon de vison	Comedy	Romance	
+1962	56700	Le monde merveilleux des contes de Grimm	Animation	Adventure	Biography
+1962	56059	Hatari!	Action	Adventure	Drama
+1962	56264	Les révoltés du Bounty	Adventure	Drama	History
+1962	56048	Gypsy, Venus de Broadway	Biography	Comedy	Drama
+1962	56193	Lolita	Crime	Drama	Romance
+1962	56579	The Three Stooges Meet Hercules	Comedy	Fantasy	
+1962	56687	Qu'est-il arrivé à Baby Jane?	Drama	Horror	Thriller
+1962	56556	Taras Bulba	Adventure	Drama	History
+1962	56526	La foire aux illusions	Musical	Romance	
+1962	56142	King Kong contre Godzilla	Action	Adventure	Fantasy
+1962	56023	Des filles... encore des filles	Comedy	Musical	
+1962	54890	Les quatre cavaliers de l'apocalypse	Drama	War	
+1962	56138	Un direct au coeur	Drama	Musical	Sport
+1961	55254	Les 101 dalmatiens	Animation	Adventure	Comedy
+1961	55614	West Side Story	Crime	Drama	Musical
+1961	54953	Les canons de Navarone	Action	Adventure	Drama
+1961	54847	Le Cid	Adventure	Biography	Drama
+1961	54594	Monte là-dessus	Comedy	Family	Sci-Fi
+1961	55100	Un pyjama pour deux	Comedy	Drama	Romance
+1961	55047	Le roi des rois	Biography	Drama	History
+1961	54759	Le rendez-vous de septembre	Comedy	Romance	
+1961	54885	Flower Drum Song	Comedy	Musical	Romance
+1961	54692	Sous le ciel bleu d'Hawaï	Comedy	Musical	
+1961	54649	Babes in Toyland	Comedy	Family	Fantasy
+1961	55471	La fièvre dans le sang	Drama	Romance	
+1961	55073	El Perdido	Drama	Romance	Western
+1961	55458	Snow White and the Three Stooges	Adventure	Comedy	Family
+1961	55018	Les innocents	Horror		
+1961	55304	La chambre des tortures	Drama	Horror	Mystery
+1961	55074	La dernière fois que j' ai vu Archie	Comedy	Romance	War
+1961	54632	L'année dernière à Marienbad	Drama	Mystery	
+1961	55572	Une femme est une femme	Comedy	Drama	Romance
+1961	55508	Trois femmes	Comedy	Drama	
+1960	54357	Les Robinsons des mers du sud	Adventure	Family	
+1960	54215	Psychose	Horror	Mystery	Thriller
+1960	54331	Spartacus	Adventure	Biography	Drama
+1960	53779	La dolce vita	Comedy	Drama	
+1960	53804	Exodus	Action	Drama	History
+1960	53604	La garçonnière	Comedy	Drama	Romance
+1960	53580	Alamo	Adventure	Drama	History
+1960	53622	La Vénus au vison	Drama		
+1960	54135	L'inconnu de Las Vegas	Comedy	Crime	Music
+1960	54367	La tête à l'envers	Comedy	Sport	
+1960	53841	Du haut de la terrasse	Drama	Romance	
+1960	53793	Elmer Gantry, le charlatan	Drama		
+1960	54188	Ne mangez pas les marguerites	Comedy	Family	Romance
+1960	54172	Pépé	Comedy	Musical	
+1960	54084	Piège à minuit	Drama	Mystery	Thriller
+1960	54483	Le monde de Suzie Wong	Drama	Romance	
+1960	54022	Le milliardaire	Comedy	Musical	Romance
+1960	53877	The Grass Is Greener	Comedy	Drama	Romance
+1960	54047	Les 7 mercenaires	Action	Adventure	Western
+1960	53716	Cendrillon aux grands pieds	Comedy	Family	Fantasy
+1959	52618	Ben-Hur	Adventure	Drama	History
+1959	53285	La belle au bois dormant	Animation	Family	Fantasy
+1959	53291	Certains l'aiment chaud	Comedy	Romance	
+1959	53143	Opération jupons	Comedy	Romance	War
+1959	53172	Confidences sur l'oreiller	Comedy	Romance	
+1959	52918	Mirage de la vie	Drama		
+1959	53318	Soudain l'été dernier	Drama	Mystery	Thriller
+1959	53125	La mort aux trousses	Adventure	Mystery	Thriller
+1959	53131	Au risque de se perdre	Drama		
+1959	53221	Rio Bravo	Action	Drama	Western
+1959	53290	Salomon et la reine de Saba	Drama	History	Romance
+1959	52561	Autopsie d'un meurtre	Crime	Drama	Mystery
+1959	53137	Le dernier rivage	Drama	Romance	Sci-Fi
+1959	52896	Un trou dans la tête	Comedy	Drama	
+1959	52948	Voyage au centre de la terre	Adventure	Family	Fantasy
+1959	52738	Le journal d'Anne Frank	Biography	Drama	Family
+1959	53183	La gloire et la peur	Action	Drama	War
+1959	53434	L'homme aux colts d'or	Western		
+1959	53334	La plus grande aventure de Tarzan	Action	Adventure	
+1959	53335	Tarzan, l'homme-singe	Action	Adventure	Romance
+1958	51383	Ma tante	Comedy	Drama	Romance
+1958	51459	La chatte sur un toit brûlant	Drama		
+1958	52415	Le bal des maudits	Action	Drama	War
+1958	52182	Tables séparées	Drama	Romance	
+1958	52365	Les Vikings	Action	Adventure	
+1958	51337	Le septième voyage de Sinbad	Action	Adventure	Family
+1958	50381	Les travaux d'Hercule	Adventure	Fantasy	
+1958	52357	Sueurs froides	Mystery	Romance	Thriller
+1958	51622	La mouche noire	Drama	Horror	Sci-Fi
+1958	52311	La soif du mal	Crime	Drama	Film-Noir
+1958	52275	Le combat mortel de Tarzan	Action	Adventure	
+1958	51380	L'attaque de la femme de 50 pieds	Horror	Sci-Fi	
+1958	51378	Ascenseur pour l'échafaud	Crime	Drama	Thriller
+1958	51792	Jalsaghar	Drama	Music	
+1958	50669	Maigret tend un piège	Crime	Drama	
+1957	50212	Le pont de la rivière Kwaï	Adventure	Drama	War
+1957	50933	Sayonara	Drama	Romance	
+1957	50839	Les plaisirs de l'enfer	Drama	Romance	
+1957	50798	Fidèle vagabond	Adventure	Drama	Family
+1957	50468	Règlement de comptes à O.K. Corral	Biography	Drama	Western
+1957	50379	L'adieu aux armes	Drama	Romance	War
+1957	50858	Orgueil et passion	Action	Adventure	Drama
+1957	51201	Témoin à charge	Crime	Drama	Mystery
+1957	50549	Une île au soleil	Drama	Romance	
+1957	50280	Frankenstein s'est échappé!	Horror	Sci-Fi	Thriller
+1957	50083	Douze hommes en colère	Drama		
+1957	50556	Le rock du bagne	Drama	Music	Musical
+1957	50530	I Was a Teenage Werewolf	Drama	Fantasy	Horror
+1957	51057	Tarzan et le safari perdu	Action	Adventure	
+1957	50302	The Delinquents	Drama		
+1957	48902	Teenage Thunder	Drama		
+1957	50251	Prisonnières des Martiens	Action	Family	Sci-Fi
+1957	50783	Les nuits de Cabiria	Drama		
+1957	51088	Contrebande au Caire	Crime	Drama	Film-Noir
+1957	50454	Un dénommé Squarcio	Drama	Romance	
+1956	49833	Les dix commandements	Adventure	Drama	
+1956	48960	Le tour du monde en 80 jours	Adventure	Comedy	Family
+1956	49261	Géant	Drama	Western	
+1956	49408	Le roi et moi	Biography	Drama	Musical
+1956	49314	Haute société	Comedy	Musical	Romance
+1956	49934	Guerre et paix	Drama	Romance	War
+1956	49474	L'homme au complet gris	Drama	Romance	War
+1956	49513	Moby Dick	Adventure	Drama	
+1956	49470	L'homme qui en savait trop	Drama	Thriller	
+1956	49593	Le trouillard du Far West	Action	Comedy	Music
+1956	49301	Hélène de Troie	Adventure	Drama	History
+1956	49578	The Opposite Sex	Comedy	Musical	Romance
+1956	49452	Le cavalier du crépuscule	Drama	Musical	Romance
+1956	49092	Le conquérant	Adventure	Biography	History
+1956	49682	Rock Around the Clock	Comedy	Music	Romance
+1956	49223	Planète interdite	Action	Adventure	Sci-Fi
+1956	49189	Et Dieu... créa la femme	Drama	Romance	
+1956	49367	Invitation à la danse	Animation	Fantasy	Musical
+1956	49782	Rodan	Adventure	Drama	Horror
+1956	48956	L'invaincu	Drama		
+1955	48280	La belle et le clochard	Animation	Adventure	Comedy
+1955	48380	Permission jusqu'à l'aube	Comedy	Drama	War
+1955	47860	Le cri de la victoire	Drama	Romance	War
+1955	48140	Blanches colombes et vilains messieurs	Comedy	Crime	Musical
+1955	48691	Les implacables	Western		
+1955	48605	7 ans de réflexion	Comedy	Romance	
+1955	47840	Artistes et modèles	Comedy	Musical	Romance
+1955	48728	La main au collet	Mystery	Romance	Thriller
+1955	48124	La pantoufle de verre	Fantasy	Musical	Romance
+1955	48283	La terre des pharaons	Adventure	Drama	History
+1955	48696	Tarantula	Horror	Sci-Fi	
+1955	48473	La complainte du sentier	Drama		
+1955	48308	Lola Montès	Biography	Drama	Romance
+1955	48021	Du rififi chez les hommes	Crime	Thriller	
+1955	47821	Femmes entre elles	Drama	Romance	
+1954	47396	Fenêtre sur cour	Mystery	Thriller	
+1954	47673	Noël blanc	Comedy	Musical	Romance
+1954	46672	Vingt mille lieues sous la mer	Adventure	Drama	Family
+1954	46899	Les gladiateurs	Action	Drama	History
+1954	46816	Ouragan sur le Caine	Drama	War	
+1954	47522	Une étoile est née	Drama	Musical	Romance
+1954	47296	Sur les quais	Crime	Drama	Thriller
+1954	46719	Bronco Apache	Western		
+1954	46834	La grande nuit de Casanova	Adventure	Comedy	
+1954	47034	Godzilla	Drama	Horror	Sci-Fi
+1954	47150	Richard Coeur de Lion	Adventure	History	Romance
+1954	46770	Voyage au-delà des vivants	Drama	History	Romance
+1954	47501	Sitting Bull	Western		
+1954	47230	Escadrille Panthère	Drama	War	
+1954	47190	Nettoyage par le vide	Crime	Drama	Film-Noir
+1954	47348	Le fantôme de la Rue Morgue	Crime	Horror	Mystery
+1954	47542	Je dois tuer	Crime	Drama	Film-Noir
+1954	47464	Le secret des Incas	Adventure		
+1954	47413	Le cavalier traqué	Western		
+1954	47123	Une femme qui s'affiche	Comedy	Romance	
+1953	46183	Les aventures de Peter Pan	Animation	Adventure	Family
+1953	46247	La tunique	Drama	History	
+1953	45793	Tant qu'il y aura des hommes	Drama	Romance	War
+1953	45888	L'homme au masque de cire	Horror		
+1953	46303	L'homme des vallées perdues	Drama	Western	
+1953	45810	Les hommes préfèrent les blondes	Comedy	Musical	Romance
+1953	45546	Le monstre des temps perdus	Adventure	Horror	Sci-Fi
+1953	46435	Titanic	Drama	History	Romance
+1953	46534	La guerre des mondes	Action	Sci-Fi	Thriller
+1953	46161	Les bérets rouges	Drama	War	
+1953	45737	Fort Bravo	Western		
+1953	46532	À l'assaut du Fort Clark	Romance	War	Western
+1953	45752	The Farmer Takes a Wife	Comedy	Musical	Romance
+1953	45512	Les révoltés de la Claire-Louise	Adventure	Crime	Thriller
+1953	46248	Robot Monster	Sci-Fi		
+1953	46521	Les vitelloni	Comedy	Drama	
+1953	46712	Anatahan	Drama	War	
+1953	46004	Le petit fugitif	Drama	Family	
+1953	45981	Quand tu liras cette lettre	Drama		
+1953	46478	Les contes de la lune vague après la pluie	Drama	Fantasy	War
+1952	44672	Sous le plus grand chapiteau du monde	Drama	Family	Romance
+1952	45162	Les neiges du Kilimandjaro	Adventure	Drama	Romance
+1952	44926	Moulin Rouge	Biography	Drama	Music
+1952	45061	L'homme tranquille	Comedy	Drama	Romance
+1952	44706	Le train sifflera trois fois	Action	Drama	Thriller
+1952	45152	Chantons sous la pluie	Comedy	Musical	Romance
+1952	45197	Robin des Bois et ses joyeux compagnons	Action	Adventure	Family
+1952	45339	Le monde lui appartient	Action	Adventure	History
+1952	44907	La vie de Jean Valjean	Adventure	Drama	History
+1952	44750	Invasion, U.S.A.	Drama	Sci-Fi	War
+1952	44837	Les feux de la rampe	Drama	Music	Romance
+1952	44608	L'intrépide	Comedy		
+1952	45274	Umberto D.	Drama		
+1952	44741	Vivre	Drama		
+1952	43686	Jeux interdits	Drama	War	
+1951	43949	Quo Vadis	Biography	Drama	History
+1951	44081	Un tramway nommé désir	Drama		
+1951	44079	L'inconnu du Nord-Express	Crime	Film-Noir	Thriller
+1951	43278	Un Américain à Paris	Drama	Musical	Romance
+1951	43338	Le gouffre aux chimères	Drama	Film-Noir	
+1951	43370	Call Me Mister	Musical		
+1951	43795	Meet Me After the Show	Comedy	Music	Musical
+1951	43882	Sur la Riviera	Comedy	Musical	
+1951	43912	Pékin-Express	Action	Drama	Film-Noir
+1951	43595	La flamme du passé	Comedy	Romance	
+1951	43265	La reine africaine	Adventure	Drama	Romance
+1951	43747	La Rivière de la mort	Western		
+1951	44103	Les contes d'Hoffmann	Fantasy	Music	Musical
+1951	44876	L'homme au complet blanc	Comedy	Drama	Sci-Fi
+1950	42332	Cendrillon	Animation	Family	Fantasy
+1950	42200	Annie, la reine du cirque	Biography	Comedy	Musical
+1950	42727	C'étaient des hommes	Drama		
+1950	42393	Destination... Lune!	Adventure	Drama	Sci-Fi
+1950	42788	Les forbans de la nuit	Crime	Film-Noir	Mystery
+1950	43044	Trois petits mots	Biography	Comedy	Musical
+1950	42447	Propre à rien	Comedy	Musical	Western
+1950	43150	Taxi, s'il vous plait	Comedy	Drama	Romance
+1950	42735	L'histoire des Miniver	Drama		
+1950	43116	La rue de la gaieté	Musical		
+1950	42376	L'esclave du gang	Crime	Drama	Film-Noir
+1950	42876	Rashômon	Crime	Drama	Mystery
+1950	42192	Ève	Drama		
+1949	41838	Samson et Dalila	Adventure	Drama	History
+1949	41163	Bastogne	Action	Drama	History
+1949	41507	Amour poste restante	Comedy	Musical	Romance
+1949	41673	Ma bonne amie Irma	Comedy	Musical	Romance
+1949	41746	L'héritage de la chair	Drama		
+1949	41767	Échec à Borgia	Adventure	Drama	History
+1949	41373	Boulevard des passions	Drama	Film-Noir	Romance
+1949	41165	Mamzelle Mitraillette	Comedy	Western	
+1949	41959	Le troisième homme	Film-Noir	Mystery	Thriller
+1949	41800	Rendez-vous de juillet	Comedy	Drama	
+1948	40725	Les chaussons rouges	Drama	Music	Romance
+1948	40806	La fosse aux serpents	Drama	Mystery	
+1948	40308	Parade de printemps	Musical	Romance	
+1948	40897	Le trésor de la Sierra Madre	Adventure	Drama	Western
+1948	40068	Deux nigauds contre Frankenstein	Comedy	Fantasy	Horror
+1948	40694	Le pirate	Adventure	Comedy	Musical
+1948	40798	L'homme aux lunettes d'écaille	Drama	Film-Noir	Mystery
+1948	40869	La dame au manteau d'hermine	Comedy	Fantasy	Musical
+1948	40109	Arc de triomphe	Drama	Romance	War
+1948	40522	Le voleur de bicyclette	Drama		
+1948	39220	Le gang des tueurs	Crime	Drama	Film-Noir
+1948	40338	Première désillusion	Drama	Film-Noir	Mystery
+1948	40682	Les parents terribles	Drama		
+1947	39391	Ambre	Adventure	Drama	History
+1947	39428	Les anneaux d'or	Adventure	Romance	War
+1947	39337	L'etoile des étoiles	Comedy	Fantasy	Musical
+1947	39776	En route vers Rio	Adventure	Comedy	Musical
+1947	39819	L'Extravagante Miss Pilgrim	Comedy	Musical	Romance
+1947	39628	Le Miracle sur la 34ème rue	Comedy	Drama	Family
+1947	39966	Vivre en paix	Drama	War	Comedy
+1947	39531	Mac Coy aux poings d'or	Drama		
+1947	39725	Possédée	Crime	Drama	Film-Noir
+1947	39286	Feux croisés	Crime	Drama	Film-Noir
+1947	39636	Le deuil sied à Électre	Drama		
+1947	39631	Monsieur Verdoux	Comedy	Crime	Drama
+1947	39739	Quai des Orfèvres	Crime	Drama	
+1947	39155	Antoine et Antoinette	Comedy	Drama	
+1947	40525	La dame de Shanghai	Crime	Drama	Film-Noir
+1947	40481	Il pleut toujours le dimanche	Crime	Drama	
+1946	38969	Mélodie du sud	Animation	Comedy	Family
+1946	36868	Les plus belles années de notre vie	Drama	Romance	War
+1946	38499	Duel au soleil	Drama	Romance	Western
+1946	38787	Les enchaînés	Drama	Film-Noir	Romance
+1946	38854	Le facteur sonne toujours deux fois	Crime	Drama	Film-Noir
+1946	39035	La pluie qui chante	Biography	Musical	
+1946	39111	Jody et le faon	Drama	Family	Western
+1946	38321	Badman's Territory	Western		
+1946	39041	Demain viendra toujours	Drama	Romance	War
+1946	39110	Sans réserve	Comedy	Romance	
+1946	38326	Le fils de Robin des Bois	Action	Adventure	Family
+1946	38369	Le dahlia bleu	Crime	Film-Noir	Mystery
+1946	39053	Two Guys from Milwaukee	Comedy		
+1946	38622	Humoresque	Drama	Music	Romance
+1946	38348	La belle et la bête	Drama	Fantasy	Romance
+1946	38824	Panique	Drama		
+1945	40603	Les fausses pudeurs	Drama		
+1945	37536	Les cloches de Sainte-Marie	Drama		
+1945	38239	Week-end au Waldorf	Comedy	Drama	Musical
+1945	37884	Le poison	Drama	Film-Noir	
+1945	39116	Ziegfeld Follies	Comedy	Musical	
+1945	38109	La maison du docteur Edwardes	Film-Noir	Mystery	Romance
+1945	37644	Dillinger, l'ennemi public n°1	Biography	Crime	Drama
+1945	37604	L'horloge	Drama	Romance	
+1945	37638	Détour	Crime	Drama	Film-Noir
+1944	36872	La route semée d'étoiles	Comedy	Drama	Music
+1944	37059	Le chant du Missouri	Comedy	Drama	Family
+1944	36775	Assurance sur la mort	Crime	Drama	Film-Noir
+1944	37465	Wilson	Biography	Drama	History
+1943	36430	This Is the Army	Comedy	Musical	War
+1943	35896	Pour qui sonne le glas	Adventure	Drama	History
+1943	36969	Jane Eyre	Drama	Romance	
+1943	35942	Girl Crazy	Comedy	Musical	Romance
+1943	35749	L'île aux plaisirs	Comedy	Musical	
+1943	36261	Le fantôme de l'opéra	Drama	Horror	Music
+1943	36406	Rosie l'endiablée	Musical		
+1943	35982	Hello Frisco, Hello	Comedy	Musical	Romance
+1943	34856	Les enfants d'Hitler	Drama	Romance	
+1943	36414	Le triomphe de Tarzan	Action	Adventure	War
+1943	36244	L'étrange incident	Drama	Western	
+1943	37219	The Return of the Vampire	Drama	Horror	
+1943	36055	Les rois de la blague	Comedy	Musical	
+1943	35753	Le corbeau	Crime	Drama	Mystery
+1942	34492	Bambi	Animation	Drama	Family
+1942	35093	Madame Miniver	Drama	Romance	War
+1942	35575	La glorieuse parade	Biography	Drama	Musical
+1942	35238	Prisonniers du passé	Drama	Romance	
+1942	35019	Uniformes et jupon court	Comedy	Romance	
+1942	34746	Pour moi et ma mie	Musical	Romance	War
+1942	34587	La féline	Fantasy	Horror	Thriller
+1942	34928	Le livre de la jungle	Action	Adventure	Family
+1942	35272	La folle histoire de Roxie Hart	Comedy	Crime	Romance
+1942	35447	To the Shores of Tripoli	Drama	Romance	War
+1942	34465	Les mille et une nuits	Action	Adventure	Comedy
+1942	35262	En route pour le Maroc	Adventure	Comedy	Family
+1942	34593	La pagode en flammes	Drama		
+1942	35746	Le commando frappe à l'aube	Drama	History	War
+1942	34583	Casablanca	Drama	Romance	War
+1942	34522	Le cygne noir	Action	Adventure	Drama
+1942	35151	Lune de miel mouvementée	Adventure	Comedy	Drama
+1942	33379	The Bashful Bachelor	Comedy		
+1942	35583	O toi ma charmante!	Comedy	Musical	Romance
+1942	34780	La maison de mes rêves	Comedy		
+1941	34167	Sergent York	Biography	Drama	History
+1941	33726	Franc jeu	Comedy	Crime	Drama
+1941	34248	Soupçons	Mystery	Thriller	
+1941	33436	Deux nigauds soldats	Comedy	Musical	War
+1941	34485	Débuts à Broadway	Comedy	Musical	Romance
+1941	33563	Dumbo, l'éléphant volant	Animation	Drama	Family
+1941	33467	Citizen Kane	Drama	Mystery	
+1941	34328	La femme aux deux visages	Comedy	Romance	
+1941	34091	Les secrets de Walt Disney	Animation	Comedy	Family
+1941	33957	No Greater Sin	Drama		
+1940	32910	Pinocchio	Animation	Comedy	Family
+1940	32455	Fantasia	Animation	Family	Fantasy
+1940	32273	La fièvre du pétrole	Adventure	Drama	Romance
+1940	32976	Rebecca	Drama	Mystery	Romance
+1940	32762	Le signe de Zorro	Action	Adventure	Romance
+1940	32484	Correspondant 17	Action	Romance	Thriller
+1940	33124	Swiss Family Robinson	Adventure		
+1940	33117	Suzanne et ses idées	Drama	Comedy	
+1940	32599	La dame du vendredi	Comedy	Drama	Romance
+1940	33152	Le voleur de Bagdad	Adventure	Family	Fantasy
+1940	33045	Rendez-vous	Comedy	Drama	Romance
+1940	32981	L'aventure d'une nuit	Comedy	Drama	Romance
+1940	32286	Brother Rat and a Baby	Comedy		
+1940	32551	Les raisins de la colère	Drama	History	
+1940	32575	Il épouse sa femme	Comedy		
+1940	32384	De Mayerling à Sarajevo	Drama		
+1939	31381	Autant en emporte le vent	Drama	History	Romance
+1939	32138	Le magicien d'Oz	Adventure	Family	Fantasy
+1939	31679	Mr. Smith au sénat	Comedy	Drama	
+1939	31455	Quasimodo	Drama	Horror	Romance
+1939	32143	Femmes	Comedy	Drama	
+1939	32007	Tarzan trouve un fils	Action	Adventure	Family
+1939	31725	Ninotchka	Comedy	Romance	
+1939	31983	La grande farandole	Biography	Drama	Musical
+1939	31252	Sur la piste des Mohawks	Drama	History	Romance
+1939	31397	Les voyages de Gulliver	Animation	Adventure	Comedy
+1939	31336	Quatre jeunes femmes	Drama	Romance	
+1939	31225	Femme ou démon	Comedy	Western	
+1939	31393	The Great Victor Herbert	Biography	Music	Musical
+1939	31996	Swanee River	Biography	Drama	Musical
+1939	31074	Balalaika	Musical	Romance	
+1939	31517	Judge Hardy and Son	Comedy		
+1939	31282	Divorcé malgré lui	Comedy	Drama	
+1939	32636	Invisible Stripes	Crime	Drama	Film-Noir
+1939	31012	On Dress Parade	Drama		
+1939	32963	Raffles, gentleman cambrioleur	Adventure	Comedy	Crime
+1938	30993	Vous ne l'emporterez pas avec vous	Comedy	Drama	Romance
+1938	29843	Les aventures de Robin des Bois	Action	Adventure	Romance
+1938	30637	Pygmalion	Comedy	Drama	Romance
+1938	30631	Le professeur Schnock	Comedy		
+1938	30651	Radio City Revels	Comedy	Musical	Romance
+1938	30643	Le quai des brumes	Crime	Drama	Romance
+1937	29583	Blanche Neige et les sept nains	Animation	Family	Fantasy
+1937	29516	Saratoga	Drama	Comedy	Romance
+1937	29606	Une étoile est née	Drama		
+1937	29347	Deanna et ses boys	Comedy	Drama	Music
+1937	29608	Stella Dallas	Drama	Romance	
+1937	29377	La vie privée du tribun	Biography	Drama	Romance
+1937	28739	Marie Walewska	Drama	History	Romance
+1937	28578	Annapolis Salute	Drama	Romance	
+1937	28950	La grande illusion	Drama	War	
+1937	29453	Pépé le Moko	Crime	Drama	Romance
+1937	28957	Green Fields	Comedy	Romance	
+1936	28373	Trois jeunes filles à la page	Comedy	Musical	Romance
+1936	28063	Tourbillon blanc	Comedy	Music	Romance
+1936	27690	L'enchanteresse	Drama	History	
+1936	27969	Soupe au lait	Comedy		
+1936	28683	Le roman de Marguerite Gautier	Drama	Romance	
+1936	27914	Loufoque et Cie	Comedy	Fantasy	Romance
+1936	27951	Mayerling	Drama	Romance	
+1936	28163	Red River Valley	Action	Music	Western
+1936	27977	Les temps modernes	Comedy	Drama	Family
+1936	27478	Le crime de Monsieur Lange	Comedy	Crime	Drama
+1935	27125	Le danseur du dessus	Comedy	Musical	Romance
+1935	26787	La femme de sa vie	Comedy	Romance	
+1935	27139	Tumbling Tumbleweeds	Western		
+1935	26720	Le cavalier miracle	Action	Comedy	Western
+1935	26071	Anna Karenine	Drama	Romance	
+1935	27200	Westward Ho	Drama	History	Western
+1935	26705	Le roman d'un chanteur	Drama	Musical	Romance
+1934	25316	New York - Miami	Comedy	Romance	
+1934	25907	L'île au trésor	Adventure	Family	
+1934	25617	Le voile des illusions	Drama	Romance	
+1934	25948	Viva Villa!	Biography	Western	
+1934	24961	Patte de chat	Comedy		
+1934	24894	Le chat noir	Adventure	Crime	Horror
+1934	25384	Let's Try Again	Drama		
+1933	24216	King Kong, la huitième merveille du monde	Adventure	Horror	Sci-Fi
+1933	23876	Cavalcade	Drama	Romance	War
+1933	24166	Je ne suis pas un ange	Comedy	Musical	Romance
+1933	24034	42ème rue	Comedy	Musical	Romance
+1933	24548	Lady Lou	Comedy	Drama	History
+1933	28755	Damaged Lives	Drama		
+1933	24593	Le fils de Kong	Adventure	Comedy	
+1933	24433	Peg o' My Heart	Drama	Romance	
+1933	24067	Going Hollywood	Musical	Romance	
+1933	24481	La reine Christine	Biography	Drama	History
+1933	24539	Secrets	Drama	Western	
+1932	23458	Shanghaï Express	Adventure	Drama	Romance
+1932	22854	Emma	Drama		
+1932	23241	Silence... on tourne!	Comedy	Family	Romance
+1932	22958	Grand Hôtel	Drama	Romance	
+1932	23238	La chasse du comte Zaroff	Action	Adventure	Thriller
+1932	22641	Comme tu me veux	Drama		
+1932	22660	La bête de la cité	Crime	Drama	Film-Noir
+1932	23293	Une soirée étrange	Comedy	Horror	Thriller
+1932	22877	Fanny	Comedy	Drama	
+1931	21884	Frankenstein	Drama	Horror	Sci-Fi
+1931	23196	Mata Hari	Crime	Drama	Romance
+1931	22453	La courtisane	Drama	Romance	
+1931	22001	L'inspiratrice	Drama	Romance	
+1931	22026	Kiki	Musical		
+1931	22100	M le maudit	Crime	Mystery	Thriller
+1931	21749	Les lumières de la ville	Comedy	Drama	Romance
+1930	21483	Tom Sawyer	Adventure	Comedy	Drama
+1930	164686	Ingagi	Action	Adventure	Fantasy
+1930	20629	À l'ouest rien de nouveau	Drama	War	
+1930	20876	À la hauteur!	Comedy		
+1930	20641	Anna Christie	Drama	Romance	
+1930	21281	Raffles, gentleman cambrioleur	Adventure	Crime	Drama
+1930	20999	The Indians Are Coming	Western		
+1930	21310	Romance	Drama	Romance	
+1930	21106	Madame Satan	Musical	Romance	Comedy
+1930	20697	L'ange bleu	Drama	Music	
+1930	21577	L'âge d'or	Comedy	Drama	
+1929	20030	Le masque de fer	Adventure	Drama	History
+1929	20572	Quel phénomène!	Comedy		
+1929	19729	The Broadway Melody	Drama	Musical	Romance
+1929	20479	La mégère apprivoisée	Comedy	Romance	
+1929	20538	Indomptée	Drama		
+1929	20410	Le droit d'aimer	Drama	Romance	
+1929	20589	Wild Orchids	Romance	Drama	
+1929	20062	The Kiss	Romance	Drama	
+1929	19776	Têtes brûlées	Comedy	Musical	
+1929	20198	L'île mystérieuse	Adventure	Romance	Sci-Fi
+1929	18737	Loulou	Crime	Drama	Romance
+1928	19388	Le fou chantant	Musical	Drama	
+1928	19332	The Road to Ruin	Drama		
+1928	20223	L'arche de Noé	Drama	War	
+1928	19096	Lights of New York	Crime	Drama	
+1928	19344	Faiblesse humaine	Drama		
+1928	19563	Le talion	Drama	Mystery	
+1928	19591	Intrigues	Drama		
+1928	19237	Les nouvelles vierges	Drama		
+1928	19195	La belle ténébreuse	Drama	Romance	
+1928	18836	The Divine Woman	Drama	Romance	
+1928	19254	La passion de Jeanne d'Arc	Biography	Drama	History
+1927	18037	Le chanteur de jazz	Drama	Music	Musical
+1927	18578	Les ailes	Drama	Romance	War
+1927	18183	La petite vendeuse	Comedy	Romance	
+1927	18054	Le roi des rois	Biography	Drama	History
+1927	18379	L'heure suprême	Drama	Romance	
+1927	17136	Metropolis	Drama	Sci-Fi	
+1927	18038	L'insurgé	Western		
+1927	17750	Chicago	Comedy	Crime	Drama
+1927	18107	Anna Karenine	Drama	Romance	
+1927	18566	Le roman de Manon	History	Romance	
+1927	19553	Quand la chair succombe	Drama		
+1927	18526	Les nuits de Chicago	Crime	Drama	Film-Noir
+1927	18051	Le petit frère	Comedy	Drama	Family
+1927	18129	La flamme d'amour	Drama		
+1927	18515	Two Arabian Knights	Comedy	Romance	Adventure
+1927	18113	Sunya	Drama		
+1927	18118	The Loves of Carmen	Drama	Romance	
+1927	17860	Le bel âge	Comedy		
+1927	18211	Now We're in the Air	Comedy		
+1927	18179	Monsieur Wu	Drama	Romance	

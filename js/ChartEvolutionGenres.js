@@ -121,7 +121,7 @@ export default class ChartEvolutionGenres {
 			})
 			.entries(audiencesData)
 			.filter(function(e) {
-				return ((new Date(e.key) >= new Date('1940')) && (new Date(e.key) <= new Date('2019')));
+				return ((new Date(e.key) >= new Date('1940')) && (new Date(e.key) <= new Date('2020')));
 			})
 			.sort(function(a, b) {
 				return new Date(a.key) - new Date(b.key);
@@ -133,8 +133,6 @@ export default class ChartEvolutionGenres {
 	    		audiencesData: that.audiencesData[i]
 	    	}
 	    });
-
-		console.log(this.oscarsData, this.audiencesData, this.combinedData);
 
 		this.colorWinner = options.colors.colorWinner;
 		this.colorNominee = options.colors.colorNominee;
